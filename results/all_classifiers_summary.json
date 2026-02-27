@@ -1,0 +1,82 @@
+{
+  "Logistic Regression": {
+    "train_metrics": {
+      "hamming_loss": 0.09442001099505222,
+      "accuracy": 0.6844420010995053,
+      "f1_micro": 0.8755209277042942,
+      "f1_macro": 0.87417807262848,
+      "f1_samples": 0.8075918217754391,
+      "precision_micro": 0.9062265566391597,
+      "recall_micro": 0.8468279004556607
+    },
+    "val_metrics": {
+      "hamming_loss": 0.33,
+      "accuracy": 0.2225,
+      "f1_micro": 0.5816164817749604,
+      "f1_macro": 0.5820715582058595,
+      "f1_samples": 0.47896428571428573,
+      "precision_micro": 0.590032154340836,
+      "recall_micro": 0.5734375
+    }
+  },
+  "Random Forest": {
+    "train_metrics": {
+      "hamming_loss": 0.0,
+      "accuracy": 1.0,
+      "f1_micro": 1.0,
+      "f1_macro": 1.0,
+      "f1_samples": 1.0,
+      "precision_micro": 1.0,
+      "recall_micro": 1.0
+    },
+    "val_metrics": {
+      "hamming_loss": 0.37125,
+      "accuracy": 0.13,
+      "f1_micro": 0.4658273381294964,
+      "f1_macro": 0.4637492926396826,
+      "f1_samples": 0.3237857142857143,
+      "precision_micro": 0.548728813559322,
+      "recall_micro": 0.4046875
+    }
+  },
+  "MLP": {
+    "train_metrics": {
+      "hamming_loss": 0.2981033534909291,
+      "accuracy": 0.24463991203958219,
+      "f1_micro": 0.5811932805560919,
+      "f1_macro": 0.5780012707961515,
+      "f1_samples": 0.46766931071494017,
+      "precision_micro": 0.6470335339638865,
+      "recall_micro": 0.5275148966000701
+    },
+    "val_metrics": {
+      "hamming_loss": 0.410625,
+      "accuracy": 0.105,
+      "f1_micro": 0.4251968503937008,
+      "f1_macro": 0.42380093095145704,
+      "f1_samples": 0.3257857142857143,
+      "precision_micro": 0.4831013916500994,
+      "recall_micro": 0.3796875
+    }
+  },
+  "Gradient Boosting": {
+    "train_metrics": {
+      "hamming_loss": 0.13056624518966464,
+      "accuracy": 0.5233644859813084,
+      "f1_micro": 0.8042044517724649,
+      "f1_macro": 0.8011355495022466,
+      "f1_samples": 0.6432655305112699,
+      "precision_micro": 0.9759879939969985,
+      "recall_micro": 0.6838415702769015
+    },
+    "val_metrics": {
+      "hamming_loss": 0.3825,
+      "accuracy": 0.0725,
+      "f1_micro": 0.3952569169960474,
+      "f1_macro": 0.39228563766527186,
+      "f1_samples": 0.2512142857142857,
+      "precision_micro": 0.5376344086021505,
+      "recall_micro": 0.3125
+    }
+  }
+}

@@ -1,0 +1,2 @@
+dataset,total_questions,total_topics,total_documents,avg_event_length,avg_option_length,avg_doc_length,avg_docs_per_topic,mean_context_similarity,mean_event_options_similarity,avg_correct_sim,avg_incorrect_sim,distractor_diff
+sample_data,200,10,164,11.68,10.22875,32.8780487804878,16.4,0.11339211830120309,0.041405675458185895,0.18821815540249143,0.11128782405799054,0.07693033134450089

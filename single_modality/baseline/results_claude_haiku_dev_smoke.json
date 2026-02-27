@@ -1,0 +1,32 @@
+{
+  "config": {
+    "model_type": "anthropic",
+    "model_name": "claude-3-haiku-20240307",
+    "data_split": "dev",
+    "use_context": true,
+    "num_samples": 1
+  },
+  "results": {
+    "score": 0.0,
+    "exact_match_rate": 0.0,
+    "partial_match_rate": 0.0,
+    "wrong_rate": 1.0,
+    "total": 1,
+    "exact_match": 0,
+    "partial_match": 0,
+    "wrong": 1
+  },
+  "predictions": [
+    {
+      "id": "q-2020",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "The context documents do not mention the target event of \"President Yoon Suk Yeol vowing to carry out a thorough investigation.\" The given options also do not appear to be directly relevant to that event. Without any information about"
+    }
+  ]
+}

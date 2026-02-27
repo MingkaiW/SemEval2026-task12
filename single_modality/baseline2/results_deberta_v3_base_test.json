@@ -1,0 +1,7967 @@
+{
+  "config": {
+    "model_name": "h:\\Downloads\\SemevalTask12\\single_modality\\baseline2\\models\\deberta_v3_base",
+    "data_path": "h:\\Downloads\\SemevalTask12\\single_modality\\baseline2\\processed_data\\test\\roberta_mcqa.jsonl"
+  },
+  "results": {
+    "note": "测试集无标签"
+  },
+  "predictions": [
+    {
+      "id": "q-2420",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5866,
+        "B": 0.3634,
+        "C": 0.0005,
+        "D": 0.0495
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2421",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4218,
+        "B": 0.127,
+        "C": 0.1041,
+        "D": 0.347
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2422",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0224,
+        "B": 0.814,
+        "C": 0.1631,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2423",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.3766,
+        "B": 0.3013,
+        "C": 0.2478,
+        "D": 0.0743
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2424",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.959,
+        "C": 0.0,
+        "D": 0.0405
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2425",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0556,
+        "B": 0.018,
+        "C": 0.0162,
+        "D": 0.9102
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2426",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.9646,
+        "C": 0.0009,
+        "D": 0.0341
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2427",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1712,
+        "B": 0.4608,
+        "C": 0.347,
+        "D": 0.021
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2428",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.016,
+        "C": 0.88,
+        "D": 0.1037
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2429",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4115,
+        "B": 0.4115,
+        "C": 0.0314,
+        "D": 0.1455
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2430",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0276,
+        "B": 0.001,
+        "C": 0.9493,
+        "D": 0.0221
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2431",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.476,
+        "B": 0.0012,
+        "C": 0.476,
+        "D": 0.0469
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2432",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8603,
+        "B": 0.0026,
+        "C": 0.0685,
+        "D": 0.0685
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2433",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.001,
+        "B": 0.9983,
+        "C": 0.0007,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2434",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0091,
+        "B": 0.0175,
+        "C": 0.9643,
+        "D": 0.0091
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2435",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0033,
+        "B": 0.0327,
+        "C": 0.0146,
+        "D": 0.9494
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2436",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0042,
+        "B": 0.9877,
+        "C": 0.0076,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2437",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9844,
+        "B": 0.0005,
+        "C": 0.0076,
+        "D": 0.0076
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2438",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0014,
+        "B": 0.6524,
+        "C": 0.0086,
+        "D": 0.3376
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2439",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0754,
+        "B": 0.0125,
+        "C": 0.908,
+        "D": 0.0041
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2440",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0001,
+        "C": 0.9997,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2441",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.96,
+        "B": 0.0264,
+        "C": 0.013,
+        "D": 0.0006
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2442",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9966,
+        "B": 0.0009,
+        "C": 0.0,
+        "D": 0.0024
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2443",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6441,
+        "B": 0.3434,
+        "C": 0.0036,
+        "D": 0.0089
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2444",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.3727,
+        "C": 0.4432,
+        "D": 0.1838
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2445",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0067,
+        "B": 0.0005,
+        "C": 0.0,
+        "D": 0.9929
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2446",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.3262,
+        "B": 0.6522,
+        "C": 0.0209,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2447",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7954,
+        "B": 0.0114,
+        "C": 0.0199,
+        "D": 0.1733
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2448",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0044,
+        "B": 0.6287,
+        "C": 0.0098,
+        "D": 0.3572
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2449",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.9998,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2450",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0073,
+        "B": 0.098,
+        "C": 0.2639,
+        "D": 0.6308
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2451",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0073,
+        "B": 0.0029,
+        "C": 0.7094,
+        "D": 0.2804
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2452",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9939,
+        "B": 0.0031,
+        "C": 0.0026,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2453",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.9987,
+        "C": 0.0009,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2454",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9985,
+        "C": 0.0008,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2455",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9983,
+        "B": 0.0,
+        "C": 0.0005,
+        "D": 0.0012
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2456",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0017,
+        "B": 0.4774,
+        "C": 0.0435,
+        "D": 0.4774
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2457",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0493,
+        "B": 0.1569,
+        "C": 0.1569,
+        "D": 0.6369
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2458",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.31,
+        "B": 0.0029,
+        "C": 0.1373,
+        "D": 0.5498
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2459",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9997,
+        "B": 0.0002,
+        "C": 0.0001,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2460",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0076,
+        "B": 0.9049,
+        "C": 0.0437,
+        "D": 0.0437
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2461",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0007,
+        "C": 0.0002,
+        "D": 0.999
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2462",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.001,
+        "B": 0.0002,
+        "C": 0.0024,
+        "D": 0.9964
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2463",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0014,
+        "B": 0.9985,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2464",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.034,
+        "B": 0.0021,
+        "C": 0.1951,
+        "D": 0.7688
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2465",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0657,
+        "B": 0.0067,
+        "C": 0.9024,
+        "D": 0.0252
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2466",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8232,
+        "B": 0.0009,
+        "C": 0.1354,
+        "D": 0.0405
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2467",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7855,
+        "B": 0.199,
+        "C": 0.0133,
+        "D": 0.0022
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2468",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0244,
+        "B": 0.0007,
+        "C": 0.9473,
+        "D": 0.0275
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2469",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4943,
+        "B": 0.4943,
+        "C": 0.0041,
+        "D": 0.0073
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2470",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.936,
+        "B": 0.0361,
+        "C": 0.0272,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2471",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0006,
+        "B": 0.1005,
+        "C": 0.8344,
+        "D": 0.0646
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2472",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.3788,
+        "B": 0.0059,
+        "C": 0.2366,
+        "D": 0.3788
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2473",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.9994,
+        "C": 0.0005,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2474",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0,
+        "C": 0.0149,
+        "D": 0.985
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2475",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0139,
+        "B": 0.9171,
+        "C": 0.0576,
+        "D": 0.0114
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2476",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.3255,
+        "B": 0.0135,
+        "C": 0.2935,
+        "D": 0.3674
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2477",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9998,
+        "B": 0.0001,
+        "C": 0.0001,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2478",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0404,
+        "B": 0.0025,
+        "C": 0.1352,
+        "D": 0.822
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2479",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.0001,
+        "D": 0.9999
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2480",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2174,
+        "B": 0.1729,
+        "C": 0.173,
+        "D": 0.4367
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2481",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.29,
+        "B": 0.0329,
+        "C": 0.2433,
+        "D": 0.4337
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2482",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0009,
+        "B": 0.0092,
+        "C": 0.0005,
+        "D": 0.9894
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2483",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.9904,
+        "C": 0.0077,
+        "D": 0.0016
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2484",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.3822,
+        "B": 0.5999,
+        "C": 0.0001,
+        "D": 0.0178
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2485",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0044,
+        "B": 0.0094,
+        "C": 0.3573,
+        "D": 0.6289
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2486",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9996,
+        "B": 0.0001,
+        "C": 0.0003,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2487",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9356,
+        "B": 0.0142,
+        "C": 0.0387,
+        "D": 0.0116
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2488",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.009,
+        "B": 0.9669,
+        "C": 0.0183,
+        "D": 0.0058
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2489",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0,
+        "C": 0.9953,
+        "D": 0.0044
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2490",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0088,
+        "B": 0.3372,
+        "C": 0.0215,
+        "D": 0.6325
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2491",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1569,
+        "B": 0.6369,
+        "C": 0.1569,
+        "D": 0.0493
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2492",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9984,
+        "C": 0.0,
+        "D": 0.0015
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2493",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0088,
+        "B": 0.4599,
+        "C": 0.0715,
+        "D": 0.4599
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2494",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4206,
+        "B": 0.3175,
+        "C": 0.2536,
+        "D": 0.0083
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2495",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.3574,
+        "B": 0.1076,
+        "C": 0.4467,
+        "D": 0.0882
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2496",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0029,
+        "B": 0.0023,
+        "C": 0.0167,
+        "D": 0.9782
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2497",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.001,
+        "B": 0.9703,
+        "C": 0.0006,
+        "D": 0.028
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2498",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1943,
+        "B": 0.0203,
+        "C": 0.7771,
+        "D": 0.0082
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2499",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9394,
+        "B": 0.0116,
+        "C": 0.0348,
+        "D": 0.0142
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2500",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0278,
+        "B": 0.3835,
+        "C": 0.0001,
+        "D": 0.5886
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2501",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9248,
+        "B": 0.0072,
+        "C": 0.0559,
+        "D": 0.012
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2502",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0244,
+        "B": 0.8828,
+        "C": 0.0244,
+        "D": 0.0684
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2503",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0295,
+        "B": 0.0001,
+        "C": 0.9585,
+        "D": 0.0119
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2504",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0088,
+        "B": 0.4599,
+        "C": 0.4599,
+        "D": 0.0715
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2505",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9669,
+        "B": 0.0022,
+        "C": 0.0,
+        "D": 0.0309
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2506",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0012,
+        "B": 0.9541,
+        "C": 0.0001,
+        "D": 0.0446
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2507",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4341,
+        "B": 0.3622,
+        "C": 0.1626,
+        "D": 0.0411
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2508",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.3094,
+        "B": 0.008,
+        "C": 0.6092,
+        "D": 0.0734
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2509",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.002,
+        "B": 0.9776,
+        "C": 0.0076,
+        "D": 0.0127
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2510",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9985,
+        "B": 0.0011,
+        "C": 0.0003,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2511",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9937,
+        "B": 0.0,
+        "C": 0.0062,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2512",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9988,
+        "B": 0.0001,
+        "C": 0.0001,
+        "D": 0.0009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2513",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9984,
+        "B": 0.0,
+        "C": 0.0015,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2514",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9953,
+        "B": 0.0003,
+        "C": 0.0,
+        "D": 0.0044
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2515",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.9975,
+        "C": 0.0013,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2516",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0046,
+        "B": 0.0003,
+        "C": 0.995,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2517",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9974,
+        "B": 0.0021,
+        "C": 0.0001,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2518",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0093,
+        "B": 0.1636,
+        "C": 0.0283,
+        "D": 0.7988
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2519",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0086,
+        "C": 0.3338,
+        "D": 0.6573
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2520",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6303,
+        "B": 0.0021,
+        "C": 0.0094,
+        "D": 0.3581
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2521",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0118,
+        "B": 0.0214,
+        "C": 0.0551,
+        "D": 0.9116
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2522",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9955,
+        "B": 0.0044,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2523",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9922,
+        "B": 0.0009,
+        "C": 0.0,
+        "D": 0.0069
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2524",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0031,
+        "B": 0.9961,
+        "C": 0.0007,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2525",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1033,
+        "B": 0.821,
+        "C": 0.0562,
+        "D": 0.0195
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2526",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.88,
+        "B": 0.0894,
+        "C": 0.0168,
+        "D": 0.0139
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2527",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9752,
+        "B": 0.0051,
+        "C": 0.0186,
+        "D": 0.0011
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2528",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.325,
+        "B": 0.3785,
+        "C": 0.2944,
+        "D": 0.0021
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2529",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0405,
+        "B": 0.0009,
+        "C": 0.1354,
+        "D": 0.8232
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2530",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1947,
+        "B": 0.1947,
+        "C": 0.4158,
+        "D": 0.1947
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2531",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9195,
+        "B": 0.0011,
+        "C": 0.0342,
+        "D": 0.0452
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2532",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9964,
+        "C": 0.0024,
+        "D": 0.0011
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2533",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9977,
+        "C": 0.0,
+        "D": 0.0023
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2534",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.9998
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2535",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2151,
+        "B": 0.0002,
+        "C": 0.0121,
+        "D": 0.7726
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2536",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0069,
+        "B": 0.2629,
+        "C": 0.5948,
+        "D": 0.1355
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2537",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0038,
+        "B": 0.1685,
+        "C": 0.0023,
+        "D": 0.8253
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2538",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0091,
+        "B": 0.6484,
+        "C": 0.3337,
+        "D": 0.0088
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2539",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6457,
+        "B": 0.3328,
+        "C": 0.0039,
+        "D": 0.0177
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2540",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0159,
+        "B": 0.0009,
+        "C": 0.0053,
+        "D": 0.9779
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2541",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6303,
+        "B": 0.0021,
+        "C": 0.3581,
+        "D": 0.0094
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2542",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0121,
+        "B": 0.7725,
+        "C": 0.0003,
+        "D": 0.2151
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2543",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0164,
+        "B": 0.0027,
+        "C": 0.0121,
+        "D": 0.9688
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2544",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.8818,
+        "C": 0.0116,
+        "D": 0.1062
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2545",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0894,
+        "B": 0.0168,
+        "C": 0.0139,
+        "D": 0.88
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2546",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0012,
+        "B": 0.9983,
+        "C": 0.0005,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2547",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.428,
+        "B": 0.0145,
+        "C": 0.1294,
+        "D": 0.428
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2548",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.9909,
+        "C": 0.0057,
+        "D": 0.0034
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2549",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0657,
+        "B": 0.0252,
+        "C": 0.9024,
+        "D": 0.0067
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2550",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0006,
+        "B": 0.9961,
+        "C": 0.0017,
+        "D": 0.0016
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2551",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0774,
+        "B": 0.0774,
+        "C": 0.7677,
+        "D": 0.0774
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2552",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9977,
+        "B": 0.0002,
+        "C": 0.0011,
+        "D": 0.0009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2553",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0009,
+        "B": 0.3364,
+        "C": 0.0003,
+        "D": 0.6624
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2554",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0001,
+        "C": 0.0,
+        "D": 0.9999
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2555",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0015,
+        "B": 0.0002,
+        "C": 0.0,
+        "D": 0.9983
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2556",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0015,
+        "B": 0.9978,
+        "C": 0.0006,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2557",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9932,
+        "B": 0.0059,
+        "C": 0.0,
+        "D": 0.0009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2558",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9171,
+        "B": 0.0139,
+        "C": 0.0114,
+        "D": 0.0576
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2559",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9997,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2560",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2737,
+        "B": 0.008,
+        "C": 0.309,
+        "D": 0.4093
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2561",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1548,
+        "B": 0.2077,
+        "C": 0.1411,
+        "D": 0.4964
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2562",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0771,
+        "B": 0.1401,
+        "C": 0.6428,
+        "D": 0.1401
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2563",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.045,
+        "B": 0.1494,
+        "C": 0.4882,
+        "D": 0.3174
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2564",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0397,
+        "B": 0.0127,
+        "C": 0.9475,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2565",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9234,
+        "B": 0.0255,
+        "C": 0.0255,
+        "D": 0.0255
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2566",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9969,
+        "B": 0.0025,
+        "C": 0.0004,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2567",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0089,
+        "B": 0.7195,
+        "C": 0.1893,
+        "D": 0.0822
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2568",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9983,
+        "B": 0.0001,
+        "C": 0.0,
+        "D": 0.0016
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2569",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0015,
+        "B": 0.3926,
+        "C": 0.0033,
+        "D": 0.6026
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2570",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9612,
+        "B": 0.003,
+        "C": 0.0308,
+        "D": 0.005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2571",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0017,
+        "B": 0.0141,
+        "C": 0.8934,
+        "D": 0.0908
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2572",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0004,
+        "C": 0.9988,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2573",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.3784,
+        "B": 0.002,
+        "C": 0.3784,
+        "D": 0.2411
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2574",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.4197,
+        "B": 0.0999,
+        "C": 0.4801,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2575",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9962,
+        "B": 0.0035,
+        "C": 0.0003,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2576",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0009,
+        "B": 0.9988,
+        "C": 0.0,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2577",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0021,
+        "B": 0.6301,
+        "C": 0.358,
+        "D": 0.0098
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2578",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0007,
+        "C": 0.0029,
+        "D": 0.9961
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2579",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9999,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2580",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.3835,
+        "B": 0.5886,
+        "C": 0.0278,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2581",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0006,
+        "B": 0.0,
+        "C": 0.0007,
+        "D": 0.9987
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2582",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7967,
+        "B": 0.0022,
+        "C": 0.1626,
+        "D": 0.0385
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2583",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0127,
+        "B": 0.0015,
+        "C": 0.0076,
+        "D": 0.9781
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2584",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9634,
+        "B": 0.0125,
+        "C": 0.0226,
+        "D": 0.0015
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2585",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0076,
+        "B": 0.0154,
+        "C": 0.4885,
+        "D": 0.4885
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2586",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0116,
+        "B": 0.1062,
+        "C": 0.0006,
+        "D": 0.8816
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2587",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.695,
+        "B": 0.1364,
+        "C": 0.0052,
+        "D": 0.1634
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2588",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9963,
+        "B": 0.0005,
+        "C": 0.0021,
+        "D": 0.0012
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2589",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0012,
+        "B": 0.9986,
+        "C": 0.0002,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2590",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4535,
+        "B": 0.0575,
+        "C": 0.1664,
+        "D": 0.3225
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2591",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0001,
+        "C": 0.9987,
+        "D": 0.0011
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2592",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0043,
+        "B": 0.9653,
+        "C": 0.0084,
+        "D": 0.0219
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2593",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.3128,
+        "B": 0.3415,
+        "C": 0.3415,
+        "D": 0.0043
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2594",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0212,
+        "B": 0.5775,
+        "C": 0.0126,
+        "D": 0.3888
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2595",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9688,
+        "B": 0.0164,
+        "C": 0.0027,
+        "D": 0.0121
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2596",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1695,
+        "B": 0.0262,
+        "C": 0.5386,
+        "D": 0.2657
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2597",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1646,
+        "B": 0.0025,
+        "C": 0.0111,
+        "D": 0.8217
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2598",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0026,
+        "B": 0.9939,
+        "C": 0.0004,
+        "D": 0.0031
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2599",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.367,
+        "B": 0.0008,
+        "C": 0.0567,
+        "D": 0.5755
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2600",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7684,
+        "B": 0.0769,
+        "C": 0.0596,
+        "D": 0.095
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2601",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9985,
+        "B": 0.0001,
+        "C": 0.0007,
+        "D": 0.0008
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2602",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4004,
+        "B": 0.1199,
+        "C": 0.1354,
+        "D": 0.3443
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2603",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9837,
+        "B": 0.0122,
+        "C": 0.0016,
+        "D": 0.0024
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2604",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2355,
+        "B": 0.2355,
+        "C": 0.2355,
+        "D": 0.2936
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2605",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0021,
+        "B": 0.0028,
+        "C": 0.0973,
+        "D": 0.8977
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2606",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0002,
+        "C": 0.9545,
+        "D": 0.0451
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2607",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7885,
+        "B": 0.0008,
+        "C": 0.0007,
+        "D": 0.21
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2608",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.253,
+        "B": 0.0835,
+        "C": 0.6465,
+        "D": 0.0169
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2609",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9546,
+        "B": 0.0451,
+        "C": 0.0002,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2610",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.015,
+        "B": 0.9348,
+        "C": 0.0352,
+        "D": 0.015
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2611",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0596,
+        "B": 0.9287,
+        "C": 0.0076,
+        "D": 0.004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2612",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0568,
+        "B": 0.1896,
+        "C": 0.7333,
+        "D": 0.0203
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2613",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0001,
+        "C": 0.0004,
+        "D": 0.9994
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2614",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.3364,
+        "B": 0.0009,
+        "C": 0.0003,
+        "D": 0.6624
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2615",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9799,
+        "B": 0.0073,
+        "C": 0.0055,
+        "D": 0.0073
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2616",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0138,
+        "B": 0.4923,
+        "C": 0.0017,
+        "D": 0.4923
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2617",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9998,
+        "B": 0.0,
+        "C": 0.0001,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2618",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.2025,
+        "B": 0.3987,
+        "C": 0.3987,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2619",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0049,
+        "B": 0.6639,
+        "C": 0.0008,
+        "D": 0.3303
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2620",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0002,
+        "C": 0.9994,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2621",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.3573,
+        "B": 0.0094,
+        "C": 0.0044,
+        "D": 0.6289
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2622",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0115,
+        "B": 0.6654,
+        "C": 0.3116,
+        "D": 0.0115
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2623",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9978,
+        "B": 0.0004,
+        "C": 0.0004,
+        "D": 0.0013
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2624",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0105,
+        "B": 0.9066,
+        "C": 0.0283,
+        "D": 0.0546
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2625",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0186,
+        "B": 0.9764,
+        "C": 0.0019,
+        "D": 0.0031
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2626",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4599,
+        "B": 0.0088,
+        "C": 0.4599,
+        "D": 0.0715
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2627",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0674,
+        "B": 0.572,
+        "C": 0.1057,
+        "D": 0.2549
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2628",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5886,
+        "B": 0.0001,
+        "C": 0.0278,
+        "D": 0.3835
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2629",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0025,
+        "C": 0.0002,
+        "D": 0.9971
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2630",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0146,
+        "B": 0.0026,
+        "C": 0.4914,
+        "D": 0.4914
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2631",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9915,
+        "B": 0.0005,
+        "C": 0.0071,
+        "D": 0.0009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2632",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.4144,
+        "B": 0.0986,
+        "C": 0.0131,
+        "D": 0.474
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2633",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0057,
+        "B": 0.0215,
+        "C": 0.9547,
+        "D": 0.0181
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2634",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.111,
+        "B": 0.0104,
+        "C": 0.0137,
+        "D": 0.8649
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2635",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9997,
+        "C": 0.0003,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2636",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0012,
+        "B": 0.9986,
+        "C": 0.0001,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2637",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.0052,
+        "C": 0.0448,
+        "D": 0.9495
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2638",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9966,
+        "B": 0.0017,
+        "C": 0.0012,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2639",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9975,
+        "B": 0.0013,
+        "C": 0.0007,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2640",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0616,
+        "B": 0.0092,
+        "C": 0.0008,
+        "D": 0.9284
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2641",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1929,
+        "B": 0.279,
+        "C": 0.4817,
+        "D": 0.0464
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2642",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0572,
+        "B": 0.6046,
+        "C": 0.1117,
+        "D": 0.2265
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2643",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0016,
+        "B": 0.4923,
+        "C": 0.4923,
+        "D": 0.0138
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2644",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0006,
+        "B": 0.0005,
+        "C": 0.9709,
+        "D": 0.028
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2645",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5572,
+        "B": 0.0007,
+        "C": 0.442,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2646",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5426,
+        "B": 0.016,
+        "C": 0.3059,
+        "D": 0.1355
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2647",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0174,
+        "B": 0.003,
+        "C": 0.9795,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2648",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.0013,
+        "D": 0.9986
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2649",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9343,
+        "B": 0.0019,
+        "C": 0.0073,
+        "D": 0.0565
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2650",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9991,
+        "B": 0.0,
+        "C": 0.0008,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2651",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9939,
+        "B": 0.0,
+        "C": 0.006,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2652",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0022,
+        "B": 0.9968,
+        "C": 0.0005,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2653",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.031,
+        "B": 0.0,
+        "C": 0.969,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2654",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0009,
+        "B": 0.0341,
+        "C": 0.9646,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2655",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9999,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2656",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.776,
+        "C": 0.2234,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2657",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9998,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2658",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0035,
+        "B": 0.9927,
+        "C": 0.0007,
+        "D": 0.0032
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2659",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.9998
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2660",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0,
+        "C": 0.0014,
+        "D": 0.9984
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2661",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0271,
+        "B": 0.0034,
+        "C": 0.9677,
+        "D": 0.0019
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2662",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0876,
+        "B": 0.0135,
+        "C": 0.6203,
+        "D": 0.2785
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2663",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6411,
+        "B": 0.0503,
+        "C": 0.0301,
+        "D": 0.2785
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2664",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0181,
+        "B": 0.0304,
+        "C": 0.9497,
+        "D": 0.0018
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2665",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9996,
+        "B": 0.0002,
+        "C": 0.0001,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2666",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.0015,
+        "C": 0.9972,
+        "D": 0.0006
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2667",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.9649,
+        "C": 0.0341,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2668",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1695,
+        "B": 0.5386,
+        "C": 0.2657,
+        "D": 0.0262
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2669",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.028,
+        "B": 0.0005,
+        "C": 0.9705,
+        "D": 0.001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2670",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7353,
+        "B": 0.0004,
+        "C": 0.0007,
+        "D": 0.2637
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2671",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4659,
+        "B": 0.3918,
+        "C": 0.1233,
+        "D": 0.019
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2672",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.031,
+        "C": 0.0,
+        "D": 0.969
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2673",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5118,
+        "B": 0.0088,
+        "C": 0.2397,
+        "D": 0.2397
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2674",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9977,
+        "C": 0.0,
+        "D": 0.0023
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2675",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5648,
+        "B": 0.0142,
+        "C": 0.4187,
+        "D": 0.0023
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2676",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.9999
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2677",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9942,
+        "B": 0.0011,
+        "C": 0.0009,
+        "D": 0.0038
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2678",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1373,
+        "B": 0.0029,
+        "C": 0.31,
+        "D": 0.5498
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2679",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0078,
+        "B": 0.4103,
+        "C": 0.1717,
+        "D": 0.4103
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2680",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0296,
+        "C": 0.0001,
+        "D": 0.97
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2681",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9971,
+        "B": 0.0002,
+        "C": 0.0016,
+        "D": 0.0011
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2682",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7095,
+        "B": 0.0002,
+        "C": 0.0003,
+        "D": 0.29
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2683",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.959,
+        "B": 0.0012,
+        "C": 0.0327,
+        "D": 0.0071
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2684",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9968,
+        "B": 0.0016,
+        "C": 0.0002,
+        "D": 0.0013
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2685",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8908,
+        "B": 0.017,
+        "C": 0.0905,
+        "D": 0.0017
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2686",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4659,
+        "B": 0.2024,
+        "C": 0.171,
+        "D": 0.1607
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2687",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0064,
+        "B": 0.064,
+        "C": 0.6763,
+        "D": 0.2533
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2688",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0204,
+        "B": 0.1006,
+        "C": 0.1006,
+        "D": 0.7785
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2689",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0008,
+        "B": 0.7885,
+        "C": 0.0007,
+        "D": 0.21
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2690",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.565,
+        "B": 0.2658,
+        "C": 0.1499,
+        "D": 0.0194
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2691",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2934,
+        "B": 0.3238,
+        "C": 0.0057,
+        "D": 0.3771
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2692",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0107,
+        "B": 0.0016,
+        "C": 0.9869,
+        "D": 0.0008
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2693",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0106,
+        "B": 0.0001,
+        "C": 0.9859,
+        "D": 0.0033
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2694",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.4132,
+        "B": 0.0001,
+        "C": 0.4952,
+        "D": 0.0915
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2695",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0563,
+        "B": 0.0121,
+        "C": 0.0015,
+        "D": 0.9302
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2696",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0187,
+        "B": 0.0629,
+        "C": 0.2279,
+        "D": 0.6905
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2697",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.614,
+        "B": 0.0003,
+        "C": 0.3118,
+        "D": 0.0739
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2698",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1315,
+        "B": 0.0393,
+        "C": 0.7995,
+        "D": 0.0298
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2699",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9994,
+        "B": 0.0003,
+        "C": 0.0003,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2700",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4367,
+        "B": 0.173,
+        "C": 0.1729,
+        "D": 0.2174
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2701",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.006,
+        "B": 0.4924,
+        "C": 0.013,
+        "D": 0.4885
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2702",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0109,
+        "B": 0.022,
+        "C": 0.1665,
+        "D": 0.8006
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2703",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0029,
+        "C": 0.9967,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2704",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0201,
+        "B": 0.974,
+        "C": 0.0,
+        "D": 0.0059
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2705",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9669,
+        "B": 0.0,
+        "C": 0.0022,
+        "D": 0.0309
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2706",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0011,
+        "B": 0.9987,
+        "C": 0.0,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2707",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9983,
+        "B": 0.0003,
+        "C": 0.0009,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2708",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9997,
+        "C": 0.0001,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2709",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.993,
+        "B": 0.0,
+        "C": 0.0069,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2710",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0798,
+        "B": 0.0031,
+        "C": 0.3307,
+        "D": 0.5864
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2711",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0028,
+        "B": 0.0124,
+        "C": 0.0096,
+        "D": 0.9752
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2712",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0425,
+        "B": 0.0392,
+        "C": 0.2776,
+        "D": 0.6407
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2713",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6378,
+        "B": 0.0217,
+        "C": 0.1574,
+        "D": 0.1831
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2714",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9999,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2715",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0011,
+        "B": 0.796,
+        "C": 0.0001,
+        "D": 0.2028
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2716",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.3588,
+        "B": 0.5791,
+        "C": 0.0005,
+        "D": 0.0615
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2717",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0224,
+        "B": 0.0075,
+        "C": 0.0145,
+        "D": 0.9557
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2718",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9942,
+        "B": 0.0011,
+        "C": 0.0038,
+        "D": 0.0009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2719",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 1.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2720",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.9992,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2721",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0031,
+        "B": 0.9911,
+        "C": 0.0001,
+        "D": 0.0057
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2722",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0168,
+        "B": 0.9822,
+        "C": 0.001,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2723",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0013,
+        "B": 0.0022,
+        "C": 0.0893,
+        "D": 0.9072
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2724",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.3364,
+        "B": 0.0003,
+        "C": 0.6624,
+        "D": 0.0009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2725",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.9216,
+        "C": 0.0001,
+        "D": 0.078
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2726",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0107,
+        "B": 0.001,
+        "C": 0.9881,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2727",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0157,
+        "B": 0.0004,
+        "C": 0.0007,
+        "D": 0.9832
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2728",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0015,
+        "C": 0.6045,
+        "D": 0.3938
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2729",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0017,
+        "B": 0.0003,
+        "C": 0.998,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2730",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0036,
+        "B": 0.0973,
+        "C": 0.0017,
+        "D": 0.8974
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2731",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8382,
+        "B": 0.1112,
+        "C": 0.0013,
+        "D": 0.0492
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2732",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4432,
+        "B": 0.1838,
+        "C": 0.0003,
+        "D": 0.3727
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2733",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1593,
+        "B": 0.1593,
+        "C": 0.6724,
+        "D": 0.009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2734",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.3835,
+        "B": 0.0278,
+        "C": 0.0001,
+        "D": 0.5886
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2735",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.3277,
+        "B": 0.6013,
+        "C": 0.0709,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2736",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.027,
+        "C": 0.0275,
+        "D": 0.9448
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2737",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9531,
+        "B": 0.0185,
+        "C": 0.0008,
+        "D": 0.0275
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2738",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0251,
+        "B": 0.001,
+        "C": 0.0007,
+        "D": 0.9732
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2739",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.028,
+        "C": 0.6867,
+        "D": 0.2848
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2740",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.975,
+        "B": 0.025,
+        "C": 0.0,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2741",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.071,
+        "B": 0.7349,
+        "C": 0.0007,
+        "D": 0.1934
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2742",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.5575,
+        "C": 0.0528,
+        "D": 0.3896
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2743",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.9987,
+        "C": 0.0006,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2744",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0239,
+        "B": 0.0576,
+        "C": 0.0014,
+        "D": 0.9171
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2745",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0024,
+        "C": 0.0009,
+        "D": 0.9966
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2746",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1589,
+        "B": 0.0112,
+        "C": 0.1589,
+        "D": 0.6709
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2747",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.132,
+        "B": 0.8665,
+        "C": 0.0007,
+        "D": 0.0008
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2748",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0168,
+        "B": 0.0,
+        "C": 0.0023,
+        "D": 0.9809
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2749",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0986,
+        "B": 0.0409,
+        "C": 0.5552,
+        "D": 0.3054
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2750",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4117,
+        "B": 0.1724,
+        "C": 0.4117,
+        "D": 0.0042
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2751",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0023,
+        "B": 0.0581,
+        "C": 0.9084,
+        "D": 0.0312
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2752",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9598,
+        "B": 0.0,
+        "C": 0.0402,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2753",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0035,
+        "C": 0.9962,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2754",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0009,
+        "B": 0.6624,
+        "C": 0.3364,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2755",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0039,
+        "B": 0.9954,
+        "C": 0.0,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2756",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9999,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2757",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9927,
+        "B": 0.0007,
+        "C": 0.0032,
+        "D": 0.0035
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2758",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6019,
+        "B": 0.0126,
+        "C": 0.2966,
+        "D": 0.0889
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2759",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9995,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2760",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6359,
+        "B": 0.0035,
+        "C": 0.0216,
+        "D": 0.339
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2761",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9826,
+        "B": 0.0001,
+        "C": 0.0143,
+        "D": 0.003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2762",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0309,
+        "C": 0.9668,
+        "D": 0.0022
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2763",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0013,
+        "B": 0.0002,
+        "C": 0.0016,
+        "D": 0.9968
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2764",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9994,
+        "B": 0.0,
+        "C": 0.0003,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2765",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0005,
+        "C": 0.9989,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2766",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0178,
+        "B": 0.0001,
+        "C": 0.9753,
+        "D": 0.0068
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2767",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9846,
+        "B": 0.0153,
+        "C": 0.0,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2768",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0545,
+        "B": 0.9285,
+        "C": 0.0159,
+        "D": 0.001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2769",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9901,
+        "B": 0.0,
+        "C": 0.0001,
+        "D": 0.0098
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2770",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8974,
+        "B": 0.0306,
+        "C": 0.0654,
+        "D": 0.0067
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2771",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9951,
+        "B": 0.0001,
+        "C": 0.0046,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2772",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9965,
+        "B": 0.0002,
+        "C": 0.0025,
+        "D": 0.0009
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2773",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9961,
+        "C": 0.0039,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2774",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8726,
+        "B": 0.0886,
+        "C": 0.0017,
+        "D": 0.0371
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2775",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0001,
+        "C": 0.9997,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2776",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9991,
+        "C": 0.0008,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2777",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0023,
+        "B": 0.8253,
+        "C": 0.0038,
+        "D": 0.1685
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2778",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.3834,
+        "B": 0.5886,
+        "C": 0.0003,
+        "D": 0.0278
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2779",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.2875,
+        "B": 0.0183,
+        "C": 0.5393,
+        "D": 0.1548
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2780",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.213,
+        "B": 0.4347,
+        "C": 0.3478,
+        "D": 0.0046
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2781",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0439,
+        "B": 0.0076,
+        "C": 0.9084,
+        "D": 0.0401
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2782",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0396,
+        "B": 0.9384,
+        "C": 0.0009,
+        "D": 0.0211
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2783",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0016,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.9983
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2784",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0149,
+        "C": 0.0001,
+        "D": 0.985
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2785",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0021,
+        "B": 0.0011,
+        "C": 0.0038,
+        "D": 0.993
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2786",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0248,
+        "B": 0.7298,
+        "C": 0.2207,
+        "D": 0.0248
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2787",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0046,
+        "B": 0.0049,
+        "C": 0.3291,
+        "D": 0.6614
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2788",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9999,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2789",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9707,
+        "B": 0.0009,
+        "C": 0.0284,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2790",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0012,
+        "C": 0.0017,
+        "D": 0.9968
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2791",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0013,
+        "B": 0.0004,
+        "C": 0.0004,
+        "D": 0.9978
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2792",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.181,
+        "B": 0.181,
+        "C": 0.457,
+        "D": 0.181
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2793",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1528,
+        "B": 0.6684,
+        "C": 0.0177,
+        "D": 0.161
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2794",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9678,
+        "B": 0.002,
+        "C": 0.0227,
+        "D": 0.0076
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2795",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0675,
+        "B": 0.0303,
+        "C": 0.0303,
+        "D": 0.8719
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2796",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4103,
+        "B": 0.4103,
+        "C": 0.0078,
+        "D": 0.1717
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2797",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9583,
+        "B": 0.0128,
+        "C": 0.0128,
+        "D": 0.016
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2798",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.9899,
+        "C": 0.0001,
+        "D": 0.0098
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2799",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.3255,
+        "B": 0.2935,
+        "C": 0.0135,
+        "D": 0.3674
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2800",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1096,
+        "B": 0.7193,
+        "C": 0.1705,
+        "D": 0.0006
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2801",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0249,
+        "B": 0.9743,
+        "C": 0.0,
+        "D": 0.0008
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2802",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5571,
+        "B": 0.0009,
+        "C": 0.0001,
+        "D": 0.4419
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2803",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.0495,
+        "C": 0.3634,
+        "D": 0.5866
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2804",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.0008,
+        "C": 0.7885,
+        "D": 0.21
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2805",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0266,
+        "B": 0.9146,
+        "C": 0.0352,
+        "D": 0.0236
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2806",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0013,
+        "B": 0.0106,
+        "C": 0.0886,
+        "D": 0.8995
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2807",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0032,
+        "B": 0.598,
+        "C": 0.0178,
+        "D": 0.381
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2808",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.9999,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2809",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0013,
+        "B": 0.0038,
+        "C": 0.0003,
+        "D": 0.9946
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2810",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0277,
+        "B": 0.0024,
+        "C": 0.3826,
+        "D": 0.5873
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2811",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0055,
+        "B": 0.9822,
+        "C": 0.0107,
+        "D": 0.0016
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2812",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.9692,
+        "C": 0.0011,
+        "D": 0.0296
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2813",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0186,
+        "B": 0.0009,
+        "C": 0.9805,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2814",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0002,
+        "C": 0.0001,
+        "D": 0.9996
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2815",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4467,
+        "B": 0.1076,
+        "C": 0.0882,
+        "D": 0.3574
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2816",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4927,
+        "B": 0.0003,
+        "C": 0.4927,
+        "D": 0.0142
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2817",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0046,
+        "B": 0.9952,
+        "C": 0.0001,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2818",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.9962,
+        "C": 0.0031,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2819",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0057,
+        "B": 0.6054,
+        "C": 0.3857,
+        "D": 0.0032
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2820",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0219,
+        "B": 0.0146,
+        "C": 0.4167,
+        "D": 0.5469
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2821",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0225,
+        "B": 0.9576,
+        "C": 0.0124,
+        "D": 0.0075
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2822",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9983,
+        "B": 0.0,
+        "C": 0.0002,
+        "D": 0.0015
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2823",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0136,
+        "B": 0.1707,
+        "C": 0.7893,
+        "D": 0.0264
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2824",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.0157,
+        "C": 0.9835,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2825",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9204,
+        "B": 0.0779,
+        "C": 0.0002,
+        "D": 0.0015
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2826",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0025,
+        "C": 0.0004,
+        "D": 0.9969
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2827",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0002,
+        "C": 0.0,
+        "D": 0.9997
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2828",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0051,
+        "B": 0.3827,
+        "C": 0.0646,
+        "D": 0.5476
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2829",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6334,
+        "B": 0.1907,
+        "C": 0.0196,
+        "D": 0.1563
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2830",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.9981,
+        "C": 0.0017,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2831",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4734,
+        "B": 0.0367,
+        "C": 0.4734,
+        "D": 0.0165
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2832",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.9969,
+        "C": 0.0025,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2833",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2572,
+        "B": 0.0253,
+        "C": 0.0004,
+        "D": 0.7171
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2834",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0067,
+        "B": 0.0356,
+        "C": 0.9549,
+        "D": 0.0029
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2835",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0015,
+        "B": 0.0226,
+        "C": 0.9634,
+        "D": 0.0125
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2836",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.3654,
+        "B": 0.0169,
+        "C": 0.6059,
+        "D": 0.0119
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2837",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.3316,
+        "B": 0.0616,
+        "C": 0.5516,
+        "D": 0.0552
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2838",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4912,
+        "B": 0.0173,
+        "C": 0.0002,
+        "D": 0.4912
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2839",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0091,
+        "B": 0.6818,
+        "C": 0.1476,
+        "D": 0.1615
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2840",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.21,
+        "B": 0.0008,
+        "C": 0.7885,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2841",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2525,
+        "B": 0.031,
+        "C": 0.1131,
+        "D": 0.6034
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2842",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9276,
+        "B": 0.0004,
+        "C": 0.0708,
+        "D": 0.0012
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2843",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0614,
+        "B": 0.2892,
+        "C": 0.0001,
+        "D": 0.6492
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2844",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0017,
+        "C": 0.0003,
+        "D": 0.9979
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2845",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0052,
+        "B": 0.711,
+        "C": 0.1419,
+        "D": 0.1419
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2846",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0038,
+        "B": 0.0011,
+        "C": 0.0009,
+        "D": 0.9942
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2847",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0197,
+        "B": 0.9143,
+        "C": 0.0463,
+        "D": 0.0197
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2848",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.9985,
+        "C": 0.0004,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2849",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0199,
+        "B": 0.7954,
+        "C": 0.0114,
+        "D": 0.1733
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2850",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9999,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2851",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0023,
+        "B": 0.0007,
+        "C": 0.0029,
+        "D": 0.9941
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2852",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.0019,
+        "C": 0.9866,
+        "D": 0.0108
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2853",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9983,
+        "B": 0.0001,
+        "C": 0.0016,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2854",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0011,
+        "B": 0.7954,
+        "C": 0.0009,
+        "D": 0.2026
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2855",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1829,
+        "B": 0.0094,
+        "C": 0.1829,
+        "D": 0.6248
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2856",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0309,
+        "B": 0.9669,
+        "C": 0.0022,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2857",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0511,
+        "B": 0.0073,
+        "C": 0.0568,
+        "D": 0.8848
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2858",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.9976,
+        "C": 0.0008,
+        "D": 0.0011
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2859",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6179,
+        "B": 0.0172,
+        "C": 0.0182,
+        "D": 0.3467
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2860",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.0007,
+        "C": 0.0025,
+        "D": 0.9963
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2861",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2521,
+        "B": 0.0221,
+        "C": 0.0008,
+        "D": 0.725
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2862",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0006,
+        "B": 0.0002,
+        "C": 0.999,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2863",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0001,
+        "C": 0.9996,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2864",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.001,
+        "B": 0.679,
+        "C": 0.0006,
+        "D": 0.3194
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2865",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0049,
+        "B": 0.3303,
+        "C": 0.0008,
+        "D": 0.6639
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2866",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5493,
+        "B": 0.002,
+        "C": 0.4427,
+        "D": 0.0061
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2867",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5329,
+        "B": 0.0019,
+        "C": 0.4295,
+        "D": 0.0357
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2868",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0035,
+        "B": 0.9962,
+        "C": 0.0003,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2869",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9689,
+        "B": 0.0,
+        "C": 0.0001,
+        "D": 0.031
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2870",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0001,
+        "C": 0.9997,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2871",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0038,
+        "B": 0.9713,
+        "C": 0.0,
+        "D": 0.0249
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2872",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.0223,
+        "C": 0.1683,
+        "D": 0.809
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2873",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.001,
+        "B": 0.0117,
+        "C": 0.8696,
+        "D": 0.1178
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2874",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1389,
+        "B": 0.1727,
+        "C": 0.6806,
+        "D": 0.0078
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2875",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9975,
+        "B": 0.0023,
+        "C": 0.0002,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2876",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4841,
+        "B": 0.3231,
+        "C": 0.1482,
+        "D": 0.0446
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2877",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1241,
+        "B": 0.2071,
+        "C": 0.2635,
+        "D": 0.4053
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2878",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.021,
+        "B": 0.934,
+        "C": 0.0394,
+        "D": 0.0056
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2879",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.9977,
+        "C": 0.0001,
+        "D": 0.0017
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2880",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0016,
+        "B": 0.9983,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2881",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9832,
+        "B": 0.0016,
+        "C": 0.0097,
+        "D": 0.0055
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2882",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0089,
+        "B": 0.0401,
+        "C": 0.951,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2883",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.31,
+        "B": 0.1373,
+        "C": 0.5498,
+        "D": 0.0029
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2884",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5121,
+        "B": 0.0001,
+        "C": 0.0604,
+        "D": 0.4273
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2885",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.604,
+        "B": 0.0024,
+        "C": 0.3935,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2886",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5569,
+        "B": 0.0006,
+        "C": 0.4418,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2887",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0005,
+        "B": 0.0186,
+        "C": 0.9809,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2888",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0099,
+        "B": 0.551,
+        "C": 0.2253,
+        "D": 0.2138
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2889",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0008,
+        "B": 0.2521,
+        "C": 0.725,
+        "D": 0.0221
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2890",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4991,
+        "B": 0.0015,
+        "C": 0.0003,
+        "D": 0.4991
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2891",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4991,
+        "B": 0.4991,
+        "C": 0.0015,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2892",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.06,
+        "B": 0.0987,
+        "C": 0.0366,
+        "D": 0.8046
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2893",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9956,
+        "B": 0.0001,
+        "C": 0.0036,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2894",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0,
+        "C": 0.0011,
+        "D": 0.9987
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2895",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.0011,
+        "C": 0.9966,
+        "D": 0.0019
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2896",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0114,
+        "B": 0.2645,
+        "C": 0.6605,
+        "D": 0.0636
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2897",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0001,
+        "C": 0.995,
+        "D": 0.0046
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2898",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0016,
+        "B": 0.2253,
+        "C": 0.0248,
+        "D": 0.7482
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2899",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0043,
+        "B": 0.964,
+        "C": 0.0065,
+        "D": 0.0252
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2900",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6378,
+        "B": 0.1831,
+        "C": 0.0217,
+        "D": 0.1574
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2901",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.9977,
+        "C": 0.0015,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2902",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7334,
+        "B": 0.0097,
+        "C": 0.2209,
+        "D": 0.0361
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2903",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.9997,
+        "C": 0.0001,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2904",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5567,
+        "B": 0.0007,
+        "C": 0.0009,
+        "D": 0.4416
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2905",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9951,
+        "B": 0.0005,
+        "C": 0.0011,
+        "D": 0.0034
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2906",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9962,
+        "B": 0.0016,
+        "C": 0.0017,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2907",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.7995,
+        "B": 0.0298,
+        "C": 0.0393,
+        "D": 0.1315
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2908",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9867,
+        "B": 0.0,
+        "C": 0.0128,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2909",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0313,
+        "B": 0.9001,
+        "C": 0.0542,
+        "D": 0.0143
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2910",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0031,
+        "B": 0.0004,
+        "C": 0.0001,
+        "D": 0.9964
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2911",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0016,
+        "B": 0.0002,
+        "C": 0.9982,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2912",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9797,
+        "B": 0.0001,
+        "C": 0.0,
+        "D": 0.0202
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2913",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0125,
+        "B": 0.982,
+        "C": 0.0055,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2914",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0128,
+        "B": 0.9866,
+        "C": 0.0004,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2915",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.3955,
+        "B": 0.01,
+        "C": 0.0192,
+        "D": 0.5753
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2916",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0349,
+        "B": 0.679,
+        "C": 0.0021,
+        "D": 0.2841
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2917",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9994,
+        "B": 0.0003,
+        "C": 0.0003,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2918",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0542,
+        "B": 0.0435,
+        "C": 0.1331,
+        "D": 0.7692
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2919",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0051,
+        "B": 0.9764,
+        "C": 0.0031,
+        "D": 0.0154
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2920",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9982,
+        "B": 0.0004,
+        "C": 0.0007,
+        "D": 0.0008
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2921",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.986,
+        "C": 0.0016,
+        "D": 0.0122
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2922",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4801,
+        "B": 0.4801,
+        "C": 0.0015,
+        "D": 0.0382
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2923",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.571,
+        "B": 0.2474,
+        "C": 0.0056,
+        "D": 0.176
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2924",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0061,
+        "B": 0.4517,
+        "C": 0.4517,
+        "D": 0.0905
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2925",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1589,
+        "B": 0.0112,
+        "C": 0.1589,
+        "D": 0.6709
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2926",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0403,
+        "B": 0.1417,
+        "C": 0.6814,
+        "D": 0.1365
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2927",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0062,
+        "B": 0.0,
+        "C": 0.0003,
+        "D": 0.9935
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2928",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0041,
+        "B": 0.0009,
+        "C": 0.9611,
+        "D": 0.0339
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2929",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0006,
+        "B": 0.0,
+        "C": 0.9984,
+        "D": 0.001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2930",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.9999,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2931",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6559,
+        "B": 0.0005,
+        "C": 0.3332,
+        "D": 0.0105
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2932",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8719,
+        "B": 0.0303,
+        "C": 0.0303,
+        "D": 0.0675
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2933",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0189,
+        "B": 0.971,
+        "C": 0.0068,
+        "D": 0.0033
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2934",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0259,
+        "C": 0.0009,
+        "D": 0.9732
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2935",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9821,
+        "B": 0.004,
+        "C": 0.0006,
+        "D": 0.0133
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2936",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.2675,
+        "B": 0.1639,
+        "C": 0.508,
+        "D": 0.0606
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2937",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0,
+        "C": 0.0016,
+        "D": 0.9983
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2938",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.027,
+        "B": 0.9455,
+        "C": 0.0007,
+        "D": 0.0268
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2939",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.9997,
+        "C": 0.0,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2940",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0071,
+        "B": 0.7837,
+        "C": 0.2087,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2941",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.8247,
+        "B": 0.0034,
+        "C": 0.1715,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2942",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0076,
+        "B": 0.0005,
+        "C": 0.0009,
+        "D": 0.991
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2943",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5791,
+        "B": 0.3588,
+        "C": 0.0615,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2944",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.04,
+        "B": 0.9467,
+        "C": 0.0045,
+        "D": 0.0088
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2945",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.0175,
+        "C": 0.3468,
+        "D": 0.6353
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2946",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.015,
+        "B": 0.4922,
+        "C": 0.4922,
+        "D": 0.0006
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2947",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0065,
+        "B": 0.9748,
+        "C": 0.0009,
+        "D": 0.0178
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2948",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.2338,
+        "B": 0.4576,
+        "C": 0.0111,
+        "D": 0.2975
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2949",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.399,
+        "B": 0.0198,
+        "C": 0.054,
+        "D": 0.5272
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2950",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0067,
+        "B": 0.0009,
+        "C": 0.0001,
+        "D": 0.9923
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2951",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.0,
+        "C": 0.0002,
+        "D": 0.9991
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2952",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0013,
+        "B": 0.0016,
+        "C": 0.9968,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2953",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0182,
+        "B": 0.0216,
+        "C": 0.0009,
+        "D": 0.9593
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2954",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9965,
+        "C": 0.0029,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2955",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4364,
+        "B": 0.2632,
+        "C": 0.2918,
+        "D": 0.0086
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2956",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.045,
+        "B": 0.0002,
+        "C": 0.0024,
+        "D": 0.9525
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2957",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0256,
+        "B": 0.9381,
+        "C": 0.0115,
+        "D": 0.0247
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2958",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.1331,
+        "B": 0.0435,
+        "C": 0.0542,
+        "D": 0.7692
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2959",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5052,
+        "B": 0.0127,
+        "C": 0.3745,
+        "D": 0.1075
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2960",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0009,
+        "C": 0.9989,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2961",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1121,
+        "B": 0.0011,
+        "C": 0.7746,
+        "D": 0.1121
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2962",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9939,
+        "B": 0.0019,
+        "C": 0.0035,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2963",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0015,
+        "C": 0.0006,
+        "D": 0.9978
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2964",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1606,
+        "B": 0.3838,
+        "C": 0.0719,
+        "D": 0.3838
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2965",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9998,
+        "B": 0.0,
+        "C": 0.0,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2966",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.3929,
+        "B": 0.0015,
+        "C": 0.0024,
+        "D": 0.6031
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2967",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1131,
+        "B": 0.4374,
+        "C": 0.4374,
+        "D": 0.0121
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2968",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9998,
+        "B": 0.0001,
+        "C": 0.0,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2969",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.821,
+        "B": 0.0195,
+        "C": 0.0562,
+        "D": 0.1033
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2970",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6378,
+        "B": 0.0217,
+        "C": 0.1831,
+        "D": 0.1574
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2971",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0247,
+        "B": 0.9381,
+        "C": 0.0256,
+        "D": 0.0115
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2972",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0003,
+        "B": 0.0019,
+        "C": 0.0407,
+        "D": 0.9572
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2973",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0019,
+        "B": 0.0007,
+        "C": 0.9939,
+        "D": 0.0035
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2974",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9669,
+        "B": 0.0058,
+        "C": 0.009,
+        "D": 0.0183
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2975",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0222,
+        "B": 0.8067,
+        "C": 0.0033,
+        "D": 0.1678
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2976",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9493,
+        "B": 0.0132,
+        "C": 0.0323,
+        "D": 0.0052
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2977",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0009,
+        "B": 0.3768,
+        "C": 0.3768,
+        "D": 0.2455
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2978",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9212,
+        "B": 0.0557,
+        "C": 0.0216,
+        "D": 0.0015
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2979",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0,
+        "C": 0.9955,
+        "D": 0.0044
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2980",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0095,
+        "B": 0.821,
+        "C": 0.1539,
+        "D": 0.0156
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2981",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0484,
+        "B": 0.0014,
+        "C": 0.0008,
+        "D": 0.9493
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2982",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0352,
+        "B": 0.0001,
+        "C": 0.9503,
+        "D": 0.0144
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2983",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.3333,
+        "B": 0.3333,
+        "C": 0.3333,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2984",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.6627,
+        "B": 0.0003,
+        "C": 0.0005,
+        "D": 0.3366
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2985",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.9835,
+        "C": 0.0148,
+        "D": 0.0016
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2986",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.2134,
+        "B": 0.3173,
+        "C": 0.0908,
+        "D": 0.3785
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2987",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.2225,
+        "B": 0.5642,
+        "C": 0.0637,
+        "D": 0.1497
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2988",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.004,
+        "B": 0.9949,
+        "C": 0.0009,
+        "D": 0.0002
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2989",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5886,
+        "B": 0.3835,
+        "C": 0.0278,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2990",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.045,
+        "B": 0.9545,
+        "C": 0.0002,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2991",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.0251,
+        "C": 0.0,
+        "D": 0.9741
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2992",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0001,
+        "C": 0.9982,
+        "D": 0.0015
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2993",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0,
+        "C": 0.0012,
+        "D": 0.9987
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2994",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0567,
+        "B": 0.5755,
+        "C": 0.367,
+        "D": 0.0008
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2995",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9982,
+        "B": 0.0014,
+        "C": 0.0003,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2996",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.4991,
+        "B": 0.4991,
+        "C": 0.0015,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2997",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0011,
+        "C": 0.0001,
+        "D": 0.9988
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2998",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0488,
+        "B": 0.7724,
+        "C": 0.1683,
+        "D": 0.0106
+      },
+      "golden": null
+    },
+    {
+      "id": "q-2999",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.0,
+        "C": 0.0002,
+        "D": 0.9998
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3000",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9993,
+        "B": 0.0002,
+        "C": 0.0002,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3001",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0031,
+        "C": 0.9967,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3002",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9936,
+        "C": 0.0038,
+        "D": 0.0026
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3003",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0067,
+        "B": 0.0356,
+        "C": 0.9549,
+        "D": 0.0029
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3004",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0052,
+        "B": 0.9495,
+        "C": 0.0448,
+        "D": 0.0005
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3005",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0004,
+        "B": 0.0002,
+        "C": 0.9544,
+        "D": 0.045
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3006",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0034,
+        "B": 0.9553,
+        "C": 0.0147,
+        "D": 0.0267
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3007",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9999,
+        "C": 0.0001,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3008",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0031,
+        "C": 0.9964,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3009",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1737,
+        "B": 0.1719,
+        "C": 0.5512,
+        "D": 0.1033
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3010",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0076,
+        "B": 0.0227,
+        "C": 0.002,
+        "D": 0.9678
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3011",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0167,
+        "B": 0.9808,
+        "C": 0.0,
+        "D": 0.0024
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3012",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0378,
+        "B": 0.0138,
+        "C": 0.0338,
+        "D": 0.9145
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3013",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0217,
+        "B": 0.6378,
+        "C": 0.1831,
+        "D": 0.1574
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3014",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1902,
+        "B": 0.5675,
+        "C": 0.0102,
+        "D": 0.2321
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3015",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.1908,
+        "B": 0.0257,
+        "C": 0.7733,
+        "D": 0.0102
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3016",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0001,
+        "B": 0.0,
+        "C": 0.9996,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3017",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0368,
+        "B": 0.1115,
+        "C": 0.1344,
+        "D": 0.7173
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3018",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0011,
+        "B": 0.0661,
+        "C": 0.9075,
+        "D": 0.0253
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3019",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.1402,
+        "B": 0.5916,
+        "C": 0.1402,
+        "D": 0.1281
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3020",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9597,
+        "B": 0.0,
+        "C": 0.0402,
+        "D": 0.0001
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3021",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0016,
+        "B": 0.0001,
+        "C": 0.0125,
+        "D": 0.9858
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3022",
+      "prediction": [
+        "C"
+      ],
+      "probabilities": {
+        "A": 0.0007,
+        "B": 0.0012,
+        "C": 0.9977,
+        "D": 0.0004
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3023",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.9835,
+        "B": 0.0148,
+        "C": 0.0016,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3024",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.199,
+        "B": 0.0133,
+        "C": 0.0022,
+        "D": 0.7855
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3025",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.5742,
+        "B": 0.2814,
+        "C": 0.1383,
+        "D": 0.0061
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3026",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0,
+        "B": 0.9955,
+        "C": 0.0038,
+        "D": 0.0007
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3027",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.2265,
+        "B": 0.6945,
+        "C": 0.0787,
+        "D": 0.0003
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3028",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.9998,
+        "C": 0.0,
+        "D": 0.0
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3029",
+      "prediction": [
+        "D"
+      ],
+      "probabilities": {
+        "A": 0.0002,
+        "B": 0.0001,
+        "C": 0.0,
+        "D": 0.9997
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3030",
+      "prediction": [
+        "B"
+      ],
+      "probabilities": {
+        "A": 0.0025,
+        "B": 0.9917,
+        "C": 0.0004,
+        "D": 0.0054
+      },
+      "golden": null
+    },
+    {
+      "id": "q-3031",
+      "prediction": [
+        "A"
+      ],
+      "probabilities": {
+        "A": 0.313,
+        "B": 0.1424,
+        "C": 0.2317,
+        "D": 0.313
+      },
+      "golden": null
+    }
+  ]
+}

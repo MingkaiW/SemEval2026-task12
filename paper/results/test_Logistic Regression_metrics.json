@@ -1,0 +1,9 @@
+{
+  "hamming_loss": 0.4714052287581699,
+  "accuracy": 0.011437908496732025,
+  "f1_micro": 0.0,
+  "f1_macro": 0.0,
+  "f1_samples": 0.0,
+  "precision_micro": 0.0,
+  "recall_micro": 0.0
+}

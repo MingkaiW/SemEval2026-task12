@@ -1,0 +1,4971 @@
+{
+  "config": {
+    "fusion_method": "prompt",
+    "llm_model": "deepseek-chat",
+    "use_comet": true
+  },
+  "results": {
+    "note": "No labels available"
+  },
+  "predictions": [
+    {
+      "id": "q-2420",
+      "target_event": "The Crew Dragon, carried by a Falcon 9 rocket, reached orbit nine minutes after launch.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2421",
+      "target_event": "Former Syrian President Bashar al-Assad flees to Russia with his family.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2422",
+      "target_event": "Deputy Foreign Minister Ali Bagheri Kani was appointed acting foreign minister.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2423",
+      "target_event": "Former Syrian President Bashar al-Assad flees to Russia with his family.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2424",
+      "target_event": "Jordan intercepted missiles and drones entering its airspace during the attack.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2425",
+      "target_event": "The team paraded through the city on an open-air bus before security concerns led to the parade being suspended.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2426",
+      "target_event": "Police and rescue services evacuated people from homes and cars using helicopters and rubber boats.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2427",
+      "target_event": "Customers began rebooting systems, with some recovering operations.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2428",
+      "target_event": "The U.S. military, including two American destroyers, assisted in intercepting missiles.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2429",
+      "target_event": "1919 Food Bank staff coordinated with government contacts and helped set up evacuation centers in impacted areas.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2430",
+      "target_event": "Chang'e-5 raised a Chinese flag on the Moon.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2431",
+      "target_event": "The Spanish government decreed three days of official mourning.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2432",
+      "target_event": "The Iranian Red Crescent Society confirmed the deaths after finding no survivors at the site.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2433",
+      "target_event": "Hurley and Behnken named the Crew Dragon capsule \"Endeavour.\"",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2434",
+      "target_event": "One Palestinian man in the West Bank was killed by debris from the missile attack.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2435",
+      "target_event": "Activision Blizzard will file transaction materials with the SEC for shareholder review and approval.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2436",
+      "target_event": "Tens of thousands of people in Spain lost power due to the floods.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2437",
+      "target_event": "Survivors and volunteers are clearing dense mud, and organizations are distributing food and supplies.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2438",
+      "target_event": "Millions of Syrian refugees began lining up at Turkey’s border crossings to return home following the regime change.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2439",
+      "target_event": "Jeff Bezos gave the first Courage & Civility Award to Van Jones.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2440",
+      "target_event": "Authorities arrested 50 people for looting.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2441",
+      "target_event": "Supreme Leader Ayatollah Ali Khamenei declared five days of public mourning.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2442",
+      "target_event": "Orion separated from the upper stage nearly two hours after launch and began its journey to the moon.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2443",
+      "target_event": "Houthi forces in Yemen launched a missile toward Israel, which was intercepted by Israel’s missile defense system.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2444",
+      "target_event": "The missile attack included the use of new Fatah hypersonic ballistic missiles.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2445",
+      "target_event": "UN Secretary-General António Guterres and members of the Security Council extended condolences to Iran following the death of President Seyyed Ebrahim Raisi, Foreign Minister Hossein Amir-Abdollahian, and six others.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2446",
+      "target_event": "Major rail lines in the UK were closed on July 19 due to the heat.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2447",
+      "target_event": "Historic flash floods struck Spain on Tuesday and Wednesday, killing at least 205 people.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2448",
+      "target_event": "Webb completed deployment and tensioning of all five layers of the sunshield on January 4, 2022.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2449",
+      "target_event": "TSMC evacuated its production lines following the earthquake.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2450",
+      "target_event": "Emergency services and hospitals in several countries were affected by the outages, forcing some agencies to revert to paper-based operations.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2451",
+      "target_event": "The Israeli military announced the killing of senior Hezbollah intelligence member Hassan Khalil Yassin.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2452",
+      "target_event": "Israeli airstrikes on Saturday targeted areas near Beirut and Hezbollah weapons caches, resulting in at least 33 killed and 195 wounded, according to Lebanon’s health ministry.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2453",
+      "target_event": "Morocco became the first African country to reach the semi-finals of the FIFA World Cup.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2454",
+      "target_event": "Satellite imagery released by Maxar showed extensive areas in the Enga region covered in mud and debris.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2455",
+      "target_event": "1,656 firefighters are combating 10 active rural fires in Portugal, with more than 7,400 acres burned in Leiria and evacuations underway near forest fires in Palmela.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2456",
+      "target_event": "The Iranian Red Crescent Society confirmed the deaths after finding no survivors at the site.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2457",
+      "target_event": "Researchers used AlphaFold to identify the structure of a key malaria protein.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2458",
+      "target_event": "1,656 firefighters are combating 10 active rural fires in Portugal, with more than 7,400 acres burned in Leiria and evacuations underway near forest fires in Palmela.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2459",
+      "target_event": "A webcast regarding the transaction was held on January 18, 2022, with key executives participating.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2460",
+      "target_event": "Threads became the top free app on Apple’s App Store by Thursday morning.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2461",
+      "target_event": "Microsoft stated it will work to reshape Activision Blizzard’s work culture.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2462",
+      "target_event": "The Artemis I mission initiated a 25-day journey for Orion around the Moon and back to Earth.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2463",
+      "target_event": "The government declared a national holiday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2464",
+      "target_event": "Threads released its first iOS updates, adding features such as a translation button and new activity feed options.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2465",
+      "target_event": "Orion separated from the upper stage nearly two hours after launch and began its journey to the moon.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2466",
+      "target_event": "Biden, Harris, and former Presidents Obama, Bush, and Clinton with their spouses laid a wreath at the Tomb of the Unknown Soldier at Arlington National Cemetery.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2467",
+      "target_event": "Blue Origin’s booster landed vertically after flight.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2468",
+      "target_event": "The Chang’e 5 return capsule landed in Mongolia on December 16, 2020.",
+      "prediction": [
+        "A",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2469",
+      "target_event": "UN Secretary-General António Guterres called for maximum restraint from all actors, immediate cessation of hostilities, and adherence to UN Security Council resolution 1701.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2470",
+      "target_event": "Chang’e 5 launched from the lunar surface Dec. 3.",
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2471",
+      "target_event": "Satellite imagery released by Maxar showed extensive areas in the Enga region covered in mud and debris.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2472",
+      "target_event": "IAEA head Rafael Grossi led a minute of silence at a nuclear security conference in Vienna on Monday in honor of the victims.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2473",
+      "target_event": "An estimated 1,977 wildfires occurred across Europe by July 20.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2474",
+      "target_event": "The closure of the Suez Canal halted about 10% of global trade.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2475",
+      "target_event": "Insurgents entered Saydnaya military prison and freed prisoners.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2476",
+      "target_event": "Chang'e-5 raised a Chinese flag on the Moon.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2477",
+      "target_event": "Corey Comperatore was killed in the attack on Donald Trump.",
+      "prediction": [
+        "B",
+        "C",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2478",
+      "target_event": "Biden, Harris, and former Presidents Obama, Bush, and Clinton with their spouses laid a wreath at the Tomb of the Unknown Soldier at Arlington National Cemetery.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2479",
+      "target_event": "Donald Trump announced a campaign rally in Butler, Pennsylvania to honor Corey Comperatore and others injured.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2480",
+      "target_event": "AlphaFold released predicted structures for nearly all catalogued proteins, expanding the database from nearly 1 million to over 200 million structures.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2481",
+      "target_event": "Recovery crews secured the capsule.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2482",
+      "target_event": "One Palestinian man in the West Bank was killed by debris from the missile attack.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2483",
+      "target_event": "Customers will be able to book in-store appointments for demos and personalized fittings before purchasing the Vision Pro.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2484",
+      "target_event": "An international investigation was called for to hold perpetrators accountable for the mass explosions targeting electronic devices in Lebanon and Syria.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2485",
+      "target_event": "Ground teams received telemetry data from JWST five minutes after launch.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2486",
+      "target_event": "Jeff Bezos gave the first Courage & Civility Award to Van Jones.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2487",
+      "target_event": "Syrian army notified officers that Assad's rule had ended.",
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2488",
+      "target_event": "Two gunmen killed six people and injured 12 on a light-rail train in Jaffa.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2489",
+      "target_event": "Grant Wahl, an American journalist, died of a ruptured aortic aneurysm during the Argentina-Netherlands quarterfinal.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2490",
+      "target_event": "Lebanon, Iraq, and Syria declared three days of mourning after the airstrike.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2491",
+      "target_event": "The AlphaFold Protein Structure Database (AlphaFold DB) was launched to share predicted protein structures globally.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2492",
+      "target_event": "Police and rescue services evacuated people from homes and cars using helicopters and rubber boats.",
+      "prediction": [
+        "C",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2493",
+      "target_event": "Financial services, doctors' offices, and TV broadcasters were disrupted due to the outage.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2494",
+      "target_event": "Chang’e 5 launched from the lunar surface Dec. 3.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2495",
+      "target_event": "Insurgents entered Saydnaya military prison and freed prisoners.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2496",
+      "target_event": "President Trump and Vice President Pence attended the launch at Kennedy Space Center.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2497",
+      "target_event": "Some shipping companies rerouted vessels around the Cape of Good Hope due to the blockage.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2498",
+      "target_event": "Apple Vision Pro incorporates privacy features such as Optic ID iris authentication and local processing of sensitive data.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2499",
+      "target_event": "Russia granted asylum to Assad and his family.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2500",
+      "target_event": "At least nine landslides occurred on a major highway in Hualien, collapsing part of the road.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2501",
+      "target_event": "Apple announced that Disney+ and other applications will be available on Vision Pro at launch.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2502",
+      "target_event": "Researchers used AlphaFold to identify the structure of a key malaria protein.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2503",
+      "target_event": "Kurdish forces were driven out of Manbij by Arab-led opposition forces in the northeast.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2504",
+      "target_event": "Financial services, doctors' offices, and TV broadcasters were disrupted due to the outage.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2505",
+      "target_event": "Over 360,000 households in Taiwan lost power following the earthquake.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2506",
+      "target_event": "Microsoft Game Pass surpassed 25 million subscribers.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2507",
+      "target_event": "Jordan intercepted missiles and drones entering its airspace during the attack.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2508",
+      "target_event": "National Disaster Centre reported the updated death toll to the United Nations, surpassing initial estimates.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2509",
+      "target_event": "Apple said the headset will work with Microsoft Office apps and video conferencing services like WebEX and Zoom.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2510",
+      "target_event": "Raphael Warnock, Jon Ossoff, and Alex Padilla were sworn in as senators.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2511",
+      "target_event": "Argentina won the 2022 FIFA World Cup by defeating France in a penalty shootout.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2512",
+      "target_event": "The helicopter crash was caused by an unspecified technical failure, according to Iranian state media.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2513",
+      "target_event": "Emergency responders are searching for dozens of missing people.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2514",
+      "target_event": "Germany’s players protested by wearing rainbow colors on their boots and covering their mouths during a team photo.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2515",
+      "target_event": "Tribal violence killed eight people and destroyed 30 houses on Saturday in the affected area.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2516",
+      "target_event": "Blue Origin’s booster landed vertically after flight.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2517",
+      "target_event": "The U.K. Met Office issued its first-ever Red Extreme heat warning for Monday and Tuesday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2518",
+      "target_event": "Zuckerberg and Instagram head Adam Mosseri stated that Threads will remain ad-free for now, with monetization considered only after reaching one billion users.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2519",
+      "target_event": "The Papua New Guinea government formally requested international assistance from the United Nations on Sunday.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2520",
+      "target_event": "The James Webb Space Telescope separated from the rocket 27 minutes after launch at an altitude of approximately 870 miles.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2521",
+      "target_event": "Apple announced that Disney+ and other applications will be available on Vision Pro at launch.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2522",
+      "target_event": "Japan defeated Germany on November 23, 2022.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2523",
+      "target_event": "Supreme Leader Ayatollah Ali Khamenei announced First Vice President Mohammad Mokhber as interim president.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2524",
+      "target_event": "Meta CEO Mark Zuckerberg and Google CEO Sundar Pichai reacted to Apple’s announcement of the Vision Pro.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2525",
+      "target_event": "On January 18, 2022, Microsoft announced plans to acquire Activision Blizzard for $68.7 billion.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2526",
+      "target_event": "Google Cloud Compute Engine experienced outages as Windows virtual machines using CrowdStrike's csagent.sys crashed and rebooted unexpectedly.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2527",
+      "target_event": "CrowdStrike’s CEO, George Kurtz, confirmed that a defect in a content update for Windows hosts caused the outage.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2528",
+      "target_event": "On January 19, 2022, engineers finished deploying the individual mirror segments.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2529",
+      "target_event": "Biden signed 17 executive actions, including instituting a mask mandate for federal property, rejoining the Paris climate accord, and rescinding the travel ban from predominantly Muslim countries.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2530",
+      "target_event": "NASA launched the Artemis I mission to the Moon using the Space Launch System (SLS) rocket from Cape Canaveral, Florida, at 1:47 am Eastern Time on Wednesday.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2531",
+      "target_event": "Biden signed 17 executive actions, including instituting a mask mandate for federal property, rejoining the Paris climate accord, and rescinding the travel ban from predominantly Muslim countries.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2532",
+      "target_event": "The Artemis rocket carried the Orion crew capsule with mannequins but no astronauts.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2533",
+      "target_event": "Hualien’s mayor, Wei Chia-yen, set up a shelter for displaced residents within hours of the quake.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2534",
+      "target_event": "Emergency services gained access to all urban areas in Valencia.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2535",
+      "target_event": "At least 1,500 deaths have occurred in Europe due to the heatwave.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2536",
+      "target_event": "On January 19, 2022, engineers finished deploying the individual mirror segments.",
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2537",
+      "target_event": "Oliver Daemen, at 18, became the youngest person to fly in space and Blue Origin's first paying passenger.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2538",
+      "target_event": "JWST traveled to the Lagrange 2 (L2) point and entered a stable orbit after performing three mid-course correction maneuvers.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2539",
+      "target_event": "JWST unfolded its solar array about 30 minutes after launch, beginning to provide power to the observatory.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2540",
+      "target_event": "Taiwan Semiconductor Manufacturing Co. reported its facilities were not seriously damaged.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2541",
+      "target_event": "The James Webb Space Telescope separated from the rocket 27 minutes after launch at an altitude of approximately 870 miles.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2542",
+      "target_event": "At least 1,500 deaths have occurred in Europe due to the heatwave.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2543",
+      "target_event": "The capsule landed safely in the Texas desert using a parachute and retro-thrust system.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2544",
+      "target_event": "The Papua New Guinea government formally requested international assistance from the United Nations on Sunday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2545",
+      "target_event": "U.S. federal airspace officials announced a nationwide ground stop.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2546",
+      "target_event": "Over 1,000 people died from heat-related causes in Western Europe over the past week.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2547",
+      "target_event": "AlphaFold’s predicted structures were made available on UniProt pages and for bulk download via Google Cloud Public Datasets.",
+      "prediction": [
+        "A",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2548",
+      "target_event": "Israeli military conducted a strike on a Hezbollah leadership meeting in Lebanon on October 2.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2549",
+      "target_event": "Orion separated from the upper stage nearly two hours after launch and began its journey to the moon.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2550",
+      "target_event": "Investigations by Lebanese authorities found that the compromised devices were professionally tampered with and detonated by electronic messages before arriving in Lebanon.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2551",
+      "target_event": "Papua New Guinea’s defense minister and the National Disaster Center director traveled to Yambali by Australian military helicopter on Sunday and delivered a check for 500,000 kina to support displaced survivors.",
+      "prediction": [
+        "A",
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2552",
+      "target_event": "Artemis 1 is the first mission to use the Space Launch System rocket.",
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2553",
+      "target_event": "The first excavator arrived at the landslide site late Sunday.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2554",
+      "target_event": "The FBI found bomb-making materials in his car.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2555",
+      "target_event": "The government conducted nearly 270 rescues on Wednesday in Valencia.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2556",
+      "target_event": "Emergency services and hospitals in several countries were affected by the outages, forcing some agencies to revert to paper-based operations.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2557",
+      "target_event": "Iran fired 181 ballistic missiles at Israel on Tuesday night, targeting three military bases and an intelligence headquarters.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2558",
+      "target_event": "Former Syrian President Bashar al-Assad flees to Russia with his family.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2559",
+      "target_event": "Argentina lost its opening 2022 World Cup match to Saudi Arabia.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2560",
+      "target_event": "Chang’e 5 launched from the lunar surface Dec. 3.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2561",
+      "target_event": "Shares of CrowdStrike closed down 11%.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2562",
+      "target_event": "At least 64 people died in eastern and southern Spain after rainstorms caused flash floods on Tuesday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2563",
+      "target_event": "Behnken and Hurley returned to Earth and splashed down in the Gulf of Mexico on August 2.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2564",
+      "target_event": "The FBI identified the shooter as Thomas Matthew Crooks, 20, of Bethel Park, Pa.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2565",
+      "target_event": "AlphaFold predictions have been accessed by over 500,000 researchers.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2566",
+      "target_event": "Emergency workers began repairing dozens of damaged buildings and demolishing four buildings beyond repair in Hualien city.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2567",
+      "target_event": "Behnken and Hurley disembarked Crew Dragon and entered the ISS.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2568",
+      "target_event": "Shipping rates for petroleum products nearly doubled during the blockage.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2569",
+      "target_event": "Rescuers lost contact with over 50 workers traveling in four minibuses to a hotel in Taroko Gorge National Park.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2570",
+      "target_event": "CISA reported that threat actors exploited the incident for phishing and other malicious activity.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2571",
+      "target_event": "Financial services, doctors' offices, and TV broadcasters were disrupted due to the outage.",
+      "prediction": [
+        "C",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2572",
+      "target_event": "Over 250 homes were evacuated, displacing more than 1,250 people.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2573",
+      "target_event": "UN Secretary-General António Guterres called for maximum restraint from all actors, immediate cessation of hostilities, and adherence to UN Security Council resolution 1701.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2574",
+      "target_event": "Iran's government held an emergency meeting after Raisi's death.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2575",
+      "target_event": "Queen Elizabeth II was placed under medical supervision at Balmoral Castle.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2576",
+      "target_event": "Referee Stephanie Frappart became the first woman to officiate a men’s World Cup match.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2577",
+      "target_event": "Webb completed deployment and tensioning of all five layers of the sunshield on January 4, 2022.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2578",
+      "target_event": "Behnken and Hurley disembarked Crew Dragon and entered the ISS.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2579",
+      "target_event": "The Spanish government decreed three days of official mourning.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2580",
+      "target_event": "TSMC evacuated its production lines following the earthquake.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2581",
+      "target_event": "CrowdStrike’s CEO, George Kurtz, confirmed that a defect in a content update for Windows hosts caused the outage.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2582",
+      "target_event": "User traffic on Twitter slowed after Threads debuted.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2583",
+      "target_event": "Apple announced that the Apple Vision Pro will retail for $3,499 and be available in early 2024.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2584",
+      "target_event": "Apple announced that the Apple Vision Pro will retail for $3,499 and be available in early 2024.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2585",
+      "target_event": "IAEA head Rafael Grossi led a minute of silence at a nuclear security conference in Vienna on Monday in honor of the victims.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2586",
+      "target_event": "National Disaster Centre reported the updated death toll to the United Nations, surpassing initial estimates.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2587",
+      "target_event": "Investigations by Lebanese authorities found that the compromised devices were professionally tampered with and detonated by electronic messages before arriving in Lebanon.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2588",
+      "target_event": "Madrid-Barajas International Airport reported a record temperature of 108°F.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2589",
+      "target_event": "London’s Luton Airport canceled flights after runway damage from heat.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2590",
+      "target_event": "Iran cancelled all cultural events during an official mourning period.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2591",
+      "target_event": "Microsoft confirmed the underlying cause was fixed, though some Office 365 services remained affected.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2592",
+      "target_event": "Jeff Bezos gave the second Courage & Civility Award to José Andrés.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2593",
+      "target_event": "The Spanish government decreed three days of official mourning.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2594",
+      "target_event": "On March 29, 2021, the Ever Given was dislodged and pulled free.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2595",
+      "target_event": "The capsule landed safely in the Texas desert using a parachute and retro-thrust system.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2596",
+      "target_event": "Israeli police killed the two attackers in Jaffa.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2597",
+      "target_event": "Ayatollah Khamenei assigned First Vice President Mohammad Mokhber to manage the government and organize a presidential election within 50 days.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2598",
+      "target_event": "Residents fled Dahiyeh after intense Israeli strikes, seeking shelter elsewhere in Beirut.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2599",
+      "target_event": "Iran fired 181 ballistic missiles at Israel on Tuesday night, targeting three military bases and an intelligence headquarters.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2600",
+      "target_event": "President Biden delivered an Oval Office address after the event, calling for unity and denouncing political violence.",
+      "prediction": [
+        "A",
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2601",
+      "target_event": "Apple highlighted over 5,000 patents related to the Vision Pro headset.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2602",
+      "target_event": "Investigations by Lebanese authorities found that the compromised devices were professionally tampered with and detonated by electronic messages before arriving in Lebanon.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2603",
+      "target_event": "Israel launched hundreds of airstrikes against Syrian targets, claiming to have destroyed 70% of the Syrian army's capabilities.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2604",
+      "target_event": "Threads became the top free app on Apple’s App Store by Thursday morning.",
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2605",
+      "target_event": "Some shipping companies rerouted vessels around the Cape of Good Hope due to the blockage.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2606",
+      "target_event": "TSMC evacuated its production lines following the earthquake.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2607",
+      "target_event": "An attempt to re-float the Ever Given on March 26 was unsuccessful.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2608",
+      "target_event": "Apple Vision Pro incorporates privacy features such as Optic ID iris authentication and local processing of sensitive data.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2609",
+      "target_event": "Taiwan Semiconductor Manufacturing Co. reported its facilities were not seriously damaged.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2610",
+      "target_event": "Syrian army notified officers that Assad's rule had ended.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2611",
+      "target_event": "Germany’s players protested by wearing rainbow colors on their boots and covering their mouths during a team photo.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2612",
+      "target_event": "AlphaFold predictions have been accessed by over 500,000 researchers.",
+      "prediction": [
+        "C",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2613",
+      "target_event": "The Israeli military announced the killing of senior Hezbollah intelligence member Hassan Khalil Yassin.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2614",
+      "target_event": "An aid convoy reached the affected area on Saturday with tarps and water.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2615",
+      "target_event": "The Security Council, led by Pedro Comissário Afonso, observed a moment of silence at its 9629th meeting on Monday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2616",
+      "target_event": "Microsoft stated it will work to reshape Activision Blizzard’s work culture.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2617",
+      "target_event": "Survivors and volunteers are clearing dense mud, and organizations are distributing food and supplies.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2618",
+      "target_event": "Papua New Guinea’s defense minister and the National Disaster Center director traveled to Yambali by Australian military helicopter on Sunday and delivered a check for 500,000 kina to support displaced survivors.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2619",
+      "target_event": "Orion released several CubeSats, including OMOTENASHI and BioSentinel, during the Artemis 1 mission.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2620",
+      "target_event": "Jeff Bezos introduced the Courage & Civility Award, a $100 million grant.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2621",
+      "target_event": "Ground teams received telemetry data from JWST five minutes after launch.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2622",
+      "target_event": "NASA launched the Artemis I mission to the Moon using the Space Launch System (SLS) rocket from Cape Canaveral, Florida, at 1:47 am Eastern Time on Wednesday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2623",
+      "target_event": "Government officials reported on Sunday that the death toll had risen to 670, with many more believed trapped.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2624",
+      "target_event": "Microsoft reported that about 8.5 million devices, including critical infrastructure, were affected.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2625",
+      "target_event": "Microsoft confirmed the underlying cause was fixed, though some Office 365 services remained affected.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2626",
+      "target_event": "Stock exchanges and credit card processors stopped transactions due to the outage.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2627",
+      "target_event": "Two injuries were reported in Tel Aviv from shrapnel after the attack.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2628",
+      "target_event": "Over 360,000 households in Taiwan lost power following the earthquake.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2629",
+      "target_event": "Emergency workers began repairing dozens of damaged buildings and demolishing four buildings beyond repair in Hualien city.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2630",
+      "target_event": "95 wounded individuals were transferred to Iran for treatment.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2631",
+      "target_event": "About 85% of affected customers had power restored by Friday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2632",
+      "target_event": "Iran's government held an emergency meeting after Raisi's death.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2633",
+      "target_event": "Israeli police killed the two attackers in Jaffa.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2634",
+      "target_event": "Donald Trump announced a campaign rally in Butler, Pennsylvania to honor Corey Comperatore and others injured.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2635",
+      "target_event": "Ángel Di María was fouled by Ousmane Dembélé in the final, resulting in a penalty kick scored by Lionel Messi.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2636",
+      "target_event": "Fire in Gironde, southwest France, spread across 27,000 acres and forced 32,000 people to evacuate.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2637",
+      "target_event": "Over 930 people were injured and dozens trapped due to the earthquake.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2638",
+      "target_event": "The town of Cazaux and cities Nantes and Brest in France recorded their highest temperatures on Monday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2639",
+      "target_event": "Tribal violence killed eight people and destroyed 30 houses on Saturday in the affected area.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2640",
+      "target_event": "The team paraded through the city on an open-air bus before security concerns led to the parade being suspended.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2641",
+      "target_event": "The Artemis I mission initiated a 25-day journey for Orion around the Moon and back to Earth.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2642",
+      "target_event": "Jordan intercepted missiles and drones entering its airspace during the attack.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2643",
+      "target_event": "Microsoft stated it will work to reshape Activision Blizzard’s work culture.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2644",
+      "target_event": "On March 29, 2021, the Ever Given was dislodged and pulled free.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2645",
+      "target_event": "President Biden spoke with Donald Trump after the incident.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2646",
+      "target_event": "Over 1,000 people died from heat-related causes in Western Europe over the past week.",
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2647",
+      "target_event": "Syrian government reported that seven civilians were killed in an Israeli airstrike in Damascus on October 8.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2648",
+      "target_event": "Bobby Kotick will continue as Activision Blizzard CEO after the acquisition.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2649",
+      "target_event": "Apple said the headset will work with Microsoft Office apps and video conferencing services like WebEX and Zoom.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2650",
+      "target_event": "Zuckerberg and Instagram head Adam Mosseri stated that Threads will remain ad-free for now, with monetization considered only after reaching one billion users.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2651",
+      "target_event": "The first excavator arrived at the landslide site late Sunday.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2652",
+      "target_event": "Flash floods in Spain killed at least 158 people, with 155 deaths confirmed in the Valencia region.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2653",
+      "target_event": "Rescue operations began with military deployment to assist in Hualien County.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2654",
+      "target_event": "Police and rescue services evacuated people from homes and cars using helicopters and rubber boats.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2655",
+      "target_event": "Tribal violence killed eight people and destroyed 30 houses on Saturday in the affected area.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2656",
+      "target_event": "An estimated 1,977 wildfires occurred across Europe by July 20.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2657",
+      "target_event": "More than 1,000 military personnel have been deployed to assist rescue efforts.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2658",
+      "target_event": "Activision Blizzard will file transaction materials with the SEC for shareholder review and approval.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2659",
+      "target_event": "Threads released its first iOS updates, adding features such as a translation button and new activity feed options.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2660",
+      "target_event": "The team paraded through the city on an open-air bus before security concerns led to the parade being suspended.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2661",
+      "target_event": "Bobby Kotick will continue as Activision Blizzard CEO after the acquisition.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2662",
+      "target_event": "Israel’s air defenses, supported by the US and Jordan, intercepted most of the Iranian missiles.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2663",
+      "target_event": "The capsule was secured to the station by 12 motorized latches.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2664",
+      "target_event": "CISA reported that threat actors exploited the incident for phishing and other malicious activity.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2665",
+      "target_event": "Ground teams received telemetry data from JWST five minutes after launch.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2666",
+      "target_event": "More than 5,000 flights were canceled globally due to the outage.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2667",
+      "target_event": "Flash floods in Spain killed at least 158 people, with 155 deaths confirmed in the Valencia region.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2668",
+      "target_event": "The missile attack included the use of new Fatah hypersonic ballistic missiles.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2669",
+      "target_event": "Shipping rates for petroleum products nearly doubled during the blockage.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2670",
+      "target_event": "About 85% of affected customers had power restored by Friday.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2671",
+      "target_event": "Israeli police killed the two attackers in Jaffa.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2672",
+      "target_event": "At least 143 people, including more than 70 quarry workers, remained trapped under rubble overnight.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2673",
+      "target_event": "NASA launched the Artemis I mission to the Moon using the Space Launch System (SLS) rocket from Cape Canaveral, Florida, at 1:47 am Eastern Time on Wednesday.",
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2674",
+      "target_event": "At least 26 buildings collapsed in Hualien, trapping 20 people inside as rescue efforts began.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2675",
+      "target_event": "An estimated 1 million people have been displaced by recent fighting in southern Lebanon.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2676",
+      "target_event": "President Biden delivered an Oval Office address after the event, calling for unity and denouncing political violence.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2677",
+      "target_event": "Joe Biden was sworn in as the 46th US president by Chief Justice John Roberts at the US Capitol on January 20.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2678",
+      "target_event": "Over 1,000 people died from heat-related causes in Western Europe over the past week.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2679",
+      "target_event": "More than 5,000 flights were canceled globally due to the outage.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2680",
+      "target_event": "Major rail lines in the UK were closed on July 19 due to the heat.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2681",
+      "target_event": "At 1:34 AM, the FBI formally labeled the incident an assassination attempt.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2682",
+      "target_event": "Authorities ordered thousands of people to evacuate.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2683",
+      "target_event": "The Artemis rocket carried the Orion crew capsule with mannequins but no astronauts.",
+      "prediction": [
+        "A",
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2684",
+      "target_event": "Corey Comperatore was killed in the attack on Donald Trump.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2685",
+      "target_event": "U.S. federal airspace officials announced a nationwide ground stop.",
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2686",
+      "target_event": "The capsule was secured to the station by 12 motorized latches.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2687",
+      "target_event": "One Palestinian man in the West Bank was killed by debris from the missile attack.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2688",
+      "target_event": "Meta CEO Mark Zuckerberg and Google CEO Sundar Pichai reacted to Apple’s announcement of the Vision Pro.",
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2689",
+      "target_event": "An attempt to re-float the Ever Given on March 26 was unsuccessful.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2690",
+      "target_event": "At least 350 people died in Spain and nearly 240 in Portugal from high temperatures in July.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2691",
+      "target_event": "JWST began observing in the infrared spectrum, providing astronomers with new views of the Universe.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2692",
+      "target_event": "The U.S. Secret Service advised Donald Trump's campaign to stop holding outdoor rallies.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2693",
+      "target_event": "Israeli military killed senior Hezbollah commander Suhail Husseini in a targeted attack on October 7.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2694",
+      "target_event": "Israel’s air defenses, supported by the US and Jordan, intercepted most of the Iranian missiles.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2695",
+      "target_event": "Customers will be able to book in-store appointments for demos and personalized fittings before purchasing the Vision Pro.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2696",
+      "target_event": "Meta CEO Mark Zuckerberg and Google CEO Sundar Pichai reacted to Apple’s announcement of the Vision Pro.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2697",
+      "target_event": "Satellite imagery released by Maxar showed extensive areas in the Enga region covered in mud and debris.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2698",
+      "target_event": "Biden delivered an inaugural address at the ceremony.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2699",
+      "target_event": "Iran’s team refused to sing their national anthem at the World Cup.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2700",
+      "target_event": "AlphaFold released predicted structures for nearly all catalogued proteins, expanding the database from nearly 1 million to over 200 million structures.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2701",
+      "target_event": "JWST traveled to the Lagrange 2 (L2) point and entered a stable orbit after performing three mid-course correction maneuvers.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2702",
+      "target_event": "UN Secretary-General António Guterres and members of the Security Council extended condolences to Iran following the death of President Seyyed Ebrahim Raisi, Foreign Minister Hossein Amir-Abdollahian, and six others.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2703",
+      "target_event": "Crew Dragon docked with the International Space Station (ISS) at 10:16 a.m. ET on May 31.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2704",
+      "target_event": "Only 11 bodies have been recovered from the landslide area.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2705",
+      "target_event": "Emergency workers began repairing dozens of damaged buildings and demolishing four buildings beyond repair in Hualien city.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2706",
+      "target_event": "Microsoft engineers worked with CrowdStrike to restore customer systems.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2707",
+      "target_event": "Emergency responders are searching for dozens of missing people.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2708",
+      "target_event": "JWST unfolded its solar array about 30 minutes after launch, beginning to provide power to the observatory.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2709",
+      "target_event": "Deputy Foreign Minister Ali Bagheri Kani was appointed acting foreign minister.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2710",
+      "target_event": "In Spain, wildfires affected Castile and Léon and Galicia, leading to suspension of railway service between Madrid and Galicia.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2711",
+      "target_event": "On January 8, the second primary mirror wing was unfolded and latched, concluding major deployments.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2712",
+      "target_event": "The government declared a national holiday.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2713",
+      "target_event": "Residents fled Dahiyeh after intense Israeli strikes, seeking shelter elsewhere in Beirut.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2714",
+      "target_event": "Threads experienced a 70% drop in daily active users in its second week.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2715",
+      "target_event": "President Biden delivered an Oval Office address after the event, calling for unity and denouncing political violence.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2716",
+      "target_event": "SpaceX successfully landed the Falcon 9 first stage booster used in the Demo-2 launch.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2717",
+      "target_event": "Apple introduced EyeSight technology, enabling external individuals to see the user’s eyes and signaling user availability.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2718",
+      "target_event": "Biden delivered an inaugural address at the ceremony.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2719",
+      "target_event": "1919 Food Bank staff coordinated with government contacts and helped set up evacuation centers in impacted areas.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2720",
+      "target_event": "Threads became the top free app on Apple’s App Store by Thursday morning.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2721",
+      "target_event": "Lebanon, Iraq, and Syria declared three days of mourning after the airstrike.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2722",
+      "target_event": "SpaceX became the first private company to launch people into orbit.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2723",
+      "target_event": "More than 1,000 military personnel have been deployed to assist rescue efforts.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2724",
+      "target_event": "The first excavator arrived at the landslide site late Sunday.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2725",
+      "target_event": "The FBI identified the shooter as Thomas Matthew Crooks, 20, of Bethel Park, Pa.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2726",
+      "target_event": "The U.S. Secret Service advised Donald Trump's campaign to stop holding outdoor rallies.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2727",
+      "target_event": "Indonesia and Australia pledged support to Papua New Guinea following the landslide.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2728",
+      "target_event": "Rescue operations began with military deployment to assist in Hualien County.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2729",
+      "target_event": "An international investigation was called for to hold perpetrators accountable for the mass explosions targeting electronic devices in Lebanon and Syria.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2730",
+      "target_event": "Shipping rates for petroleum products nearly doubled during the blockage.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2731",
+      "target_event": "An estimated 1,977 wildfires occurred across Europe by July 20.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2732",
+      "target_event": "A large-scale cyberattack accompanied the IRGC missile barrage on Israel.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2733",
+      "target_event": "User traffic on Twitter slowed after Threads debuted.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2734",
+      "target_event": "Over 360,000 households in Taiwan lost power following the earthquake.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2735",
+      "target_event": "The U.S. military, including two American destroyers, assisted in intercepting missiles.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2736",
+      "target_event": "Recovery crews secured the capsule.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2737",
+      "target_event": "The closure of the Suez Canal halted about 10% of global trade.",
+      "prediction": [
+        "A",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2738",
+      "target_event": "On December 5, the Chang’e 5 ascender docked with the return spacecraft.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2739",
+      "target_event": "A large-scale cyberattack accompanied the IRGC missile barrage on Israel.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2740",
+      "target_event": "An aid convoy reached the affected area on Saturday with tarps and water.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2741",
+      "target_event": "Behnken and Hurley disembarked Crew Dragon and entered the ISS.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2742",
+      "target_event": "The Israeli Security Cabinet met in a government bunker during the attack.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2743",
+      "target_event": "Google Cloud Compute Engine experienced outages as Windows virtual machines using CrowdStrike's csagent.sys crashed and rebooted unexpectedly.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2744",
+      "target_event": "Millions of Syrian refugees began lining up at Turkey’s border crossings to return home following the regime change.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2745",
+      "target_event": "Orion released several CubeSats, including OMOTENASHI and BioSentinel, during the Artemis 1 mission.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2746",
+      "target_event": "Threads gained over 30 million users within 24 hours.",
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2747",
+      "target_event": "Only 11 bodies have been recovered from the landslide area.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2748",
+      "target_event": "The Crew Dragon, carried by a Falcon 9 rocket, reached orbit nine minutes after launch.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2749",
+      "target_event": "Emergency services gained access to all urban areas in Valencia.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2750",
+      "target_event": "SpaceX became the first private company to launch people into orbit.",
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2751",
+      "target_event": "Fire in Gironde, southwest France, spread across 27,000 acres and forced 32,000 people to evacuate.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2752",
+      "target_event": "At 1:34 AM, the FBI formally labeled the incident an assassination attempt.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2753",
+      "target_event": "Queen Elizabeth II died at Balmoral on September 8, 2022, at age 96.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2754",
+      "target_event": "An aid convoy reached the affected area on Saturday with tarps and water.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2755",
+      "target_event": "The Papua New Guinea government formally requested international assistance from the United Nations on Sunday.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2756",
+      "target_event": "Over 250 homes were evacuated, displacing more than 1,250 people.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2757",
+      "target_event": "The acquisition is pending regulatory review in the United States and European Union.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2758",
+      "target_event": "Ayatollah Khamenei assigned First Vice President Mohammad Mokhber to manage the government and organize a presidential election within 50 days.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2759",
+      "target_event": "The Israeli military struck Hezbollah sites in Lebanon, resulting in explosions, fire, and smoke in Beirut and southern Lebanon.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2760",
+      "target_event": "The Israeli military announced the killing of senior Hezbollah intelligence member Hassan Khalil Yassin.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2761",
+      "target_event": "An estimated 1 million people have been displaced by recent fighting in southern Lebanon.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2762",
+      "target_event": "Rescuers lost contact with over 50 workers traveling in four minibuses to a hotel in Taroko Gorge National Park.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2763",
+      "target_event": "Corey Comperatore was killed in the attack on Donald Trump.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2764",
+      "target_event": "Tens of thousands of people in Spain lost power due to the floods.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2765",
+      "target_event": "Hungarian authorities denied manufacturing involvement in the pagers, stating their company was only a trading intermediary.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2766",
+      "target_event": "Supreme Leader Ayatollah Ali Khamenei declared five days of public mourning.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2767",
+      "target_event": "About 85% of affected customers had power restored by Friday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2768",
+      "target_event": "Major rail lines in the UK were closed on July 19 due to the heat.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2769",
+      "target_event": "The James Webb Space Telescope separated from the rocket 27 minutes after launch at an altitude of approximately 870 miles.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2770",
+      "target_event": "The Artemis rocket carried the Orion crew capsule with mannequins but no astronauts.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2771",
+      "target_event": "The capsule landed safely in the Texas desert using a parachute and retro-thrust system.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2772",
+      "target_event": "Rescue operations began with military deployment to assist in Hualien County.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2773",
+      "target_event": "Government officials reported on Sunday that the death toll had risen to 670, with many more believed trapped.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2774",
+      "target_event": "More than 5,000 flights were canceled globally due to the outage.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2775",
+      "target_event": "Customers will be able to book in-store appointments for demos and personalized fittings before purchasing the Vision Pro.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2776",
+      "target_event": "Authorities ordered thousands of people to evacuate.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2777",
+      "target_event": "Oliver Daemen, at 18, became the youngest person to fly in space and Blue Origin's first paying passenger.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2778",
+      "target_event": "The ground floor of the Uranus Building in Hualien city collapsed, causing the building to lean.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2779",
+      "target_event": "Lebanon, Iraq, and Syria declared three days of mourning after the airstrike.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2780",
+      "target_event": "Millions of Syrian refugees began lining up at Turkey’s border crossings to return home following the regime change.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2781",
+      "target_event": "Zuckerberg and Instagram head Adam Mosseri stated that Threads will remain ad-free for now, with monetization considered only after reaching one billion users.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2782",
+      "target_event": "The missile attack included the use of new Fatah hypersonic ballistic missiles.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2783",
+      "target_event": "Cargo remained idle, either waiting to transit the canal or stuck in port, resulting in daily costs estimated at $9.6 billion.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2784",
+      "target_event": "An attempt to re-float the Ever Given on March 26 was unsuccessful.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2785",
+      "target_event": "Avril Haines was confirmed by the Senate as director of national intelligence.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2786",
+      "target_event": "AlphaFold’s predicted structures were made available on UniProt pages and for bulk download via Google Cloud Public Datasets.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2787",
+      "target_event": "Orion’s main engine conducted a test burn about eight hours after launch.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2788",
+      "target_event": "Twitter’s lawyer sent Meta a letter alleging intellectual property theft and threatened a lawsuit over Threads.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2789",
+      "target_event": "Iran's government held an emergency meeting after Raisi's death.",
+      "prediction": [
+        "C",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2790",
+      "target_event": "In Spain, wildfires affected Castile and Léon and Galicia, leading to suspension of railway service between Madrid and Galicia.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2791",
+      "target_event": "Government officials reported on Sunday that the death toll had risen to 670, with many more believed trapped.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2792",
+      "target_event": "AlphaFold released predicted structures for nearly all catalogued proteins, expanding the database from nearly 1 million to over 200 million structures.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2793",
+      "target_event": "Prime Minister Mohammad Ghazi Jalali met with HTS leadership to facilitate a temporary, peaceful handover of power.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2794",
+      "target_event": "Apple introduced a new biometric system, Optic ID, for user identification via iris analysis.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2795",
+      "target_event": "The AlphaFold Protein Structure Database (AlphaFold DB) was launched to share predicted protein structures globally.",
+      "prediction": [
+        "B",
+        "C",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2796",
+      "target_event": "Stock exchanges and credit card processors stopped transactions due to the outage.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2797",
+      "target_event": "Threads gained over 30 million users within 24 hours.",
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2798",
+      "target_event": "Webb completed deployment and tensioning of all five layers of the sunshield on January 4, 2022.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2799",
+      "target_event": "Chang'e-5 raised a Chinese flag on the Moon.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2800",
+      "target_event": "Only 11 bodies have been recovered from the landslide area.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2801",
+      "target_event": "The UN migration agency (IOM) reported that water sources in the area are contaminated.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2802",
+      "target_event": "Donald Trump announced a campaign rally in Butler, Pennsylvania to honor Corey Comperatore and others injured.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2803",
+      "target_event": "The Crew Dragon, carried by a Falcon 9 rocket, reached orbit nine minutes after launch.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2804",
+      "target_event": "A specialized suction dredger arrived at the site to assist with the re-float operation.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2805",
+      "target_event": "The Chang’e 5 ascender crashed into the moon on December 7.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2806",
+      "target_event": "More than 1,000 military personnel have been deployed to assist rescue efforts.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2807",
+      "target_event": "95 wounded individuals were transferred to Iran for treatment.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2808",
+      "target_event": "At least 9 people died as a result of the earthquake.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2809",
+      "target_event": "Hualien’s mayor, Wei Chia-yen, set up a shelter for displaced residents within hours of the quake.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2810",
+      "target_event": "Authorities suspended work and school in Hualien and closed eight power plants.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2811",
+      "target_event": "JWST began observing in the infrared spectrum, providing astronomers with new views of the Universe.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2812",
+      "target_event": "At least 1,500 deaths have occurred in Europe due to the heatwave.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2813",
+      "target_event": "Two injuries were reported in Tel Aviv from shrapnel after the attack.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2814",
+      "target_event": "CISA reported that threat actors exploited the incident for phishing and other malicious activity.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2815",
+      "target_event": "Insurgents entered Saydnaya military prison and freed prisoners.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2816",
+      "target_event": "Cargo remained idle, either waiting to transit the canal or stuck in port, resulting in daily costs estimated at $9.6 billion.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2817",
+      "target_event": "Oliver Daemen, at 18, became the youngest person to fly in space and Blue Origin's first paying passenger.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2818",
+      "target_event": "Apple announced that Disney+ and other applications will be available on Vision Pro at launch.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2819",
+      "target_event": "UN Secretary-General António Guterres called for maximum restraint from all actors, immediate cessation of hostilities, and adherence to UN Security Council resolution 1701.",
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2820",
+      "target_event": "Chinese officials confirmed international scientists will have access to the lunar samples.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2821",
+      "target_event": "Apple introduced EyeSight technology, enabling external individuals to see the user’s eyes and signaling user availability.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2822",
+      "target_event": "At least 64 people died in eastern and southern Spain after rainstorms caused flash floods on Tuesday.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2823",
+      "target_event": "At least two dozen Iranian missiles struck military and intelligence sites in Israel, with 32 impact points at Nevatim Air Base.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2824",
+      "target_event": "Authorities ordered thousands of people to evacuate.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2825",
+      "target_event": "Multiple spectators were injured during the event.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2826",
+      "target_event": "The ground floor of the Uranus Building in Hualien city collapsed, causing the building to lean.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2827",
+      "target_event": "The boards of directors of Microsoft and Activision Blizzard approved the acquisition.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2828",
+      "target_event": "The Israeli Security Cabinet met in a government bunker during the attack.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2829",
+      "target_event": "Israel launched hundreds of airstrikes against Syrian targets, claiming to have destroyed 70% of the Syrian army's capabilities.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2830",
+      "target_event": "At least 350 people died in Spain and nearly 240 in Portugal from high temperatures in July.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2831",
+      "target_event": "Researchers used AlphaFold to identify the structure of a key malaria protein.",
+      "prediction": [
+        "A",
+        "C",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2832",
+      "target_event": "At least nine landslides occurred on a major highway in Hualien, collapsing part of the road.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2833",
+      "target_event": "Emergency responders are searching for dozens of missing people.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2834",
+      "target_event": "Biden and his family entered the White House to begin his presidency.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2835",
+      "target_event": "Apple highlighted over 5,000 patents related to the Vision Pro headset.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2836",
+      "target_event": "On December 5, the Chang’e 5 ascender docked with the return spacecraft.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2837",
+      "target_event": "Services began returning to normal for firms such as Aena, United Airlines, American Airlines, and Commonwealth Bank.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2838",
+      "target_event": "At least 64 people died in eastern and southern Spain after rainstorms caused flash floods on Tuesday.",
+      "prediction": [
+        "A",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2839",
+      "target_event": "Threads surpassed 100 million sign-ups within five days of launch.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2840",
+      "target_event": "A specialized suction dredger arrived at the site to assist with the re-float operation.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2841",
+      "target_event": "Microsoft engineers worked with CrowdStrike to restore customer systems.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2842",
+      "target_event": "Over 250 homes were evacuated, displacing more than 1,250 people.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2843",
+      "target_event": "The Israeli military struck Hezbollah sites in Lebanon, resulting in explosions, fire, and smoke in Beirut and southern Lebanon.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2844",
+      "target_event": "Biden signed 17 executive actions, including instituting a mask mandate for federal property, rejoining the Paris climate accord, and rescinding the travel ban from predominantly Muslim countries.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2845",
+      "target_event": "Survivors and volunteers are clearing dense mud, and organizations are distributing food and supplies.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2846",
+      "target_event": "Amanda Gorman recited a poem at the inauguration.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2847",
+      "target_event": "Syrian army notified officers that Assad's rule had ended.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2848",
+      "target_event": "The UN migration agency (IOM) reported that water sources in the area are contaminated.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2849",
+      "target_event": "The government conducted nearly 270 rescues on Wednesday in Valencia.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2850",
+      "target_event": "The U.S. Secret Service advised Donald Trump's campaign to stop holding outdoor rallies.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2851",
+      "target_event": "The capsule was secured to the station by 12 motorized latches.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2852",
+      "target_event": "The acquisition is pending regulatory review in the United States and European Union.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2853",
+      "target_event": "Brent crude oil’s one-month futures contract surged to $64.41 due to the disruption.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2854",
+      "target_event": "The FBI identified the shooter as Thomas Matthew Crooks, 20, of Bethel Park, Pa.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2855",
+      "target_event": "JWST unfolded its solar array about 30 minutes after launch, beginning to provide power to the observatory.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2856",
+      "target_event": "The ground floor of the Uranus Building in Hualien city collapsed, causing the building to lean.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2857",
+      "target_event": "Germany’s players protested by wearing rainbow colors on their boots and covering their mouths during a team photo.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2858",
+      "target_event": "The closure of the Suez Canal halted about 10% of global trade.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2859",
+      "target_event": "Chinese officials confirmed international scientists will have access to the lunar samples.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2860",
+      "target_event": "Behnken and Hurley returned to Earth and splashed down in the Gulf of Mexico on August 2.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2861",
+      "target_event": "King Charles III succeeded Queen Elizabeth II as monarch.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2862",
+      "target_event": "At least 9 people died as a result of the earthquake.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2863",
+      "target_event": "The James Webb Space Telescope completed a crucial maneuver soon after liftoff.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2864",
+      "target_event": "Cargo remained idle, either waiting to transit the canal or stuck in port, resulting in daily costs estimated at $9.6 billion.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2865",
+      "target_event": "Orion released several CubeSats, including OMOTENASHI and BioSentinel, during the Artemis 1 mission.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2866",
+      "target_event": "Jeff Bezos gave the second Courage & Civility Award to José Andrés.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2867",
+      "target_event": "Jeff Bezos gave the first Courage & Civility Award to Van Jones.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2868",
+      "target_event": "King Charles III succeeded Queen Elizabeth II as monarch.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2869",
+      "target_event": "At least nine landslides occurred on a major highway in Hualien, collapsing part of the road.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2870",
+      "target_event": "On January 18, 2022, Microsoft announced plans to acquire Activision Blizzard for $68.7 billion.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2871",
+      "target_event": "National Disaster Centre reported the updated death toll to the United Nations, surpassing initial estimates.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2872",
+      "target_event": "Deputy Foreign Minister Ali Bagheri Kani was appointed acting foreign minister.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2873",
+      "target_event": "The Israeli military struck Hezbollah sites in Lebanon, resulting in explosions, fire, and smoke in Beirut and southern Lebanon.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2874",
+      "target_event": "Threads released its first iOS updates, adding features such as a translation button and new activity feed options.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2875",
+      "target_event": "Authorities suspended work and school in Hualien and closed eight power plants.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2876",
+      "target_event": "Behnken and Hurley returned to Earth and splashed down in the Gulf of Mexico on August 2.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2877",
+      "target_event": "Crew Dragon docked with the International Space Station (ISS) at 10:16 a.m. ET on May 31.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2878",
+      "target_event": "At least two dozen Iranian missiles struck military and intelligence sites in Israel, with 32 impact points at Nevatim Air Base.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2879",
+      "target_event": "Temperatures in France reached 42°C on July 18 and 40.3°C in the UK, breaking previous national records.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2880",
+      "target_event": "On March 29, 2021, the Ever Given was dislodged and pulled free.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2881",
+      "target_event": "All four main JWST instruments—NIRCam, NIRSpec, MIRI, and FGS/NIRISS—were tested and calibrated before the start of science operations.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2882",
+      "target_event": "Israel’s air defenses, supported by the US and Jordan, intercepted most of the Iranian missiles.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2883",
+      "target_event": "1,656 firefighters are combating 10 active rural fires in Portugal, with more than 7,400 acres burned in Leiria and evacuations underway near forest fires in Palmela.",
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2884",
+      "target_event": "Two injuries were reported in Tel Aviv from shrapnel after the attack.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2885",
+      "target_event": "Authorities suspended work and school in Hualien and closed eight power plants.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2886",
+      "target_event": "At 1:34 AM, the FBI formally labeled the incident an assassination attempt.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2887",
+      "target_event": "The Israeli Security Cabinet met in a government bunker during the attack.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2888",
+      "target_event": "Russia granted asylum to Assad and his family.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2889",
+      "target_event": "King Charles III succeeded Queen Elizabeth II as monarch.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2890",
+      "target_event": "Search-and-rescue operations for the crash were assisted by the EU and Turkey and were hampered by fog and cold temperatures.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2891",
+      "target_event": "Search-and-rescue operations for the crash were assisted by the EU and Turkey and were hampered by fog and cold temperatures.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2892",
+      "target_event": "Microsoft engineers worked with CrowdStrike to restore customer systems.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2893",
+      "target_event": "Services began returning to normal for firms such as Aena, United Airlines, American Airlines, and Commonwealth Bank.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2894",
+      "target_event": "Shares of CrowdStrike closed down 11%.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2895",
+      "target_event": "Brent crude oil’s one-month futures contract surged to $64.41 due to the disruption.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2896",
+      "target_event": "The Artemis I mission initiated a 25-day journey for Orion around the Moon and back to Earth.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2897",
+      "target_event": "Jeff Bezos gave the second Courage & Civility Award to José Andrés.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2898",
+      "target_event": "Israel launched hundreds of airstrikes against Syrian targets, claiming to have destroyed 70% of the Syrian army's capabilities.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2899",
+      "target_event": "At least 350 people died in Spain and nearly 240 in Portugal from high temperatures in July.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2900",
+      "target_event": "Israeli airstrikes on Saturday targeted areas near Beirut and Hezbollah weapons caches, resulting in at least 33 killed and 195 wounded, according to Lebanon’s health ministry.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2901",
+      "target_event": "U.S. federal airspace officials announced a nationwide ground stop.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2902",
+      "target_event": "Kurdish forces were driven out of Manbij by Arab-led opposition forces in the northeast.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2903",
+      "target_event": "AlphaFold’s predicted structures were made available on UniProt pages and for bulk download via Google Cloud Public Datasets.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2904",
+      "target_event": "President Biden spoke with Donald Trump after the incident.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2905",
+      "target_event": "Over 350 vessels were backed up on both ends of the canal during the blockage.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2906",
+      "target_event": "95 wounded individuals were transferred to Iran for treatment.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2907",
+      "target_event": "Biden delivered an inaugural address at the ceremony.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2908",
+      "target_event": "Iran cancelled all cultural events during an official mourning period.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2909",
+      "target_event": "Microsoft reported that about 8.5 million devices, including critical infrastructure, were affected.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2910",
+      "target_event": "Apple said the headset will work with Microsoft Office apps and video conferencing services like WebEX and Zoom.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2911",
+      "target_event": "Activision Blizzard will file transaction materials with the SEC for shareholder review and approval.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2912",
+      "target_event": "Indonesia and Australia pledged support to Papua New Guinea following the landslide.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2913",
+      "target_event": "JWST traveled to the Lagrange 2 (L2) point and entered a stable orbit after performing three mid-course correction maneuvers.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2914",
+      "target_event": "IAEA head Rafael Grossi led a minute of silence at a nuclear security conference in Vienna on Monday in honor of the victims.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2915",
+      "target_event": "At least two dozen Iranian missiles struck military and intelligence sites in Israel, with 32 impact points at Nevatim Air Base.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2916",
+      "target_event": "Shares of CrowdStrike closed down 11%.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2917",
+      "target_event": "Cristiano Ronaldo became the first man to score in five World Cups.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2918",
+      "target_event": "Twitter’s lawyer sent Meta a letter alleging intellectual property theft and threatened a lawsuit over Threads.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2919",
+      "target_event": "CrowdStrike’s CEO, George Kurtz, confirmed that a defect in a content update for Windows hosts caused the outage.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2920",
+      "target_event": "Apple introduced EyeSight technology, enabling external individuals to see the user’s eyes and signaling user availability.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2921",
+      "target_event": "Prime Minister Mohammad Ghazi Jalali met with HTS leadership to facilitate a temporary, peaceful handover of power.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2922",
+      "target_event": "The Iranian Red Crescent Society confirmed the deaths after finding no survivors at the site.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2923",
+      "target_event": "The government declared a national holiday.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2924",
+      "target_event": "The Security Council, led by Pedro Comissário Afonso, observed a moment of silence at its 9629th meeting on Monday.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2925",
+      "target_event": "Threads gained over 30 million users within 24 hours.",
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2926",
+      "target_event": "UN Secretary-General António Guterres and members of the Security Council extended condolences to Iran following the death of President Seyyed Ebrahim Raisi, Foreign Minister Hossein Amir-Abdollahian, and six others.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2927",
+      "target_event": "Kylian Mbappé scored a hat trick for France in the final, including two goals late in regular time and a penalty in extra time.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2928",
+      "target_event": "The government conducted nearly 270 rescues on Wednesday in Valencia.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2929",
+      "target_event": "Microsoft reported that about 8.5 million devices, including critical infrastructure, were affected.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2930",
+      "target_event": "User traffic on Twitter slowed after Threads debuted.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2931",
+      "target_event": "Indonesia and Australia pledged support to Papua New Guinea following the landslide.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2932",
+      "target_event": "The AlphaFold Protein Structure Database (AlphaFold DB) was launched to share predicted protein structures globally.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2933",
+      "target_event": "JWST began observing in the infrared spectrum, providing astronomers with new views of the Universe.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2934",
+      "target_event": "Orion’s main engine conducted a test burn about eight hours after launch.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2935",
+      "target_event": "Supreme Leader Ayatollah Ali Khamenei announced First Vice President Mohammad Mokhber as interim president.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2936",
+      "target_event": "Emergency services gained access to all urban areas in Valencia.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2937",
+      "target_event": "Some shipping companies rerouted vessels around the Cape of Good Hope due to the blockage.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2938",
+      "target_event": "The Chang’e 5 orbiter remained in space after the sample return.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2939",
+      "target_event": "Rescue teams evacuated about 70 people trapped in tunnels near Hualien, including two Germans.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2940",
+      "target_event": "Over 350 vessels were backed up on both ends of the canal during the blockage.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2941",
+      "target_event": "Iran cancelled all cultural events during an official mourning period.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2942",
+      "target_event": "Tens of thousands of people in Spain lost power due to the floods.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2943",
+      "target_event": "SpaceX successfully landed the Falcon 9 first stage booster used in the Demo-2 launch.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2944",
+      "target_event": "The U.S. military, including two American destroyers, assisted in intercepting missiles.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2945",
+      "target_event": "Supreme Leader Ayatollah Ali Khamenei declared five days of public mourning.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2946",
+      "target_event": "The Bank of England stated that notes featuring Queen Elizabeth II will remain legal tender and can be exchanged.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2947",
+      "target_event": "The Security Council, led by Pedro Comissário Afonso, observed a moment of silence at its 9629th meeting on Monday.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2948",
+      "target_event": "Crew Dragon docked with the International Space Station (ISS) at 10:16 a.m. ET on May 31.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2949",
+      "target_event": "Recovery crews secured the capsule.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2950",
+      "target_event": "Ayatollah Khamenei assigned First Vice President Mohammad Mokhber to manage the government and organize a presidential election within 50 days.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2951",
+      "target_event": "Threads surpassed 100 million sign-ups within five days of launch.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2952",
+      "target_event": "Multiple spectators were injured during the event.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2953",
+      "target_event": "A large-scale cyberattack accompanied the IRGC missile barrage on Israel.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2954",
+      "target_event": "Hurley and Behnken took manual control of the Crew Dragon near the station before computer-assisted docking.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2955",
+      "target_event": "On December 5, the Chang’e 5 ascender docked with the return spacecraft.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2956",
+      "target_event": "1919 Food Bank staff coordinated with government contacts and helped set up evacuation centers in impacted areas.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2957",
+      "target_event": "The James Webb Space Telescope completed a crucial maneuver soon after liftoff.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2958",
+      "target_event": "Twitter’s lawyer sent Meta a letter alleging intellectual property theft and threatened a lawsuit over Threads.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2959",
+      "target_event": "An estimated 1 million people have been displaced by recent fighting in southern Lebanon.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2960",
+      "target_event": "Biden and his family entered the White House to begin his presidency.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2961",
+      "target_event": "SpaceX became the first private company to launch people into orbit.",
+      "prediction": [
+        "A",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2962",
+      "target_event": "A webcast regarding the transaction was held on January 18, 2022, with key executives participating.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2963",
+      "target_event": "Stock exchanges and credit card processors stopped transactions due to the outage.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2964",
+      "target_event": "Google Cloud Compute Engine experienced outages as Windows virtual machines using CrowdStrike's csagent.sys crashed and rebooted unexpectedly.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2965",
+      "target_event": "Threads was not launched in the European Union due to data privacy concerns.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2966",
+      "target_event": "At least 143 people, including more than 70 quarry workers, remained trapped under rubble overnight.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2967",
+      "target_event": "AlphaFold predictions have been accessed by over 500,000 researchers.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2968",
+      "target_event": "Over 930 people were injured and dozens trapped due to the earthquake.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2969",
+      "target_event": "On January 18, 2022, Microsoft announced plans to acquire Activision Blizzard for $68.7 billion.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2970",
+      "target_event": "Residents fled Dahiyeh after intense Israeli strikes, seeking shelter elsewhere in Beirut.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2971",
+      "target_event": "The James Webb Space Telescope completed a crucial maneuver soon after liftoff.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2972",
+      "target_event": "Microsoft confirmed the underlying cause was fixed, though some Office 365 services remained affected.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2973",
+      "target_event": "A webcast regarding the transaction was held on January 18, 2022, with key executives participating.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2974",
+      "target_event": "The United States warned of the impending Iranian missile strike hours before it occurred.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2975",
+      "target_event": "Supreme Leader Ayatollah Ali Khamenei announced First Vice President Mohammad Mokhber as interim president.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2976",
+      "target_event": "Houthi forces in Yemen launched a missile toward Israel, which was intercepted by Israel’s missile defense system.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2977",
+      "target_event": "Rescue teams evacuated about 70 people trapped in tunnels near Hualien, including two Germans.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2978",
+      "target_event": "Apple highlighted over 5,000 patents related to the Vision Pro headset.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2979",
+      "target_event": "Multiple spectators were injured during the event.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2980",
+      "target_event": "Emergency services and hospitals in several countries were affected by the outages, forcing some agencies to revert to paper-based operations.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2981",
+      "target_event": "Brent crude oil’s one-month futures contract surged to $64.41 due to the disruption.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2982",
+      "target_event": "U.S. forces conducted airstrikes against Islamic State camps in central Syria.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2983",
+      "target_event": "An international investigation was called for to hold perpetrators accountable for the mass explosions targeting electronic devices in Lebanon and Syria.",
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2984",
+      "target_event": "The UN migration agency (IOM) reported that water sources in the area are contaminated.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2985",
+      "target_event": "A specialized suction dredger arrived at the site to assist with the re-float operation.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2986",
+      "target_event": "In Spain, wildfires affected Castile and Léon and Galicia, leading to suspension of railway service between Madrid and Galicia.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2987",
+      "target_event": "Fire in Gironde, southwest France, spread across 27,000 acres and forced 32,000 people to evacuate.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2988",
+      "target_event": "Hualien’s mayor, Wei Chia-yen, set up a shelter for displaced residents within hours of the quake.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2989",
+      "target_event": "At least 26 buildings collapsed in Hualien, trapping 20 people inside as rescue efforts began.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2990",
+      "target_event": "At least 9 people died as a result of the earthquake.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2991",
+      "target_event": "Chinese officials confirmed international scientists will have access to the lunar samples.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2992",
+      "target_event": "Customers began rebooting systems, with some recovering operations.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2993",
+      "target_event": "At least five European countries declared states of emergency or red warnings due to wildfires.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2994",
+      "target_event": "Iran fired 181 ballistic missiles at Israel on Tuesday night, targeting three military bases and an intelligence headquarters.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2995",
+      "target_event": "The Bank of England stated that notes featuring Queen Elizabeth II will remain legal tender and can be exchanged.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2996",
+      "target_event": "Search-and-rescue operations for the crash were assisted by the EU and Turkey and were hampered by fog and cold temperatures.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2997",
+      "target_event": "Biden, Harris, and former Presidents Obama, Bush, and Clinton with their spouses laid a wreath at the Tomb of the Unknown Soldier at Arlington National Cemetery.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2998",
+      "target_event": "Historic flash floods struck Spain on Tuesday and Wednesday, killing at least 205 people.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-2999",
+      "target_event": "Taiwan Semiconductor Manufacturing Co. reported its facilities were not seriously damaged.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3000",
+      "target_event": "At least 143 people, including more than 70 quarry workers, remained trapped under rubble overnight.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3001",
+      "target_event": "Houthi forces in Yemen launched a missile toward Israel, which was intercepted by Israel’s missile defense system.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3002",
+      "target_event": "Officials have shifted from rescue to a recovery operation for the landslide.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3003",
+      "target_event": "Biden and his family entered the White House to begin his presidency.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3004",
+      "target_event": "Over 930 people were injured and dozens trapped due to the earthquake.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3005",
+      "target_event": "At least 26 buildings collapsed in Hualien, trapping 20 people inside as rescue efforts began.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3006",
+      "target_event": "Bobby Kotick will continue as Activision Blizzard CEO after the acquisition.",
+      "prediction": [
+        "B",
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3007",
+      "target_event": "Flash floods in Spain killed at least 158 people, with 155 deaths confirmed in the Valencia region.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3008",
+      "target_event": "Apple announced that the Apple Vision Pro will retail for $3,499 and be available in early 2024.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3009",
+      "target_event": "Services began returning to normal for firms such as Aena, United Airlines, American Airlines, and Commonwealth Bank.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3010",
+      "target_event": "Apple introduced a new biometric system, Optic ID, for user identification via iris analysis.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3011",
+      "target_event": "SpaceX successfully landed the Falcon 9 first stage booster used in the Demo-2 launch.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3012",
+      "target_event": "The Syrian Democratic Forces entered Mayadin City and took the Albu Kamal border crossing after Iranian-backed militias withdrew.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3013",
+      "target_event": "Israeli airstrikes on Saturday targeted areas near Beirut and Hezbollah weapons caches, resulting in at least 33 killed and 195 wounded, according to Lebanon’s health ministry.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3014",
+      "target_event": "Russia granted asylum to Assad and his family.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3015",
+      "target_event": "Kurdish forces were driven out of Manbij by Arab-led opposition forces in the northeast.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3016",
+      "target_event": "Historic flash floods struck Spain on Tuesday and Wednesday, killing at least 205 people.",
+      "prediction": [
+        "A",
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3017",
+      "target_event": "Customers began rebooting systems, with some recovering operations.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3018",
+      "target_event": "Orion’s main engine conducted a test burn about eight hours after launch.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3019",
+      "target_event": "Threads surpassed 100 million sign-ups within five days of launch.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3020",
+      "target_event": "President Biden spoke with Donald Trump after the incident.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3021",
+      "target_event": "On January 19, 2022, engineers finished deploying the individual mirror segments.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3022",
+      "target_event": "Apple introduced a new biometric system, Optic ID, for user identification via iris analysis.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3023",
+      "target_event": "Over 350 vessels were backed up on both ends of the canal during the blockage.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3024",
+      "target_event": "Blue Origin’s booster landed vertically after flight.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3025",
+      "target_event": "Prime Minister Mohammad Ghazi Jalali met with HTS leadership to facilitate a temporary, peaceful handover of power.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3026",
+      "target_event": "Papua New Guinea’s defense minister and the National Disaster Center director traveled to Yambali by Australian military helicopter on Sunday and delivered a check for 500,000 kina to support displaced survivors.",
+      "prediction": [
+        "C"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3027",
+      "target_event": "The Bank of England stated that notes featuring Queen Elizabeth II will remain legal tender and can be exchanged.",
+      "prediction": [
+        "A"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3028",
+      "target_event": "Apple Vision Pro incorporates privacy features such as Optic ID iris authentication and local processing of sensitive data.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3029",
+      "target_event": "The acquisition is pending regulatory review in the United States and European Union.",
+      "prediction": [
+        "D"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3030",
+      "target_event": "Rescuers lost contact with over 50 workers traveling in four minibuses to a hotel in Taroko Gorge National Park.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    },
+    {
+      "id": "q-3031",
+      "target_event": "Rescue teams evacuated about 70 people trapped in tunnels near Hualien, including two Germans.",
+      "prediction": [
+        "B"
+      ],
+      "golden": null
+    }
+  ]
+}

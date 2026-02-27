@@ -1,0 +1,4943 @@
+{
+  "config": {
+    "model_type": "anthropic",
+    "model_name": "claude-3-haiku-20240307",
+    "data_split": "dev",
+    "use_context": true,
+    "num_samples": 400
+  },
+  "results": {
+    "score": 0.3925,
+    "exact_match_rate": 0.315,
+    "partial_match_rate": 0.155,
+    "wrong_rate": 0.53,
+    "total": 400,
+    "exact_match": 126,
+    "partial_match": 62,
+    "wrong": 212
+  },
+  "predictions": [
+    {
+      "id": "q-2020",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "The context documents do not provide any information related to President Yoon Suk Yeol vowing to carry out a thorough investigation. The documents discuss various events and incidents, but none of them are directly related to the target event provide"
+    },
+    {
+      "id": "q-2021",
+      "target_event": "Twitter removed Trump's tweets and locked his account.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. Supporters stormed the U.S. Capitol.\n\nThe context documents indicate that the target event of Twitter removing Trump's tweets and locking his account was a direct response to the supporters storming the U.S. Capitol. This"
+    },
+    {
+      "id": "q-2022",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "B, Trump named Robert Lighthizer, a steel industry lobbyist, as U.S. Trade Representative.\n\nThe context documents indicate that the immediate cause of Trump proposing tariffs on steel and aluminum was his administration's trade policies"
+    },
+    {
+      "id": "q-2023",
+      "target_event": "On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elysées in Paris, leading to confrontations.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "A, B, C\n\nThe most direct cause of the \"yellow vest\" protests that blocked the Champs Elysées in Paris on November 24, 2018 appears to be the Macron government's announcement of an"
+    },
+    {
+      "id": "q-2024",
+      "target_event": "On November 26, 2018, the first trials for those arrested on November 24 took place.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "Based on the given context, the most plausible and direct cause of the target event (the first trials for those arrested on November 24, 2018 taking place on November 26, 2018) is:\n\nC."
+    },
+    {
+      "id": "q-2025",
+      "target_event": "South Korea banned seafood imports from the Fukushima area.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes of South Korea banning seafood imports from the Fukushima area are:\n\nB. A huge earthquake and tsunami in 2011 caused a meltdown at the"
+    },
+    {
+      "id": "q-2026",
+      "target_event": "The company intends to begin trading under the stock ticker MVRS on December 1.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C, the announcement of the new company brand \"Meta\" unifying Facebook's apps and technologies, is the most direct and plausible cause of the company intending to trade under the stock ticker MVRS on December 1.\n\nThe"
+    },
+    {
+      "id": "q-2027",
+      "target_event": "Huawei released a TV running HarmonyOS.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nExplanation:\nThe most direct and plausible causes for Huawei releasing a TV running HarmonyOS are:\nA. Huawei unveiled its Harmony operating system.\nB. Hu"
+    },
+    {
+      "id": "q-2028",
+      "target_event": "The chairmen of Credit Suisse and UBS announced a union on March 19th in Bern.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nExplanation:\nThe most direct and plausible causes of the announcement of a union between Credit Suisse and UBS appear to be:\n\nA. The major financial losses and scandals at Credit Suisse,"
+    },
+    {
+      "id": "q-2029",
+      "target_event": "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C"
+    },
+    {
+      "id": "q-2030",
+      "target_event": "Myanmar's military-dominated government issued a plea for outside help.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2031",
+      "target_event": "The Chinese government criticized Japan’s plan to release wastewater.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. Japan announced its plan to release treated Fukushima wastewater into the sea.\n\nThe most direct cause of the Chinese government criticizing Japan's plan to release wastewater is that Japan announced this specific plan. Options A,"
+    },
+    {
+      "id": "q-2032",
+      "target_event": "US Treasury Secretary Janet Yellen called financial regulators together to discuss the situation.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe direct and plausible causes for the US Treasury Secretary Janet Yellen calling financial regulators to discuss the situation are:\n\nB. The failure of The Santa Anna National Bank, which was shut down"
+    },
+    {
+      "id": "q-2033",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nThe most direct causes of the criminal charges against the former Minneapolis police officers in relation to George Floyd's death appear to be:\n\nA. George Floyd died on May 25, 2020, in Minneapolis under the knee of"
+    },
+    {
+      "id": "q-2034",
+      "target_event": "President Joe Biden approved a major disaster declaration for Texas.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.\n\nThe context documents indicate that the major winter storm that hit Texas was the direct cause of President Biden approving a major disaster declaration"
+    },
+    {
+      "id": "q-2035",
+      "target_event": "Liz Truss announced her resignation as Prime Minister on October 20.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2036",
+      "target_event": "Doctors at several hospitals pledged to go on strike to protest the coup.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "The most plausible and direct cause of the doctors going on strike to protest the coup is:\n\nB. Mali's military junta suspending political parties' activities \"until further notice for reasons of public order\".\n\nThis directly led to the"
+    },
+    {
+      "id": "q-2037",
+      "target_event": "Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe most direct and plausible causes of the widespread protests that erupted, including at Lafayette Square in Washington D.C., are:\n\nC. The video of George Floyd's last moments circulating in"
+    },
+    {
+      "id": "q-2038",
+      "target_event": "Wagner forces advanced towards Moscow with a column of armored vehicles.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. Prigozhin declared an armed rebellion.\n\nThe context documents indicate that Prigozhin staged an apparent insurrection, sending an armored convoy towards Moscow, which is the target event described. The most direct and pl"
+    },
+    {
+      "id": "q-2039",
+      "target_event": "Time Magazine named 'the Silence Breakers' Person of the Year in December 2017.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of Time Magazine naming 'the Silence Breakers' as Person of the Year in 2017 is the women using social media to share their sexual harassment experiences in October 2017"
+    },
+    {
+      "id": "q-2040",
+      "target_event": "Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct and plausible causes of the target event, which is the announcement by Prime Minister Fumio Kishida about Japan beginning to discharge treated radioactive water from the Fukushima Daiichi plant"
+    },
+    {
+      "id": "q-2041",
+      "target_event": "Local governments established public mourning sites.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C, President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.\n\nThe context documents do not mention anything about local governments establishing public mourning sites. The only relevant"
+    },
+    {
+      "id": "q-2042",
+      "target_event": "Signature Bank failed after a bank run.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe context documents do not provide any information about Silvergate, Silicon Valley Bank, or tech firms withdrawing deposits from SVB. The documents focus on the failure of The Santa Anna National Bank"
+    },
+    {
+      "id": "q-2043",
+      "target_event": "Yoon's senior aides and defense minister offered to resign.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "None of the given options represent a direct cause of the target event, which is \"Yoon's senior aides and defense minister offered to resign\". The context documents provided do not mention anything related to the politics or leadership in South Korea. The"
+    },
+    {
+      "id": "q-2044",
+      "target_event": "The House and Senate recessed, and the Capitol was locked down.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B"
+    },
+    {
+      "id": "q-2045",
+      "target_event": "Security arrested the suspected gunman, Tetsuya Yamagami.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. Former Japanese Prime Minister Shinzo Abe was assassinated at a campaign rally.\n\nThe target event states that \"Security arrested the suspected gunman, Tetsuya Yamagami.\" This directly indicates that Abe"
+    },
+    {
+      "id": "q-2046",
+      "target_event": "Nvidia's market cap briefly reached $1 trillion on Tuesday, following its report of better-than-expected Q1 revenues and a prediction of Q2 revenues 50% above analyst expectations.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2047",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe target event is about Goldman Sachs estimating that AI systems like ChatGPT could automate up to 300 million jobs worldwide. None of the other options provided are directly"
+    },
+    {
+      "id": "q-2048",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C\n\nThe most direct and plausible cause of Ontario placing a 25% tax on electricity exports to the U.S. is that Trump previously applied a 25% tariff on many exports from Canada and Mexico (option C). This"
+    },
+    {
+      "id": "q-2049",
+      "target_event": "The United Kingdom held a referendum on June 23.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe target event is the UK holding a referendum on June 23. The most direct causes of this event are:\n\nC) Prime Minister David Cameron pledged a referendum on EU membership in 2013."
+    },
+    {
+      "id": "q-2050",
+      "target_event": "The tariff announcement triggered a global meltdown in stock markets.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. President Trump announced a new tariff system on Wednesday, substituting America's longstanding import tax system.\n\nThe context documents indicate that the target event, a global stock market meltdown, was directly triggered by President Trump's announcement of"
+    },
+    {
+      "id": "q-2051",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "The most direct and plausible cause of the Iraqi parliament voting to expel US troops from Iraq is:\n\nD. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\n\nThe context documents"
+    },
+    {
+      "id": "q-2052",
+      "target_event": "DeepSeek launched its V2 model, which triggered a price war in China's AI industry.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2053",
+      "target_event": "Clinical trials began to test potential treatments and vaccines for COVID-19.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe context documents indicate that the target event - clinical trials to test potential COVID-19 treatments and vaccines - was a direct response to the emergence of the COVID-19 pandemic. The other"
+    },
+    {
+      "id": "q-2054",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C\n\nThe most direct and plausible cause of the boil-water notices issued in Austin and San Antonio appears to be the actions taken by local officials, as described in option C. Specifically, the joint declaration by the San Antonio Mayor"
+    },
+    {
+      "id": "q-2055",
+      "target_event": "U.S. government regulators announced they would fully cover deposits at both SVB and Signature Bank.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe target event is the U.S. government regulators announcing they would fully cover deposits at both SVB and Signature Bank. \n\nThe context documents do not mention anything about SVB or Signature"
+    },
+    {
+      "id": "q-2056",
+      "target_event": "Musk suspended accounts of prominent journalists.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe provided context documents do not mention anything about Musk suspending accounts of prominent journalists. They discuss topics like Publicis Groupe acquiring Captiv8, MaskDAO expanding its web3 footprint, an"
+    },
+    {
+      "id": "q-2057",
+      "target_event": "Trump was permanently banned from Twitter on January 8th.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct causes of Trump's permanent ban from Twitter on January 8th were:\n\nB. Supporters storming the U.S. Capitol on January 6th in an attempt to disrupt"
+    },
+    {
+      "id": "q-2058",
+      "target_event": "The Bank of England intervened on September 28 by announcing a temporary purchase of £65 billion worth of long-dated UK government bonds.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2059",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. Supporters stormed the U.S. Capitol.\n\nThe events described in the given context documents do not appear to be directly related to Trump's second impeachment. The context is primarily about the designation of Tencent as a"
+    },
+    {
+      "id": "q-2060",
+      "target_event": "Trade controls forced Chinese researchers to use freely available tools creatively.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nExplanation:\nThe target event is that \"Trade controls forced Chinese researchers to use freely available tools creatively.\" \n\nOption A, \"The U.S. government limits sales of powerful chips to China,\" is a direct"
+    },
+    {
+      "id": "q-2061",
+      "target_event": "Liz Truss fired Treasury chief Kwasi Kwarteng.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D"
+    },
+    {
+      "id": "q-2062",
+      "target_event": "Doctors at several hospitals pledged to go on strike to protest the coup.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "B. The military detained Aung San Suu Kyi and other top government figures.\n\nThe context documents do not provide any information about the situation in Myanmar. The target event is about doctors in Mali going on strike to protest a"
+    },
+    {
+      "id": "q-2063",
+      "target_event": "Coinbase introduced its Coinbase Payments platform enabling merchants to accept USDC stablecoin payments.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B. None of the others are correct causes.\n\nThe target event is Coinbase introducing its Coinbase Payments platform to enable merchants to accept USDC stablecoin payments. \n\nThe provided context documents do not mention any"
+    },
+    {
+      "id": "q-2064",
+      "target_event": "Putin delivered a televised address accusing Prigozhin of treason.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct causes of Putin delivering a televised address accusing Prigozhin of treason appear to be:\n\nC. Wagner forces advanced towards Moscow with a column of armored vehicles.\nD. Wagner forces"
+    },
+    {
+      "id": "q-2065",
+      "target_event": "DeepSeek-R1’s application became the most downloaded free AI app on the US Apple App Store.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2066",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes of the Iraqi parliament voting to expel US troops from Iraq are:\n\nB. The US airstrikes on Kataib Hezbollah facilities in Iraq and Syria on December"
+    },
+    {
+      "id": "q-2067",
+      "target_event": "Global markets plunged following the Brexit vote.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. The UK voted to leave the EU in a June 23 referendum.\n\nThe context documents indicate that the Brexit vote, in which the UK voted to leave the European Union, is the most direct cause of the global market plunge."
+    },
+    {
+      "id": "q-2068",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe key events that led to the Taliban seizing the presidential palace in Kabul on August 15, 2021 were:\n\n1. The Trump administration brokered a ceasefire deal"
+    },
+    {
+      "id": "q-2069",
+      "target_event": "A woman was shot inside the Capitol and died.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nThe most direct and plausible causes of the woman being shot inside the Capitol and dying appear to be:\n\nB) Protesters clashed with police and breached security barriers at the Capitol.\nD) Supporters stor"
+    },
+    {
+      "id": "q-2070",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of the target event, where a TEPCO staff member activated a seawater pump and an operator confirmed the release, is Japan's announcement of its plan to release treated Fukushima wa"
+    },
+    {
+      "id": "q-2071",
+      "target_event": "On September 10, 2020, a mobile home park was destroyed by fire in Phoenix, Oregon, causing hundreds of homes to be lost.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D"
+    },
+    {
+      "id": "q-2072",
+      "target_event": "Andrew Bosworth announced the retirement of the Oculus name.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D\n\nThe most direct cause of the target event, which is Andrew Bosworth announcing the retirement of the Oculus name, is option D - CEO Mark Zuckerberg introducing Meta, a new company brand unifying apps and technologies"
+    },
+    {
+      "id": "q-2073",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2074",
+      "target_event": "Security arrested the suspected gunman, Tetsuya Yamagami.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2075",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B\n\nThe direct cause of the target event, which is Goldman Sachs' estimate that AI systems like ChatGPT could automate up to 300 million jobs worldwide, is the public release of ChatGPT by OpenA"
+    },
+    {
+      "id": "q-2076",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct and plausible causes of the Taliban fighters spreading across Kabul streets are:\n\nC. On August 15, 2021, Afghan President Ashraf Ghani fled the country.\nD"
+    },
+    {
+      "id": "q-2077",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes of President Trump seeking to delay enforcement of the 2024 TikTok ban are:\n\nB. On January 17, 2025, the Supreme Court upheld the"
+    },
+    {
+      "id": "q-2078",
+      "target_event": "Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nExplanation:\nThe most direct and plausible causes of Mr. Musk stating that DOGE participants will not be paid and requesting they work 80-hour weeks are:\n\nA) Trump appointed E"
+    },
+    {
+      "id": "q-2079",
+      "target_event": "Myanmar’s military imposed a nationwide 8pm to 6am curfew.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2080",
+      "target_event": "Over four million customers were without power in Texas.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C, ERCOT initiated rolling outages, leaving millions of Texans without power.\n\nThe context documents indicate that the direct cause of the widespread power outages in Texas was the initiation of rolling blackouts by the state's gri"
+    },
+    {
+      "id": "q-2081",
+      "target_event": "On June 17, 2025, the U.S. Senate passed the GENIUS Act.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2082",
+      "target_event": "President Yoon Suk Yeol was immediately suspended from exercising his powers.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2083",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe target event is Ontario placing a 25% tax on electricity exports to the U.S. The most direct and plausible causes based on the provided context documents are:\n\nC. Trump previously applie"
+    },
+    {
+      "id": "q-2084",
+      "target_event": "Lawmakers voted down the martial law decree.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2085",
+      "target_event": "The Chinese government criticized Japan’s plan to release wastewater.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct and plausible causes of the Chinese government criticizing Japan's plan to release wastewater are:\n\nB. Japan announced its plan to release treated Fukushima wastewater into"
+    },
+    {
+      "id": "q-2086",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe most direct causes of the Taliban fighters celebrating the U.S. departure from Afghanistan are:\n\nA. The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal."
+    },
+    {
+      "id": "q-2087",
+      "target_event": "Protesters rallied in Tokyo on August 24, 2023, against the Japanese government’s plan to release treated wastewater from the Fukushima-Daiichi power plant.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe most direct cause of the protesters rallying in Tokyo against Japan's plan to release treated wastewater from the Fukushima-Daiichi power plant is Japan's announcement of this plan (option D). This event directly"
+    },
+    {
+      "id": "q-2088",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe most direct and plausible cause of over 2 million Texas residents being left without electricity is that ERCOT (the Electric Reliability Council of Texas) initiated rolling outages, leaving millions"
+    },
+    {
+      "id": "q-2089",
+      "target_event": "Nvidia's market cap briefly reached $1 trillion on Tuesday, following its report of better-than-expected Q1 revenues and a prediction of Q2 revenues 50% above analyst expectations.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2090",
+      "target_event": "Sinn Fein called for a referendum on Irish unity.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "The provided context documents do not mention anything related to Ireland, Sinn Fein, or a referendum on Irish unity. The target event appears to be unrelated to the given context about the election of the Polish president. Without any relevant context"
+    },
+    {
+      "id": "q-2091",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nExplanation:\nThe most direct and plausible cause of over 2 million Texas residents being left without electricity appears to be the extreme cold temperatures that plunged to arctic levels in Texas. The context documents mention that"
+    },
+    {
+      "id": "q-2092",
+      "target_event": "Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "The most direct and plausible cause of Donald Trump hailing a $500 billion plan by OpenAI, SoftBank, and Oracle is:\n\nC. DeepSeek's model outperformed Meta's Llama"
+    },
+    {
+      "id": "q-2093",
+      "target_event": "Wagner forces advanced towards Moscow with a column of armored vehicles.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D"
+    },
+    {
+      "id": "q-2094",
+      "target_event": "Protesters clashed with police and breached security barriers at the Capitol.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2095",
+      "target_event": "Prime Minister Han Duck-soo became acting president.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "The correct answer is C. Opposition legislators filed an impeachment motion against President Yoon on Wednesday.\n\nBased on the information provided, this appears to be the most direct and plausible cause of Prime Minister Han Duck-soo becoming acting"
+    },
+    {
+      "id": "q-2096",
+      "target_event": "The Los Angeles Mayor agreed to increase the LAPD budget cut to $150 million, to be redistributed to non-profit agencies.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A\n\nThe most direct and plausible cause of the Los Angeles Mayor agreeing to increase the LAPD budget cut to $150 million to be redistributed to non-profit agencies is the aggressive police response to protests, as described in"
+    },
+    {
+      "id": "q-2097",
+      "target_event": "Nvidia set a new company revenue record.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of Nvidia setting a new company revenue record is that Nvidia generated $13.51 billion in revenue for the three months ended July 30, as stated in option D. This financial result"
+    },
+    {
+      "id": "q-2098",
+      "target_event": "Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe target event is the widespread protests that erupted across the nation, including at Lafayette Square in Washington, D.C. The most direct and plausible causes of this event are:\n\nC. George"
+    },
+    {
+      "id": "q-2099",
+      "target_event": "On August 15, 2021, Afghan President Ashraf Ghani fled the country.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nThe most direct and plausible causes of the Afghan President Ashraf Ghani fleeing the country on August 15, 2021 appear to be:\n\nA. The rapid advance of the Taliban, who"
+    },
+    {
+      "id": "q-2100",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. Prigozhin negotiated his exit and called off his march on Moscow on Saturday afternoon.\n\nThe context documents indicate that Prigozhin's uprising and march towards Moscow was a short-lived event that lasted around 24"
+    },
+    {
+      "id": "q-2101",
+      "target_event": "On July 9, 2021, Interior Minister Mohammad Fehmi refused Bitar’s request to prosecute Ibrahim; Bitar appealed, but Cassation Attorney General Ghassan Khoury denied the request.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "The most direct and plausible cause of the target event, which is the refusal of Judge Bitar's request to prosecute Ibrahim, is option A:\n\nOn July 2, 2021, Judge Bitar requested parliament"
+    },
+    {
+      "id": "q-2102",
+      "target_event": "ERCOT initiated rolling outages, leaving millions of Texans without power.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct and plausible causes of ERCOT initiating rolling outages are:\n\nB. Texas Gov. Greg Abbott issuing a disaster declaration in all 254 counties.\nThis"
+    },
+    {
+      "id": "q-2103",
+      "target_event": "Nvidia shares surged 24% to a record high, triggering a stock rally for Nvidia and other AI-adjacent businesses.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nExplanation:\nThe target event is that Nvidia shares surged 24% to a record high, triggering a stock rally for Nvidia and other AI-adjacent businesses. \n\nThe most direct and plausible"
+    },
+    {
+      "id": "q-2104",
+      "target_event": "On July 28-29, 2021, the Beirut and Tripoli Bar Associations approved Bitar’s requests to prosecute Khalil, Zeaiter, and Fenianos.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2105",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C. Protesters clashed with police and breached security barriers at the Capitol.\n\nThe context documents do not mention the specific events that led to the activation of the D.C. National Guard and the imposition of a citywide curf"
+    },
+    {
+      "id": "q-2106",
+      "target_event": "The Lidia fire ignited in Angeles National Forest.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A. None of the others are correct causes.\n\nThe context documents provided do not mention the Lidia fire or provide any information about its cause. The documents discuss wildfire situations in British Columbia, Canada and the western United States, but"
+    },
+    {
+      "id": "q-2107",
+      "target_event": "World leaders expressed shock and condemned the murder.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "The given target event is \"World leaders expressed shock and condemned the murder.\"\n\nBased on the context provided, the most direct and plausible cause of this event is:\n\nC. Former Japanese Prime Minister Shinzo Abe was assass"
+    },
+    {
+      "id": "q-2108",
+      "target_event": "Lawmakers voted down the martial law decree.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "C, B\n\nThe most direct and plausible causes of lawmakers voting down the martial law decree are:\n\nC. Opposition legislators filing an impeachment motion against the president, which would likely lead to the president trying to impose martial law to maintain"
+    },
+    {
+      "id": "q-2109",
+      "target_event": "Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nExplanation:\nBased on the provided context, the most direct and plausible causes of the target event (Credit Suisse shareholders receiving one UBS share for every 22.48 Credit Suisse shares)"
+    },
+    {
+      "id": "q-2110",
+      "target_event": "Iraqi caretaker Prime Minister Adel Abdul Mahdi condemned the US air raid as a violation of Iraq’s sovereignty.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "The most direct and plausible cause of Iraqi Prime Minister Adel Abdul Mahdi condemning the US air raid as a violation of Iraq's sovereignty is:\n\nD. On December 29, US forces conducted airstrikes at five"
+    },
+    {
+      "id": "q-2111",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nThe most direct and plausible causes of the target event (a TEPCO staff member activating a seawater pump and an operator confirming the release) are options A and B, which describe the announcement by the"
+    },
+    {
+      "id": "q-2112",
+      "target_event": "Emergency workers from around the country were deployed to Itaewon to treat the injured.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\n\nThe provided context documents do not contain information about the specific Itaewon incident described in the target event. Base"
+    },
+    {
+      "id": "q-2113",
+      "target_event": "Huawei ensured HarmonyOS supports applications developed in multiple programming languages.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe key events that led to Huawei ensuring HarmonyOS supports applications developed in multiple programming languages are:\n\nB. Huawei stated HarmonyOS will debut first on the Honor Smart Screen an"
+    },
+    {
+      "id": "q-2114",
+      "target_event": "Officials confirmed on Monday that the death toll rose to 154 and 149 people were injured.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2115",
+      "target_event": "Huawei’s smartphone sales suffered in international markets.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "Based on the given context documents, the most plausible and direct cause of Huawei's smartphone sales suffering in international markets is:\n\nA. None of the others are correct causes.\n\nThe context documents do not provide any information about"
+    },
+    {
+      "id": "q-2116",
+      "target_event": "Arizona’s constitutional right to abortion amendment passed.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [],
+      "raw_output": "None of the provided options are direct causes of Arizona's constitutional right to abortion amendment passing. The context documents do not mention anything related to Arizona's abortion laws or the passage of this amendment. The documents discuss topics like Trump's policy agenda, Biden's"
+    },
+    {
+      "id": "q-2117",
+      "target_event": "On December 31, pro-Iranian protesters attacked the US Embassy in Baghdad.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe context documents do not provide any direct causal links between the options provided and the attack on the U.S. Embassy in Baghdad on December 31. The documents discuss drone incidents and tensions"
+    },
+    {
+      "id": "q-2118",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe target event is that Austin and San Antonio issued boil-water notices. Based on the given context documents, the most direct and plausible causes appear to be:\n\nB. Outdoor temperatures pl"
+    },
+    {
+      "id": "q-2119",
+      "target_event": "Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nExplanation:\nBased on the information provided in the context documents, the most direct and plausible cause of the target event (Credit Suisse shareholders receiving one UBS share for every 22.48 Credit Suisse"
+    },
+    {
+      "id": "q-2120",
+      "target_event": "The Time’s Up initiative was announced on January 1, 2018.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. None of the others are correct causes.\n\nThe Time's Up initiative was announced on January 1, 2018, while the given options describe events related to Harvey Weinstein, which occurred earlier. The context documents provided do not"
+    },
+    {
+      "id": "q-2121",
+      "target_event": "The S&P 500 fell below its 200-day moving average on Monday.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. The tariff announcement triggered a global meltdown in stock markets.\n\nThe context documents indicate that the S&P 500 fell below its 200-day moving average on Monday, likely in response to President Trump's announcement of"
+    },
+    {
+      "id": "q-2122",
+      "target_event": "The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nThe most direct and plausible causes of the military handing over power to Min Aung Hlaing and declaring a national state of emergency are:\n\nB. The military detained Aung San Suu"
+    },
+    {
+      "id": "q-2123",
+      "target_event": "A Myanmar court convicted Aung San Suu Kyi and Sean Turnell to three years in jail for violating the official secrets act.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe target event is the conviction of Aung San Suu Kyi and Sean Turnell by a Myanmar court for violating the official secrets act. \n\nBased on the context, the"
+    },
+    {
+      "id": "q-2124",
+      "target_event": "Jeremy Hunt reversed most mini-budget policies three weeks later.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe target event is that Jeremy Hunt reversed most of the mini-budget policies three weeks later. The most direct causes of this event are:\n\nB. Liz Truss fired Treasury chief Kw"
+    },
+    {
+      "id": "q-2125",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe context documents do not provide any direct connection between the events mentioned in options A, B, and the Iraqi parliament's vote to expel US troops from Iraq. \n\nThe context documents focus on recent drone"
+    },
+    {
+      "id": "q-2126",
+      "target_event": "Huawei stated HarmonyOS will debut first on the Honor Smart Screen and Huawei TVs.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nThe target event is that Huawei stated HarmonyOS will debut first on the Honor Smart Screen and Huawei TVs. The most direct causes for this are:\n\nB. Richard Yu announced Harmony"
+    },
+    {
+      "id": "q-2127",
+      "target_event": "On August 15, 2021, Afghan President Ashraf Ghani fled the country.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2128",
+      "target_event": "Quebec planes and B.C. helicopters are battling the L.A. wildfires.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "Based on the provided context documents, the most direct and plausible cause of the target event (Quebec planes and B.C. helicopters battling the L.A. wildfires) is:\n\nB, C\n\nThe context documents"
+    },
+    {
+      "id": "q-2129",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B, D"
+    },
+    {
+      "id": "q-2130",
+      "target_event": "Protesters clashed with police and breached security barriers at the Capitol.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "D. Trump supporters protested in Washington, D.C.\n\nThe context documents do not mention Trump addressing the crowd or pipe bombs being reported, so those options are not directly related to the target event of protesters clashing with police and breaching"
+    },
+    {
+      "id": "q-2131",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2132",
+      "target_event": "DeepSeek-R1 achieved a Pass@1 score of 97.3% on MATH-500, surpassing OpenAI’s o1.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2133",
+      "target_event": "Regulators expedited the merger process between Credit Suisse and UBS to avert a crisis.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nBased on the given context documents, the most direct and plausible causes of the regulators expediting the merger between Credit Suisse and UBS are:\n\nB. Credit Suisse shares pl"
+    },
+    {
+      "id": "q-2134",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "C, B"
+    },
+    {
+      "id": "q-2135",
+      "target_event": "Opposition legislators filed an impeachment motion against President Yoon on Wednesday.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "Based on the information provided in the context documents, the most plausible and direct cause of the opposition legislators filing an impeachment motion against President Yoon is:\n\nD. Lawmakers at the National Assembly unanimously annulled martial law"
+    },
+    {
+      "id": "q-2136",
+      "target_event": "DeepSeek released its large language model, DeepSeek-R1, on January 20.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of DeepSeek releasing its large language model, DeepSeek-R1, on January 20 is that DeepSeek's model outperformed other leading models in thir"
+    },
+    {
+      "id": "q-2137",
+      "target_event": "The Pentagon suspended operations against ISIS in Iraq and Syria.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "Based on the provided context documents, the most plausible and direct cause of the Pentagon suspending operations against ISIS in Iraq and Syria appears to be:\n\nA, D\n\nThe context documents indicate that there have been recent drone attacks and interceptions"
+    },
+    {
+      "id": "q-2138",
+      "target_event": "David Lebryk departed his position at the Treasury Department.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "The most plausible and direct cause of David Lebryk departing his position at the Treasury Department is:\n\nB. Mr. Musk stated DOGE participants will not be paid and requested they work 80-hour weeks."
+    },
+    {
+      "id": "q-2139",
+      "target_event": "Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes of the Prime Minister Edouard Philippe announcing nearly 500 million euros in aid for low-income motorists are the large-scale protests across France by the \"yellow vest\""
+    },
+    {
+      "id": "q-2140",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe target event is the FBI and ATF clearing the Capitol. Based on the context provided, the most direct and plausible causes are:\n\nB. Trump supporters protested in Washington, D.C"
+    },
+    {
+      "id": "q-2141",
+      "target_event": "Facebook replaced its corporate sign outside its California headquarters with one featuring the Meta logo.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2142",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "C, B\n\nThe most direct causes of Judge Sawan charging Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence on December 10, 2020 are:\n\nC. The colossal"
+    },
+    {
+      "id": "q-2143",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe key factors that led to the Taliban's celebratory response after the U.S. departure from Afghanistan are:\n\nB. The suicide bombing by ISIS-K that killed U.S. and Afghan"
+    },
+    {
+      "id": "q-2144",
+      "target_event": "Trump authorized federal disaster aid for California and Oregon.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nExplanation:\nBased on the context documents provided, the most direct and plausible causes for Trump authorizing federal disaster aid for California and Oregon are:\n\nA) None of the other options are direct causes. The context"
+    },
+    {
+      "id": "q-2145",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct causes of the target event (Goldman Sachs estimating that AI systems like ChatGPT could automate up to 300 million jobs worldwide) are:\n\nB. OpenAI publicly released Chat"
+    },
+    {
+      "id": "q-2146",
+      "target_event": "Prigozhin went into exile in Belarus.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nBased on the context provided, the most direct and plausible causes of Prigozhin going into exile in Belarus are:\n\nC. Belarusian President Alexander Lukashenko b"
+    },
+    {
+      "id": "q-2147",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe most direct causes of Trump's second impeachment on January 13th appear to be:\n\nA. Supporters stormed the U.S. Capitol on January 6th in an attempt to overturn the election results"
+    },
+    {
+      "id": "q-2148",
+      "target_event": "130 people were arrested across France, including 42 in Paris.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "Based on the information provided, the most direct and plausible cause of the target event (130 people being arrested across France, including 42 in Paris) appears to be:\n\nA, C\n\nOptions A and C describe events that"
+    },
+    {
+      "id": "q-2149",
+      "target_event": "Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe target event is the increase in fire hotspots in indigenous territories in Brazil by 88% from January to August 2019 compared to 2018. Based on the provided context documents:"
+    },
+    {
+      "id": "q-2150",
+      "target_event": "Huawei stated it will first lay the foundation for operating systems in the Chinese market, then expand overseas.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B\n\nThe context documents do not provide any information that is directly relevant to Huawei's announcement about laying the foundation for operating systems in China first before expanding overseas. The only relevant piece of information is that Huawei began development of"
+    },
+    {
+      "id": "q-2151",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C, D\n\nThe most direct causes of President Bolsonaro announcing a 60-day ban on setting fires for land clearing and deploying 44,000 soldiers to seven states are:\n\nB. The Brazilian government struggle"
+    },
+    {
+      "id": "q-2152",
+      "target_event": "Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the provided context, the most direct and plausible causes of the increase in fire hotspots in indigenous territories in Brazil are:\n\nB. Brazilian authorities are investigating 70 farmers and lan"
+    },
+    {
+      "id": "q-2153",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D"
+    },
+    {
+      "id": "q-2154",
+      "target_event": "Up to six ERCOT board members resigned on February 24.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. ERCOT initiated rolling outages, leaving millions of Texans without power.\n\nThe context documents do not provide any information about ERCOT board members resigning. However, the article \"Texas prepares for severe winter"
+    },
+    {
+      "id": "q-2155",
+      "target_event": "Germany and Norway withheld tens of millions of dollars from the Amazon Fund.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2156",
+      "target_event": "Protesters rallied in Tokyo on August 24, 2023, against the Japanese government’s plan to release treated wastewater from the Fukushima-Daiichi power plant.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the information provided, the most direct and plausible causes of the protesters rallying in Tokyo against the Japanese government's plan to release treated wastewater from the Fukushima-D"
+    },
+    {
+      "id": "q-2157",
+      "target_event": "Huawei’s smartphone sales suffered in international markets.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A. Google, Intel, and other U.S. companies suspended business with Huawei.\n\nThe context documents do not provide any information about the causes of Huawei's smartphone sales issues in international markets. However, the first"
+    },
+    {
+      "id": "q-2158",
+      "target_event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe to return home.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2159",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct and plausible causes of the target event are:\n\nB. ByteDance acquired Musical.ly in 2017 and rebranded it as TikTok.\nThis"
+    },
+    {
+      "id": "q-2160",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the context provided, the most direct and plausible causes of the authorities in Myanmar and Thailand declaring a state of emergency are:\n\nB. The United Nations mobilizing help for Myanmar on Friday"
+    },
+    {
+      "id": "q-2161",
+      "target_event": "Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the provided context documents, the most direct and plausible causes of the regional power generators spontaneously shutting down in Corpus Christi are:\n\nB. The incoming \"pretty frig"
+    },
+    {
+      "id": "q-2162",
+      "target_event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe to return home.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2163",
+      "target_event": "Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "The most direct and plausible cause of the event \"Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle\" based on the given context is:\n\nC. DeepSeek unveiled its"
+    },
+    {
+      "id": "q-2164",
+      "target_event": "Jeremy Hunt reversed most mini-budget policies three weeks later.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2165",
+      "target_event": "Security arrested the suspected gunman, Tetsuya Yamagami.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. A man fired twice at Shinzo Abe."
+    },
+    {
+      "id": "q-2166",
+      "target_event": "OpenAI released ChatGPT Plus on February 1, 2023, and later introduced GPT-4 Turbo with Vision and GPT-4o to the public.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2167",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C"
+    },
+    {
+      "id": "q-2168",
+      "target_event": "130 people were arrested across France, including 42 in Paris.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "Based on the information provided in the context documents, the most direct and plausible cause of the target event (130 people arrested across France, including 42 in Paris) is:\n\nA, B\n\nThe context documents do not provide"
+    },
+    {
+      "id": "q-2169",
+      "target_event": "The reinforcement learning algorithm trained the final version of ChatGPT to produce high-scoring responses.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2170",
+      "target_event": "Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D"
+    },
+    {
+      "id": "q-2171",
+      "target_event": "Myanmar’s military seized power on February 1, beginning a coup.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe provided context documents do not mention anything about elections or voter fraud in Myanmar. The most relevant information is that China's Foreign Minister Wang Yi visited Myanmar less than three weeks before the military coup. This suggests that China's engagement with Myanmar's"
+    },
+    {
+      "id": "q-2172",
+      "target_event": "The British pound plunged in value.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2173",
+      "target_event": "The New York Times published an investigation into Harvey Weinstein's sexual harassment on October 5, 2017.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe most direct and plausible causes of the New York Times investigation into Harvey Weinstein's sexual harassment are:\n\nC) In 2015, Harvey Weinstein badgered a female assistant"
+    },
+    {
+      "id": "q-2174",
+      "target_event": "The Japanese government allocated $200 million to compensate the fishing industry and $340 million for local economic mitigation.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nThe most direct and plausible causes of the Japanese government's allocation of funds to compensate the fishing industry and for local economic mitigation are:\n\nA. Japan announced its plan to release treated Fukushima waste"
+    },
+    {
+      "id": "q-2175",
+      "target_event": "Jeremy Hunt reversed most mini-budget policies three weeks later.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe most direct cause of Jeremy Hunt reversing most of the mini-budget policies three weeks later is the fact that Liz Truss became UK Prime Minister on September 5. The mini-budget"
+    },
+    {
+      "id": "q-2176",
+      "target_event": "French President Emmanuel Macron announced France’s withdrawal of support for the Mercosur trade deal.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nBased on the context documents provided, the most direct and plausible causes of France's withdrawal of support for the Mercosur trade deal are:\n\nC. MAAP released a report revealing overlap"
+    },
+    {
+      "id": "q-2177",
+      "target_event": "The British pound plunged in value.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nThe two most direct and plausible causes for the British pound plunging in value are:\n\nB. Prime Minister David Cameron pledged a referendum on EU membership in 2013.\nThis set in motion the events"
+    },
+    {
+      "id": "q-2178",
+      "target_event": "The Iranian government issued an intercity travel ban and closed schools, universities, national parks, and non-essential businesses on March 26.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [],
+      "raw_output": "The most direct and plausible causes of the Iranian government issuing an intercity travel ban and closing schools, universities, national parks, and non-essential businesses on March 26 are not provided in the given context documents. The documents discuss"
+    },
+    {
+      "id": "q-2179",
+      "target_event": "Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe key context here is that Huawei announced a deployment timeline for HarmonyOS, its proprietary operating system, on various devices between 2020 and 2022. Based on the information provided:"
+    },
+    {
+      "id": "q-2180",
+      "target_event": "Belarusian President Alexander Lukashenko brokered a deal for Prigozhin to leave Russia.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C"
+    },
+    {
+      "id": "q-2181",
+      "target_event": "The Chinese government criticized Japan’s plan to release wastewater.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. Japan announced its plan to release treated Fukushima wastewater into the sea.\n\nThe target event is the Chinese government criticizing Japan's plan to release Fukushima wastewater. The most direct cause of this event"
+    },
+    {
+      "id": "q-2182",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe most direct and plausible causes of the Taliban fighters spreading across Kabul streets are:\n\nA. The Trump administration brokered a cease-fire with the Taliban in early 2020, excluding the Afghan government"
+    },
+    {
+      "id": "q-2183",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "B. Japan announced its plan to release treated Fukushima wastewater into the sea.\n\nThe provided context documents do not mention anything about Japan's plan to release Fukushima wastewater or a staff member from TEPCO"
+    },
+    {
+      "id": "q-2184",
+      "target_event": "The Swiss National Bank pledged a loan of up to 100 billion Swiss francs to support the takeover.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nThe most direct and plausible cause of the Swiss National Bank pledging a loan of up to 100 billion Swiss francs to support the takeover of Credit Suisse is that Swiss officials brokered an emergency"
+    },
+    {
+      "id": "q-2185",
+      "target_event": "President Donald Trump proposed tariffs on steel and aluminum.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2186",
+      "target_event": "Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct and plausible causes of the target event (Prime Minister Kishida announcing the release of treated radioactive water from Fukushima into the sea) are:\n\nB. Protesters"
+    },
+    {
+      "id": "q-2187",
+      "target_event": "Millions of people started using ChatGPT immediately after its launch.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. OpenAI publicly released ChatGPT as a free research preview on November 30, 2022.\n\nThe context documents indicate that the target event - millions of people starting to use ChatGPT immediately after its launch -"
+    },
+    {
+      "id": "q-2188",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2189",
+      "target_event": "The NOAA National Centers for Environmental Information released the final 2023 Billion-dollar disaster report.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe target event is the release of the 2023 Billion-dollar disaster report by NOAA. The context documents provided do not mention anything about this report or its release. Instea"
+    },
+    {
+      "id": "q-2190",
+      "target_event": "DeepSeek-R1’s application became the most downloaded free AI app on the US Apple App Store.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2191",
+      "target_event": "The coronavirus pandemic halted the global economy.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nExplanation:\nThe most direct causes of the coronavirus pandemic halting the global economy are:\n\nA) The World Health Organization officially declaring the situation a pandemic on March 11, 2020. This declaration triggered widespread lock"
+    },
+    {
+      "id": "q-2192",
+      "target_event": "The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B, D do not appear to be directly relevant to the target event of the U.S. government mandating port and border closures and authorizing immediate repatriation of asylum seekers on March 21. \n\nThe"
+    },
+    {
+      "id": "q-2193",
+      "target_event": "Over three million Brits called for a do-over.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of over three million Brits calling for a \"do-over\" of the EU referendum is the UK's vote to leave the EU in the June 23 referendum (option D). This"
+    },
+    {
+      "id": "q-2194",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B"
+    },
+    {
+      "id": "q-2195",
+      "target_event": "Huawei released a TV running HarmonyOS.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. Huawei unveiled its Harmony operating system.\n\nThe context documents do not provide any information about Huawei releasing a TV running HarmonyOS. The only relevant information is that Huawei unveiled its Harmony"
+    },
+    {
+      "id": "q-2196",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2197",
+      "target_event": "The Italian government called in the military to enforce its lockdown and ordered non-essential businesses to close by March 22.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "The most direct and plausible cause of the Italian government calling in the military to enforce its lockdown and ordering non-essential businesses to close by March 22 is:\n\nC. COVID-19 forced countries into lockdown."
+    },
+    {
+      "id": "q-2198",
+      "target_event": "Women in media created an anonymously editable Google spreadsheet titled “SHITTY MEDIA MEN” to list men in media and allegations of inappropriate behavior.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nExplanation:\nThe target event is that women in media created an anonymously editable Google spreadsheet to list men in media and allegations of inappropriate behavior. The most direct and plausible causes for this event are:"
+    },
+    {
+      "id": "q-2199",
+      "target_event": "A woman was shot inside the Capitol and died.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct causes of the woman being shot inside the Capitol and dying appear to be the actions of the supporters who stormed the U.S. Capitol (option B) and the protesters who clashed with police and breache"
+    },
+    {
+      "id": "q-2200",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "The most direct and plausible cause of the target event (international leaders and organizations condemning the military takeover in Myanmar) is:\n\nB. The army announced power was handed to commander-in-chief Min Aung Hla"
+    },
+    {
+      "id": "q-2201",
+      "target_event": "DeepSeek's app reached the top of U.S. free app charts within a week of its launch.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2202",
+      "target_event": "Nvidia set a new company revenue record.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2203",
+      "target_event": "The Secret Service rushed President Trump and his family to a bunker after unrest outside the White House on May 29, 2020.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "B\n\nThe most direct and plausible cause of the Secret Service rushing President Trump and his family to a bunker due to unrest outside the White House on May 29, 2020 was the widespread protests that erupted across the"
+    },
+    {
+      "id": "q-2204",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump’s tariffs on Canadian imports.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2205",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe most direct cause of the Taliban fighters spreading across Kabul streets is that the Taliban seized control of the city on August 15, 2021, as the US was withdrawing its troops. This event allowed the Taliban to take"
+    },
+    {
+      "id": "q-2206",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2207",
+      "target_event": "President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. At least 153 people were killed and dozens injured.\n\nThe target event is that President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone. The most"
+    },
+    {
+      "id": "q-2208",
+      "target_event": "On December 29, US forces conducted airstrikes at five Kataib Hezbollah facilities in Iraq and Syria, killing at least 25 people.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. On December 27, Kataib Hezbollah attacked the K1 military base near Kirkuk, killing an American contractor and wounding American and Iraqi personnel.\n\nThe context documents indicate that the U.S."
+    },
+    {
+      "id": "q-2209",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe most direct causes of the widespread disruption in internet, news access, and bank closures in Myanmar following the coup are:\n\nA. Myanmar's military seizing power in a coup on February 1.\nC."
+    },
+    {
+      "id": "q-2210",
+      "target_event": "Global markets plunged following the Brexit vote.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D"
+    },
+    {
+      "id": "q-2211",
+      "target_event": "By April 3, 2025, the death toll from the earthquake reached 4,390 in Myanmar, with over 5,490 injured.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe context documents do not mention anything about the United Nations mobilizing help for Myanmar or India sending relief material. These events do not appear to be directly related to the observed death toll from the earthquake"
+    },
+    {
+      "id": "q-2212",
+      "target_event": "DeepSeek released its large language model, DeepSeek-R1, on January 20.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2213",
+      "target_event": "The U.S. State Department confirmed at least two U.S. citizens were among the dead.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct causes of the target event (the U.S. State Department confirming that at least two U.S. citizens were among the dead) are options C and D, which state that at least 153"
+    },
+    {
+      "id": "q-2214",
+      "target_event": "The IAEA will maintain an on-site presence for the duration of the release.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B. Japan announced its plan to release treated Fukushima wastewater into the sea.\n\nThe target event states that the IAEA will maintain an on-site presence for the duration of the release. This indicates that the release of"
+    },
+    {
+      "id": "q-2215",
+      "target_event": "The military detained Aung San Suu Kyi and other top government figures.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct and plausible causes of the military detaining Aung San Suu Kyi and other top government figures appear to be:\n\nC. In November 2020, the NLD won a"
+    },
+    {
+      "id": "q-2216",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct and plausible causes of the Iraqi parliament voting to expel US troops from Iraq are:\n\nB. During the 1980s Iran-Iraq War, Muhandis fought on"
+    },
+    {
+      "id": "q-2217",
+      "target_event": "Bushfire smoke created smog in Sydney, causing air quality to reach 22 times worse than standard levels and causing respiratory problems for residents.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D"
+    },
+    {
+      "id": "q-2218",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B, the New York Times publication of the Harvey Weinstein investigation on October 5, 2017, is the most direct cause of the target event - women using social media to share their sexual harassment experiences, leading to the #MeT"
+    },
+    {
+      "id": "q-2219",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2220",
+      "target_event": "President Yoon Suk Yeol was immediately suspended from exercising his powers.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2221",
+      "target_event": "Time Magazine named 'the Silence Breakers' Person of the Year in December 2017.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of Time Magazine naming 'the Silence Breakers' as Person of the Year in 2017 is the viral spread of the #MeToo movement in October 2017,"
+    },
+    {
+      "id": "q-2222",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nExplanation:\nBased on the provided context, the most direct and plausible causes of the Wagner troops withdrawing from Rostov, Lipetsk, and Moscow are:\n\nA. Putin's televised address"
+    },
+    {
+      "id": "q-2223",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D"
+    },
+    {
+      "id": "q-2224",
+      "target_event": "The U.S. Congress defined legal requirements for stablecoins, including HQLA, one-for-one backing, and audits.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of the U.S. Congress defining legal requirements for stablecoins appears to be option D - the Senate voting to advance a modified version of the GENIUS Act on May 20,"
+    },
+    {
+      "id": "q-2225",
+      "target_event": "Prigozhin negotiated his exit and called off his march on Moscow on Saturday afternoon.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C"
+    },
+    {
+      "id": "q-2226",
+      "target_event": "Prime Minister Hassan Diab and his government resigned following the explosion.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe context documents provided do not mention anything related to Lebanon, the explosion at the Port of Beirut, or the resignation of the Prime Minister Hassan Diab and his government. The documents are about explos"
+    },
+    {
+      "id": "q-2227",
+      "target_event": "Local governments established public mourning sites.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\n\nThe context documents do not provide any information about the target event of local governments establishing public mourning sites. The documents discuss"
+    },
+    {
+      "id": "q-2228",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2229",
+      "target_event": "Over three million Brits called for a do-over.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. The United Kingdom held a referendum on June 23.\n\nThe context documents indicate that Karol Nawrocki, a conservative and EU-skeptic candidate, won the Polish presidential election. This prompted reactions across Europe, including calls"
+    },
+    {
+      "id": "q-2230",
+      "target_event": "Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe target event is that \"Donald Trump hailed a $500 billion plan by OpenAI, SoftBank, and Oracle\". The context documents do not mention anything about DeepSeek or its models."
+    },
+    {
+      "id": "q-2231",
+      "target_event": "The FBI and ATF cleared the Capitol.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. Supporters stormed the U.S. Capitol.\n\nThe context documents indicate that the target event is the FBI and ATF clearing the Capitol. The most direct cause of this event is that supporters stormed the U.S. Capitol"
+    },
+    {
+      "id": "q-2232",
+      "target_event": "Facebook replaced its corporate sign outside its California headquarters with one featuring the Meta logo.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2233",
+      "target_event": "Over three million Brits called for a do-over.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C, the UK voting to leave the EU in a June 23 referendum, is the most direct and plausible cause of over three million Brits calling for a do-over.\n\nThe context documents do not mention anything about a"
+    },
+    {
+      "id": "q-2234",
+      "target_event": "Huawei stated it will first lay the foundation for operating systems in the Chinese market, then expand overseas.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2235",
+      "target_event": "The House and Senate recessed, and the Capitol was locked down.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct and plausible causes of the target event (the House and Senate recessing and the Capitol being locked down) appear to be options C and D, which describe protesters clashing with police and breaching security barriers"
+    },
+    {
+      "id": "q-2236",
+      "target_event": "On December 20, Musk confirmed he will step down as CEO upon finding a replacement and will manage software/servers teams.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nOption C and D are the most direct and plausible causes of the target event, where Musk confirmed he will step down as CEO.\n\nOption C, Musk confirming the $8"
+    },
+    {
+      "id": "q-2237",
+      "target_event": "Officials confirmed on Monday that the death toll rose to 154 and 149 people were injured.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\n\nThe target event describes an increase in the death toll and number of injured people, which is most directly caused by a deadly"
+    },
+    {
+      "id": "q-2238",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2239",
+      "target_event": "Myanmar's ruling junta chief reported at least 144 people killed and over 732 injured.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe context documents provided do not mention any events in Thailand or a high-rise collapse. The documents focus on flooding and landslide events in Myanmar, India, and Switzerland. The target event"
+    },
+    {
+      "id": "q-2240",
+      "target_event": "The Pentagon suspended operations against ISIS in Iraq and Syria.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe target event is the Pentagon suspending operations against ISIS in Iraq and Syria. Based on the provided context documents, the most direct and plausible causes are:\n\nB. Jamal Jaaf"
+    },
+    {
+      "id": "q-2241",
+      "target_event": "Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "Based on the context provided, the most direct cause of the regional power generators spontaneously shutting down in Corpus Christi appears to be D. None of the others are correct causes.\n\nThe context documents do not mention any"
+    },
+    {
+      "id": "q-2242",
+      "target_event": "Taliban fighters celebrated following the U.S. departure.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2243",
+      "target_event": "General Motors announced it would suspend its advertising on Twitter.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2244",
+      "target_event": "Iran launched ballistic missile attacks against Al Asad and Erbil air bases in Iraq used by US and coalition forces on Tuesday night.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2245",
+      "target_event": "The Almeda Fire burned hundreds of homes and businesses in Phoenix and Talent, Oregon.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe context documents do not provide direct information about the causes of the specific Almeda Fire event. However, based on the general information about climate change and wildfires, the most plausible and direct causes are:"
+    },
+    {
+      "id": "q-2246",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B. None of the others are correct causes.\n\nThe context documents provided do not mention Shinzo Abe or any events related to him. The target event is the circulation of videos of an assassination on social media, so the options provide"
+    },
+    {
+      "id": "q-2247",
+      "target_event": "Derek Chauvin was arrested and charged with murder and manslaughter.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C"
+    },
+    {
+      "id": "q-2248",
+      "target_event": "The IAEA will maintain an on-site presence for the duration of the release.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "The most direct cause of the target event, \"The IAEA will maintain an on-site presence for the duration of the release\", is C. Japan announced its plan to release treated Fukushima wastewater into the sea."
+    },
+    {
+      "id": "q-2249",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "C, B\n\nThe most direct causes of Trump's second impeachment appear to be:\n\nC. Trump urged supporters to march to the Capitol.\nB. Trump urged supporters to march to the Capitol.\n\nThese actions by Trump directly contributed to"
+    },
+    {
+      "id": "q-2250",
+      "target_event": "Local governments established public mourning sites.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "Based on the provided context documents, the most direct and plausible cause of local governments establishing public mourning sites appears to be:\n\nC. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on"
+    },
+    {
+      "id": "q-2251",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes of the widespread disruption in internet, news access, and bank closures in Myanmar following the coup are:\n\nB. Myanmar's military seized power on February 1, beginning a coup"
+    },
+    {
+      "id": "q-2252",
+      "target_event": "The congressional certification of Joe Biden’s victory was halted.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe most direct and plausible causes for the congressional certification of Joe Biden's victory being halted are:\n\nA. Protesters clashed with police and breached security barriers at the Capitol.\nC. The House an"
+    },
+    {
+      "id": "q-2253",
+      "target_event": "India sent approximately 15 tonnes of relief material to Myanmar via an IAF C-130J aircraft.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D"
+    },
+    {
+      "id": "q-2254",
+      "target_event": "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2255",
+      "target_event": "Nvidia set a new company revenue record.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D"
+    },
+    {
+      "id": "q-2256",
+      "target_event": "Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the context provided, the most direct and plausible causes of the increased fire hotspots in indigenous territories are:\n\nB. Brazilian authorities are investigating 70 farmers and land grabbers in"
+    },
+    {
+      "id": "q-2257",
+      "target_event": "Up to six ERCOT board members resigned on February 24.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nBased on the context provided, the most direct causes of the ERCOT board members resigning appear to be:\n\nC. ERCOT initiated rolling outages, leaving millions of Texans"
+    },
+    {
+      "id": "q-2258",
+      "target_event": "President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2259",
+      "target_event": "Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the context provided, the most direct and plausible causes of the Prime Minister announcing aid for low-income motorists are:\n\nB. The \"yellow vest\" protests that blocked roads and confront"
+    },
+    {
+      "id": "q-2260",
+      "target_event": "Police attacked protesters using stun hand grenades, tear gas, rubber bullets, vehicles, and direct projectile fire.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B, None of the others are correct causes.\n\nThe provided context documents do not mention anything related to the target event of police attacking protesters using various means. The context documents describe unrelated events in Kenya, Serbia, and San Francisco. None of"
+    },
+    {
+      "id": "q-2261",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nExplanation:\nThe most direct and plausible causes of the Taliban fighters spreading across Kabul streets are:\n\nA. The U.S. and other countries began withdrawing their forces from Afghanistan on May 1"
+    },
+    {
+      "id": "q-2262",
+      "target_event": "Credit Suisse's board rebuffed the proposal from UBS.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nBased on the context provided, the most direct and plausible causes for Credit Suisse's board rebuffing the merger proposal from UBS are:\n\nC. Investors and depositors withdrew billions"
+    },
+    {
+      "id": "q-2263",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B"
+    },
+    {
+      "id": "q-2264",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump’s tariffs on Canadian imports.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A\n\nThe context documents indicate that the target event is the U.S. Senate likely voting on a bill to halt Trump's tariffs on Canadian imports. The most direct cause of this event is the announcement of new tariffs by President Trump,"
+    },
+    {
+      "id": "q-2265",
+      "target_event": "A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.\n\nThe target event describes a U.S. drone strike that killed Iranian General Qassem Soleimani and Iraqi militia"
+    },
+    {
+      "id": "q-2266",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nThe most direct and plausible causes of the target event (the criminal charges against the former Minneapolis police officers) are:\n\nB. Video of George Floyd's last moments circulated in May.\nD. George Floyd die"
+    },
+    {
+      "id": "q-2267",
+      "target_event": "Amazonas state in Brazil declared a state of emergency due to the fires.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2268",
+      "target_event": "In 2014, Harvey Weinstein invited Emily Nestor to a hotel.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "B. None of the others are correct causes.\n\nThe target event is that in 2014, Harvey Weinstein invited Emily Nestor to a hotel. None of the other options provided are directly related to or causally linked to this"
+    },
+    {
+      "id": "q-2269",
+      "target_event": "Wagner forces advanced towards Moscow with a column of armored vehicles.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nThe most direct and plausible causes of the Wagner forces advancing towards Moscow with armored vehicles are:\n\nA) Prigozhin declared an armed rebellion against the Russian government.\nD) Wagner forces seized control of"
+    },
+    {
+      "id": "q-2270",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2271",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2272",
+      "target_event": "Vice President Myint Swe was installed as acting President.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C\n\nThe most direct cause of Vice President Myint Swe being installed as acting President is that Myanmar's military seized power on February 1, beginning a coup. This event directly led to the military taking control of the government and installing"
+    },
+    {
+      "id": "q-2273",
+      "target_event": "Andrew Bosworth announced the retirement of the Oculus name.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B\n\nThe most direct cause of the announcement of the retirement of the Oculus name is that Facebook changed its corporate name to Meta on October 28, 2021 at the company's annual Connect event. This rebranding and the"
+    },
+    {
+      "id": "q-2274",
+      "target_event": "Burst pipes led to widespread water disruptions, affecting over 15 million people in Texas.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe most direct and plausible cause of the burst pipes leading to widespread water disruptions in Texas appears to be the plunge in outdoor temperatures to arctic levels, as mentioned in the last context document. This sudden and extreme drop in temperature"
+    },
+    {
+      "id": "q-2275",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B. The New York Times published an investigation into Harvey Weinstein's sexual harassment on October 5, 2017.\n\nThe publication of the New York Times investigation into Harvey Weinstein's sexual harassment in October 2017 is"
+    },
+    {
+      "id": "q-2276",
+      "target_event": "Global markets plunged following the Brexit vote.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe most direct causes of the global markets plunging following the Brexit vote are:\n\nB. Prime Minister David Cameron pledged a referendum on EU membership in 2013.\nThis set in motion the"
+    },
+    {
+      "id": "q-2277",
+      "target_event": "The country's currency plummeted in value and government borrowing costs rose after the announcement.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. None of the others are correct causes.\n\nThe context documents do not provide any information about the country's currency plummeting in value and government borrowing costs rising after an announcement. The given options are not directly related to the target event"
+    },
+    {
+      "id": "q-2278",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2279",
+      "target_event": "Ontario placed a 25% tax on electricity exports to the U.S.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2280",
+      "target_event": "Myanmar's ruling junta chief reported at least 144 people killed and over 732 injured.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. The earthquake caused significant damage and displacement across Myanmar.\n\nThe context documents provided do not mention any earthquake or events in Thailand or China. The target event specifically describes casualties and injuries in Myanmar caused by the ruling junta, which aligns with"
+    },
+    {
+      "id": "q-2281",
+      "target_event": "Clinical trials began to test potential treatments and vaccines for COVID-19.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "The most direct and plausible cause of clinical trials beginning to test potential treatments and vaccines for COVID-19 is:\n\nD. Chinese authorities identified SARS-CoV-2 as the new coronavirus.\n\nThe identification of the"
+    },
+    {
+      "id": "q-2282",
+      "target_event": "Prigozhin went into exile in Belarus.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C"
+    },
+    {
+      "id": "q-2283",
+      "target_event": "Prigozhin negotiated his exit and called off his march on Moscow on Saturday afternoon.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2284",
+      "target_event": "Prigozhin went into exile in Belarus.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. Prigozhin negotiated his exit and called off his march on Moscow on Saturday afternoon.\n\nThe context documents indicate that after Prigozhin launched an apparent insurrection by sending an armored convoy towards Moscow, he"
+    },
+    {
+      "id": "q-2285",
+      "target_event": "Air quality along the West Coast deteriorated to harmful levels, with Portland registering the worst air globally and Seattle the third worst.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "Based on the context provided, the most direct cause of the air quality deterioration along the West Coast appears to be:\n\nD. Over 3 million acres burned across California, Oregon, and Washington.\n\nThe context documents indicate that the climate"
+    },
+    {
+      "id": "q-2286",
+      "target_event": "The British pound plunged in value.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2287",
+      "target_event": "The US Senate will likely vote on Wednesday on a bill to halt Trump’s tariffs on Canadian imports.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2288",
+      "target_event": "The U.S. State Department confirmed at least two U.S. citizens were among the dead.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "Based on the information provided in the context documents, the most direct cause of the target event - \"The U.S. State Department confirmed at least two U.S. citizens were among the dead\" - appears to be:\n\nB. At"
+    },
+    {
+      "id": "q-2289",
+      "target_event": "The Taliban began a massive offensive in early May 2021.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct and plausible causes of the Taliban's massive offensive in early May 2021 appear to be:\n\nB. The U.S. and the Taliban signed a peace agreement in"
+    },
+    {
+      "id": "q-2290",
+      "target_event": "Time Magazine named 'the Silence Breakers' Person of the Year in December 2017.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.\n\nThe provided context documents indicate that the #MeToo movement, where women shared their experiences of sexual harassment"
+    },
+    {
+      "id": "q-2291",
+      "target_event": "Prime Minister Han Duck-soo became acting president.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [],
+      "raw_output": "The most direct and plausible cause of Prime Minister Han Duck-soo becoming acting president is not provided in the given context documents. The context documents do not contain any information about the events in South Korea that led to the Prime Minister becoming acting"
+    },
+    {
+      "id": "q-2292",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2293",
+      "target_event": "A temporary medical center was established in Itaewon for treating the injured.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "Based on the given context documents, which do not mention the Itaewon incident or any casualties, the most plausible explanation for the establishment of a temporary medical center in Itaewon would be:\n\nD. Kim an"
+    },
+    {
+      "id": "q-2294",
+      "target_event": "Amazonas state in Brazil declared a state of emergency due to the fires.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the context documents provided, the most direct and plausible causes for the Amazonas state in Brazil declaring a state of emergency due to the fires are:\n\nB. 125,000"
+    },
+    {
+      "id": "q-2295",
+      "target_event": "General Sergei Surovikin was detained on charges of prior knowledge of the uprising.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct causes of General Sergei Surovikin's detention on charges of prior knowledge of the uprising appear to be:\n\nB. Putin delivered a televised address accusing Prigoz"
+    },
+    {
+      "id": "q-2296",
+      "target_event": "Air quality along the West Coast deteriorated to harmful levels, with Portland registering the worst air globally and Seattle the third worst.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe key context provided is that the air quality along the West Coast deteriorated to harmful levels, with Portland registering the worst air globally and Seattle the third worst. \n\nBased on the given options, the most direct and pl"
+    },
+    {
+      "id": "q-2297",
+      "target_event": "Shinzo Abe was pronounced dead at 5:03 p.m.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct causes of Shinzo Abe's death appear to be the fact that a man fired twice at him (options C and D). The context documents do not provide any information about the other two options (A"
+    },
+    {
+      "id": "q-2298",
+      "target_event": "President Donald Trump pardoned Ross Ulbricht.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe context documents do not mention anything about President Donald Trump pardoning Ross Ulbricht. The other options provided (A, B, D) are not related to this target event and"
+    },
+    {
+      "id": "q-2299",
+      "target_event": "The D.C. National Guard was activated, and a citywide curfew was imposed.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe most direct and plausible causes of the D.C. National Guard being activated and a citywide curfew being imposed are:\n\nA. Supporters stormed the U.S. Capitol.\nC."
+    },
+    {
+      "id": "q-2300",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the context provided, the most direct causes of the boil-water notices issued in Austin and San Antonio appear to be:\n\nB. ERCOT officials acknowledging the \"pretty frigi"
+    },
+    {
+      "id": "q-2301",
+      "target_event": "Facebook introduced a new infinity-shaped corporate logo.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nBased on the context provided, the most direct causes of Facebook introducing a new infinity-shaped corporate logo are:\n\nB) Facebook changed its corporate name to Meta on October 28 at the company's annual"
+    },
+    {
+      "id": "q-2302",
+      "target_event": "US Treasury Secretary Janet Yellen called financial regulators together to discuss the situation.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe most direct and plausible causes of the target event (US Treasury Secretary Janet Yellen calling financial regulators to discuss the situation) are:\n\nB. The Federal Reserve raised interest rates over the"
+    },
+    {
+      "id": "q-2303",
+      "target_event": "President Yoon Suk Yeol vowed to carry out a thorough investigation.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "Based on the given context documents, which do not mention any details about President Yoon Suk Yeol or a thorough investigation, none of the provided options seem to be directly relevant to the target event. The context documents discuss various"
+    },
+    {
+      "id": "q-2304",
+      "target_event": "Austin and San Antonio issued boil-water notices.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nThe most direct and plausible causes of the boil-water notices issued in Austin and San Antonio are:\n\nA. Outdoor temperatures plunged to arctic levels.\nD. Heavy snow and ice accumulation on"
+    },
+    {
+      "id": "q-2305",
+      "target_event": "The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "The most direct and plausible cause of the U.S. government mandating port and border closures and authorizing immediate repatriation of asylum seekers on March 21 is:\n\nB, D\n\nThe context documents indicate"
+    },
+    {
+      "id": "q-2306",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct and plausible causes of the Taliban seizing the presidential palace in Kabul on August 15, 2021 are:\n\nB. On August 15, 2021"
+    },
+    {
+      "id": "q-2307",
+      "target_event": "President Joe Biden approved a major disaster declaration for Texas.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C\n\nThe most direct and plausible cause for the target event of President Joe Biden approving a major disaster declaration for Texas is the action taken by local officials in Texas to activate emergency management plans and issue warnings about the impending severe winter storm"
+    },
+    {
+      "id": "q-2308",
+      "target_event": "Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. Derek Chauvin keeps his knee on George Floyd's neck for over eight minutes, including after Floyd becomes unconscious, until EMTs intervene.\n\nThis option represents the most direct and plausible cause of the widespread protests that"
+    },
+    {
+      "id": "q-2309",
+      "target_event": "Fire crews contained several fires, including the Kenneth, Lidia, Sunset, Auto, Hurst, Archer, and San Diego area fires.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [],
+      "raw_output": "Based on the provided context documents, the most direct and plausible causes of the target event (fire crews containing several fires in the Kenneth, Lidia, Sunset, Auto, Hurst, Archer, and San Diego area)"
+    },
+    {
+      "id": "q-2310",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B\n\nThe context documents do not provide any information about Yoon, his aides, or any protests related to him. The documents are about various policy discussions and developments in the European Parliament. There is no direct causal link between these European"
+    },
+    {
+      "id": "q-2311",
+      "target_event": "Putin delivered a televised address accusing Prigozhin of treason.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nThe most direct and plausible causes of Putin delivering a televised address accusing Prigozhin of treason are:\n\nA. Prigozhin declared an armed rebellion.\nB. Wagner forces advance"
+    },
+    {
+      "id": "q-2312",
+      "target_event": "French President Emmanuel Macron announced Harvey Weinstein would be stripped of the Légion d’honneur.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B. The New York Times published an investigation into Harvey Weinstein's sexual harassment on October 5, 2017.\n\nThe context documents do not provide any information directly relevant to the target event of Macron stripping Weinstein"
+    },
+    {
+      "id": "q-2313",
+      "target_event": "Musk confirmed charging $8/month for Twitter Blue check marks and removed ID verification.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2314",
+      "target_event": "Finma wiped out $17 billion worth of Credit Suisse’s bonds and eliminated the need for UBS shareholders to vote on the deal.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. Swiss officials brokered an emergency takeover of Credit Suisse by UBS Group AG.\n\nThe context documents indicate that the Swiss authorities facilitated the merger between Credit Suisse and UBS to address the crisis facing Credit"
+    },
+    {
+      "id": "q-2315",
+      "target_event": "The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2316",
+      "target_event": "On December 10, 2020, Judge Sawan charged Caretaker Prime Minister Hassan Diab and three former ministers with criminal negligence.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2317",
+      "target_event": "TEPCO began releasing the first batch of treated radioactive water into the Pacific Ocean.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2318",
+      "target_event": "Musk reinstated former President Donald Trump's Twitter account.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nExplanation:\nThe most direct causes of Musk reinstating Trump's Twitter account are:\n\nA. Elon Musk completed his $44 billion takeover of Twitter. This gave Musk full"
+    },
+    {
+      "id": "q-2319",
+      "target_event": "Prime Minister Han Duck-soo became acting president.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B. South Korea's parliament voted to impeach President Yoon Suk Yeol.\n\nThe given context documents do not provide any information related to the target event of Prime Minister Han Duck-soo becoming the acting president of South"
+    },
+    {
+      "id": "q-2320",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe target event is the unveiling of Black Lives Matter Plaza in Washington, D.C. on June 5, 2020. The most direct causes of this event are:\n\nB. Widesprea"
+    },
+    {
+      "id": "q-2321",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe most direct and plausible causes of the Taliban fighters spreading across Kabul streets after the US withdrawal are:\n\nC. On August 15, 2021, Afghan President Ashraf"
+    },
+    {
+      "id": "q-2322",
+      "target_event": "Over three million Brits called for a do-over.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most plausible and direct causes of over 3 million Brits calling for a do-over of the Brexit referendum appear to be:\n\nB. The British pound plunging in value\nC. The"
+    },
+    {
+      "id": "q-2323",
+      "target_event": "Germany and Norway withheld tens of millions of dollars from the Amazon Fund.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nBased on the context documents provided, the most direct and plausible causes of Germany and Norway withholding funds from the Amazon Fund are:\n\nB. Thousands of fires burned in the Amazon rainfo"
+    },
+    {
+      "id": "q-2324",
+      "target_event": "The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes of the U.S. government mandating port and border closures and authorizing immediate repatriation of asylum seekers on March 21 are:\n\nB. The Worl"
+    },
+    {
+      "id": "q-2325",
+      "target_event": "The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. None of the others are correct causes.\n\nThe target event is the Swiss government ordering Credit Suisse to temporarily suspend bonus payments to staff. Based on the provided context documents, there is no direct mention of any of the other options as"
+    },
+    {
+      "id": "q-2326",
+      "target_event": "Protesters overtook and destroyed the Minneapolis Police Department’s Third Precinct.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nThe most direct causes of the protesters overtaking and destroying the Minneapolis Police Department's Third Precinct appear to be:\n\nA. George Floyd's death under the knee of a police officer in Minneapolis.\nB. The widesprea"
+    },
+    {
+      "id": "q-2327",
+      "target_event": "The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B\n\nExplanation:\nBased on the provided context, the most direct and plausible cause of the Swiss government ordering Credit Suisse to temporarily suspend bonus payments to staff is the financial losses and scandals experienced by Credit Suisse ("
+    },
+    {
+      "id": "q-2328",
+      "target_event": "The Iraqi parliament voted to expel US troops from Iraq.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe most direct and plausible causes of the Iraqi parliament voting to expel US troops from Iraq are:\n\nC. After 2006, Muhandis founded Kataib Hezb"
+    },
+    {
+      "id": "q-2329",
+      "target_event": "President Joe Biden approved a major disaster declaration for Texas.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2330",
+      "target_event": "Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "A, D\n\nExplanation:\nThe most direct and plausible cause of the Taliban's capture of several provincial capitals in August 2021 is the U.S.-Taliban peace agreement signed in Doha on February 29,"
+    },
+    {
+      "id": "q-2331",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe target event is that President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states. The most direct and plausible"
+    },
+    {
+      "id": "q-2332",
+      "target_event": "World leaders expressed shock and condemned the murder.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [],
+      "raw_output": "The context documents provided do not contain any information related to the assassination of former Japanese Prime Minister Shinzo Abe or the condemnation of world leaders. The given target event does not appear to be directly connected to the context documents. Without"
+    },
+    {
+      "id": "q-2333",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe most direct causes of President Trump's action to delay enforcement of the TikTok ban in January 2025 appear to be:\n\nC. The Committee on Foreign Investment in the United States ("
+    },
+    {
+      "id": "q-2334",
+      "target_event": "Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe context documents do not provide any information about the direct causes of Huawei's announcement of a deployment timeline for HarmonyOS. However, based on the target event itself, the most plausible and direct causes"
+    },
+    {
+      "id": "q-2335",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the context provided:\n- Option A describes a general winter storm hitting the U.S., which is a relevant background factor but not the direct cause of the power outages in Texas.\n-"
+    },
+    {
+      "id": "q-2336",
+      "target_event": "The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe most direct and plausible causes of the Swiss government ordering Credit Suisse to suspend bonus payments to staff are:\n\nC. Credit Suisse experienced major financial losses and scandals, including top"
+    },
+    {
+      "id": "q-2337",
+      "target_event": "The city fires all four officers.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "Based on the provided context documents, the most direct and plausible cause of the city firing all four officers appears to be:\n\nD. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police"
+    },
+    {
+      "id": "q-2338",
+      "target_event": "Credit Suisse's board rebuffed the proposal from UBS.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D"
+    },
+    {
+      "id": "q-2339",
+      "target_event": "Andrew Bosworth announced the retirement of the Oculus name.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2340",
+      "target_event": "The S&P 500 fell below its 200-day moving average on Monday.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nBased on the context provided:\n- The target event is the S&P 500 falling below its 200-day moving average on Monday.\n- The context documents mention that \"the tariff"
+    },
+    {
+      "id": "q-2341",
+      "target_event": "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe target event is the Taliban fighters spreading across Kabul streets after the U.S. withdrawal from Afghanistan. Based on the context documents, the most direct and plausible causes are:\n\nB."
+    },
+    {
+      "id": "q-2342",
+      "target_event": "Visa and Mastercard stock dropped approximately 5% on June 18th.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "The most direct and plausible cause of the Visa and Mastercard stock drop on June 18th is:\n\nC. Circle debuted on the NYSE as CRCL, opening at $69 after shares were price"
+    },
+    {
+      "id": "q-2343",
+      "target_event": "Credit Suisse's board rebuffed the proposal from UBS.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C\n\nThe context provided indicates that Credit Suisse had experienced major financial losses and scandals in the years leading up to the target event, which would be the most direct and plausible cause for the board's decision to rebuff UBS"
+    },
+    {
+      "id": "q-2344",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe New York Times article published on October 5, 2017, exposing Harvey Weinstein's sexual harassment allegations, is the most direct and plausible cause of the #MeToo movement going viral in October 2"
+    },
+    {
+      "id": "q-2345",
+      "target_event": "The Pentagon suspended operations against ISIS in Iraq and Syria.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nThe most direct and plausible causes of the Pentagon suspending operations against ISIS in Iraq and Syria are:\n\nA. Iran announced it would suspend compliance with the 2015 nuclear deal while continuing to work with I"
+    },
+    {
+      "id": "q-2346",
+      "target_event": "Taliban militants captured several provincial capitals, including Zaranj, Sheberghan, Kunduz, Sar-e Pol, Taloqan, and Aybak, between August 6 and August 9.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe most direct and plausible causes of the Taliban capturing several provincial capitals in Afghanistan in early August 2021 are:\n\nB. U.S. troops left Bagram Airfield."
+    },
+    {
+      "id": "q-2347",
+      "target_event": "India sent approximately 15 tonnes of relief material to Myanmar via an IAF C-130J aircraft.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2348",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "C. Myanmar's military seized power on February 1, beginning a coup.\n\nThe target event is the international condemnation of the military takeover in Myanmar. The most direct cause of this event is the military coup that occurred in Myanmar on"
+    },
+    {
+      "id": "q-2349",
+      "target_event": "Three former Minneapolis police officers were criminally charged with aiding and abetting second-degree murder in connection with Floyd's death, and Chauvin's charge was upgraded to second-degree murder.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct causes of the target event (criminal charges against the former Minneapolis police officers) are:\n\nC. George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer."
+    },
+    {
+      "id": "q-2350",
+      "target_event": "Burst pipes led to widespread water disruptions, affecting over 15 million people in Texas.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. Outdoor temperatures plunged to arctic levels.\n\nThe context documents indicate that the burst pipes and widespread water disruptions were caused by the severe winter weather, specifically the plunging outdoor temperatures. The documents mention that freezing temperatures,"
+    },
+    {
+      "id": "q-2351",
+      "target_event": "World leaders, including Fumio Kishida, Joe Biden, and Xi Jinping, sent messages of condolence to President Yoon.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2352",
+      "target_event": "Widespread disruption occurred in internet and news access, and banks temporarily shut down across Myanmar following the coup.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct causes of the widespread disruption in internet, news access, and bank closures in Myanmar following the coup are:\n\nC) Myanmar's military seized power on February 1, beginning a coup.\nD)"
+    },
+    {
+      "id": "q-2353",
+      "target_event": "Myanmar’s military government removed 24 ministers and deputies and appointed 11 replacements.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2354",
+      "target_event": "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe given context documents do not contain any information related to the target event of \"Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.\" The context is about various issues related to"
+    },
+    {
+      "id": "q-2355",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2356",
+      "target_event": "DeepSeek's app reached the top of U.S. free app charts within a week of its launch.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nBased on the context provided, the most direct and plausible causes for DeepSeek's app reaching the top of U.S. free app charts within a week of its launch are:\n\nC"
+    },
+    {
+      "id": "q-2357",
+      "target_event": "The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B"
+    },
+    {
+      "id": "q-2358",
+      "target_event": "Trump was permanently banned from Twitter on January 8th.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe most direct and plausible causes of Trump being permanently banned from Twitter on January 8th are:\n\nB. Trump urged his supporters to march to the Capitol. This directly incited the events that"
+    },
+    {
+      "id": "q-2359",
+      "target_event": "U.S. troops left Bagram Airfield.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nExplanation:\nThe most direct and plausible causes of the U.S. troops leaving Bagram Airfield are:\n\nC. The Taliban began a massive offensive in early May 2021. This le"
+    },
+    {
+      "id": "q-2360",
+      "target_event": "A TEPCO staff member activated a seawater pump and an operator confirmed the release.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2361",
+      "target_event": "OPM offered federal workers the option to resign with pay.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [],
+      "raw_output": "Based on the given context documents, the most direct and plausible cause of the OPM offering federal workers the option to resign with pay is not provided in the options given.\n\nThe context documents do not mention anything about the OPM"
+    },
+    {
+      "id": "q-2362",
+      "target_event": "Authorities in Myanmar and Thailand declared a state of emergency.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B\n\nThe context documents do not mention any earthquake or building collapse in Myanmar or Thailand. The documents focus on flooding and landslides caused by heavy monsoon rains in the region. Therefore, the most plausible direct cause of the authorities"
+    },
+    {
+      "id": "q-2363",
+      "target_event": "International leaders and organizations condemned the military takeover in Myanmar.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct and plausible causes of the international leaders and organizations condemning the military takeover in Myanmar are:\n\nC. Myanmar's military seized power on February 1, beginning a coup.\nD. The military"
+    },
+    {
+      "id": "q-2364",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "The target event is Judge Bitar's request to lift immunity for former ministers and seek permission to prosecute them. This event is not directly related to the explosion at a pharmaceutical factory in India or a chemical plant in China described in the given context"
+    },
+    {
+      "id": "q-2365",
+      "target_event": "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2366",
+      "target_event": "Goldman Sachs estimated that AI systems like ChatGPT could automate up to 300 million jobs worldwide.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2367",
+      "target_event": "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "A"
+      ],
+      "raw_output": "A"
+    },
+    {
+      "id": "q-2368",
+      "target_event": "Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2369",
+      "target_event": "DeepSeek's app reached the top of U.S. free app charts within a week of its launch.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nBased on the context provided, the most direct and plausible causes for DeepSeek's app reaching the top of the U.S. free app charts within a week of its launch are:"
+    },
+    {
+      "id": "q-2370",
+      "target_event": "Scientific journals, including Springer Nature and Elsevier, updated author guidelines to prohibit LLMs as authors and require documentation of their use.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nThe most direct causes of scientific journals updating their author guidelines to prohibit LLMs as authors are:\n\nB. ChatGPT quickly reached one million daily active users.\nD. Millions of people started using Chat"
+    },
+    {
+      "id": "q-2371",
+      "target_event": "More than a dozen news outlets published stories based on the leaked Facebook documents.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C"
+    },
+    {
+      "id": "q-2372",
+      "target_event": "U.S. government regulators announced they would fully cover deposits at both SVB and Signature Bank.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "Based on the information provided in the context documents, the most direct and plausible cause of the U.S. government regulators announcing that they would fully cover deposits at both SVB and Signature Bank is:\n\nB, C\n\nThe"
+    },
+    {
+      "id": "q-2373",
+      "target_event": "Many therapists cease in-person client sessions.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes for many therapists ceasing in-person client sessions appear to be:\n\nB. COVID-19 forced countries into lockdown.\nC. Chinese authorities identified SARS-"
+    },
+    {
+      "id": "q-2374",
+      "target_event": "Over four million customers were without power in Texas.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct causes of the target event (over 4 million customers losing power in Texas) are:\n\nB. ERCOT initiated rolling outages, leaving millions of Texans without power"
+    },
+    {
+      "id": "q-2375",
+      "target_event": "Governor Newsom declared a state of emergency in Napa, Sonoma, and Shasta counties.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nBased on the provided context documents, the most direct and plausible causes of Governor Newsom's declaration of a state of emergency in Napa, Sonoma, and Shasta counties are"
+    },
+    {
+      "id": "q-2376",
+      "target_event": "Trump was impeached for a second time on January 13th.",
+      "golden": [
+        "A",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D\n\nThe most direct and plausible causes of Trump's second impeachment appear to be:\n\nC) Supporters stormed the U.S. Capitol\nD) Supporters stormed the U.S. Capitol\n\nThe"
+    },
+    {
+      "id": "q-2377",
+      "target_event": "Musk laid off thousands of Twitter employees and contractors.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D"
+    },
+    {
+      "id": "q-2378",
+      "target_event": "Lebanon declared a two-week state of emergency in Beirut following the blast.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "The most direct cause of Lebanon declaring a two-week state of emergency in Beirut following the blast is:\n\nC. The explosion destroyed medicines, vaccines, personal protective equipment, and damaged primary health care centers, hospitals, warehouses, an"
+    },
+    {
+      "id": "q-2379",
+      "target_event": "On December 20, Musk confirmed he will step down as CEO upon finding a replacement and will manage software/servers teams.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. None of the others are correct causes.\n\nThe context documents provided do not mention anything related to Elon Musk stepping down as CEO of Twitter. The documents discuss various business acquisitions and analyses, but do not contain information relevant"
+    },
+    {
+      "id": "q-2380",
+      "target_event": "Videos of the assassination circulated on social media.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2381",
+      "target_event": "French President Emmanuel Macron announced France’s withdrawal of support for the Mercosur trade deal.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct causes of the French President's announcement to withdraw support for the Mercosur trade deal appear to be the increased deforestation and wildfires in the Amazon rainforest, as described in options B an"
+    },
+    {
+      "id": "q-2382",
+      "target_event": "French President Emmanuel Macron announced France’s withdrawal of support for the Mercosur trade deal.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe most direct and plausible causes of the French President announcing the withdrawal of support for the Mercosur trade deal are:\n\nB. Fire hotspots in indigenous territories increased by 88% from January to August"
+    },
+    {
+      "id": "q-2383",
+      "target_event": "Seoul Mayor Oh Se-Hoon cut short a trip to Europe to return home.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2384",
+      "target_event": "The fires destroyed more than 1,400 homes.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C"
+    },
+    {
+      "id": "q-2385",
+      "target_event": "Yoon's senior aides and defense minister offered to resign.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [],
+      "raw_output": "Based on the given information, there is no clear connection between the provided context documents and the target event of \"Yoon's senior aides and defense minister offered to resign.\" The context documents do not mention anything about resignations in South Korea or"
+    },
+    {
+      "id": "q-2386",
+      "target_event": "South Korea’s parliament voted to impeach President Yoon Suk Yeol.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B"
+    },
+    {
+      "id": "q-2387",
+      "target_event": "Prime Minister Hassan Diab and his government resigned following the explosion.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nThe context documents provided do not mention anything related to the resignation of the Lebanese Prime Minister and his government. They describe an explosion at a pharmaceutical factory in India and a separate explosion at a chemical plant in China.\n\nThe most relevant"
+    },
+    {
+      "id": "q-2388",
+      "target_event": "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe most direct causes of the Taliban seizing the presidential palace in Kabul on August 15, 2021 are:\n\nB. U.S. troops left Bagram Airfiel"
+    },
+    {
+      "id": "q-2389",
+      "target_event": "A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe target event is a U.S. drone strike that killed Qassem Soleimani and Abu Mahdi al-Muhandis. \n\nThe most direct causes are:"
+    },
+    {
+      "id": "q-2390",
+      "target_event": "On June 17, 2025, the U.S. Senate passed the GENIUS Act.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2391",
+      "target_event": "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D"
+    },
+    {
+      "id": "q-2392",
+      "target_event": "Iraqi caretaker Prime Minister Adel Abdul Mahdi condemned the US air raid as a violation of Iraq’s sovereignty.",
+      "golden": [
+        "A",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "The most direct and plausible cause of the target event (Iraqi caretaker Prime Minister Adel Abdul Mahdi condemning the US air raid as a violation of Iraq's sovereignty) is:\n\nC. US President Donald Trump ordere"
+    },
+    {
+      "id": "q-2393",
+      "target_event": "Trade controls forced Chinese researchers to use freely available tools creatively.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nThe most direct and plausible causes of the target event, based on the information provided, are:\n\nA. The U.S. government limits sales of powerful chips to China.\nThis would force Chinese researchers to use"
+    },
+    {
+      "id": "q-2394",
+      "target_event": "French women launched the #BalanceTonPorc social media campaign, sharing stories of aggression and harassment.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. The New York Times published an investigation into Harvey Weinstein's sexual harassment on October 5, 2017.\n\nThe target event is the French women launching the #BalanceTonPorc (Denounce Your"
+    },
+    {
+      "id": "q-2395",
+      "target_event": "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.",
+      "golden": [
+        "A",
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "D\n\nThe most direct cause of the district officially unveiling Black Lives Matter Plaza on June 5, 2020 appears to be the widespread protests that erupted across the nation, including at Lafayette Square in Washington, D.C., in"
+    },
+    {
+      "id": "q-2396",
+      "target_event": "Myanmar’s military imposed a nationwide 8pm to 6am curfew.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "B",
+        "C"
+      ],
+      "raw_output": "A, B, C\n\nThe most direct causes of the nationwide curfew imposed by Myanmar's military are:\n\nA. The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national"
+    },
+    {
+      "id": "q-2397",
+      "target_event": "Wagner troops withdrew from Rostov, the Lipetsk region, and Moscow.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C, D"
+    },
+    {
+      "id": "q-2398",
+      "target_event": "A Myanmar court convicted Aung San Suu Kyi and Sean Turnell to three years in jail for violating the official secrets act.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "B\n\nThe most direct cause of the target event (Aung San Suu Kyi and Sean Turnell being convicted by a Myanmar court for violating the official secrets act) is option B: \"The army announced power was"
+    },
+    {
+      "id": "q-2399",
+      "target_event": "The Capitol was secured, and lawmakers reconvened to continue certification.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nThe target event is that the Capitol was secured, and lawmakers reconvened to continue certification. The most direct and plausible causes for this event are:\n\nB) Pipe bombs were reported at the"
+    },
+    {
+      "id": "q-2400",
+      "target_event": "Emergency workers from around the country were deployed to Itaewon to treat the injured.",
+      "golden": [
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "A"
+      ],
+      "raw_output": "D. A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.\n\nThe context documents do not provide any information about the Itaewon crowd surge incident. The target event specifically states"
+    },
+    {
+      "id": "q-2401",
+      "target_event": "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nOption B is the most direct and plausible cause of the target event. The Harvey Weinstein allegations and other high-profile sexual harassment cases that emerged in October 2017 were the key trigger"
+    },
+    {
+      "id": "q-2402",
+      "target_event": "World leaders, including Fumio Kishida, Joe Biden, and Xi Jinping, sent messages of condolence to President Yoon.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [],
+      "raw_output": "The context documents provided do not mention anything related to world leaders sending messages of condolence to President Yoon. The given target event is not supported by the provided context. Therefore, I cannot identify the direct cause(s) of the target"
+    },
+    {
+      "id": "q-2403",
+      "target_event": "President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B",
+        "A"
+      ],
+      "raw_output": "B, D\n\nThe target event is that President Yoon Suk-yeol declared a period of national mourning and designated Itaewon a disaster zone, which was in response to a deadly crowd surge that occurred in a"
+    },
+    {
+      "id": "q-2404",
+      "target_event": "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.",
+      "golden": [
+        "A",
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2405",
+      "target_event": "Australia's military deployed ships and aircraft to rescue thousands trapped by fires.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "D",
+        "C"
+      ],
+      "raw_output": "C, D"
+    },
+    {
+      "id": "q-2406",
+      "target_event": "TEPCO began releasing the first batch of treated radioactive water into the Pacific Ocean.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "The most direct cause of TEPCO beginning to release the first batch of treated radioactive water into the Pacific Ocean is:\n\nD. Japan announced its plan to release treated Fukushima wastewater into the sea.\n\nThis is the"
+    },
+    {
+      "id": "q-2407",
+      "target_event": "Thousands of volunteers from Lebanon and its diaspora cleared rubble, offered accommodation, and repaired homes in affected areas after the explosion.",
+      "golden": [
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "B",
+        "C"
+      ],
+      "raw_output": "B, C\n\nExplanation:\nThe target event is about the response of volunteers from Lebanon and its diaspora to the explosion in Beirut. The most direct causes of this event are:\n\nB. The colossal explosion that occurre"
+    },
+    {
+      "id": "q-2408",
+      "target_event": "General Sergei Surovikin was detained on charges of prior knowledge of the uprising.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. Prigozhin declared an armed rebellion.\n\nThe context documents indicate that the most direct cause of General Sergei Surovikin's detention was Prigozhin's declaration of an armed rebellion against the Russian government."
+    },
+    {
+      "id": "q-2409",
+      "target_event": "The Japanese government allocated $200 million to compensate the fishing industry and $340 million for local economic mitigation.",
+      "golden": [
+        "A",
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "Based on the information provided in the context documents, the most direct and plausible cause of the Japanese government allocating compensation and mitigation funds appears to be:\n\nA, B\n\nThe context documents do not mention any direct causal link between"
+    },
+    {
+      "id": "q-2410",
+      "target_event": "On November 26, 2018, the first trials for those arrested on November 24 took place.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D. On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elysées in Paris, leading to confrontations.\n\nThe context indicates that the target event of the first trials for those arrested on"
+    },
+    {
+      "id": "q-2411",
+      "target_event": "Elon Musk gained full command of the federal cost-cutting effort.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. Elon Musk tempered his initial promise for federal spending cuts from $2 trillion to $1 trillion.\n\nThe context documents indicate that Elon Musk was critical of the GOP's federal spending bill,"
+    },
+    {
+      "id": "q-2412",
+      "target_event": "Nvidia announced it is significantly increasing chip supply to meet surging demand.",
+      "golden": [
+        "B"
+      ],
+      "prediction": [
+        "B",
+        "A"
+      ],
+      "raw_output": "A, B\n\nThe most direct and plausible causes for Nvidia announcing increased chip supply to meet surging demand are:\n\nA. Nvidia released its first-quarter earnings report, estimating $11 billion in second-quarter sales"
+    },
+    {
+      "id": "q-2413",
+      "target_event": "Myanmar’s military seized power on February 1, beginning a coup.",
+      "golden": [
+        "B",
+        "C",
+        "D"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C. The military repeatedly disputed the election results, alleging fraud and calling on the election commission to release polling data.\n\nThe context documents do not provide information about the causes of the coup in Myanmar. However, based on other available information, the"
+    },
+    {
+      "id": "q-2414",
+      "target_event": "The chairmen of Credit Suisse and UBS announced a union on March 19th in Bern.",
+      "golden": [
+        "A",
+        "B",
+        "C"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nExplanation:\nThe most direct and plausible causes of the announcement of the Credit Suisse and UBS union are:\n\nA. The major financial losses and scandals experienced by Credit Suisse, including top"
+    },
+    {
+      "id": "q-2415",
+      "target_event": "Over 2 million Texas residents were left without electricity.",
+      "golden": [
+        "C"
+      ],
+      "prediction": [
+        "C"
+      ],
+      "raw_output": "C, ERCOT initiated rolling outages, leaving millions of Texans without power.\n\nThe context documents indicate that the power outages were directly caused by ERCOT (the Electric Reliability Council of Texas) initiating rolling"
+    },
+    {
+      "id": "q-2416",
+      "target_event": "The country's currency plummeted in value and government borrowing costs rose after the announcement.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D"
+      ],
+      "raw_output": "D\n\nThe announcement of the mini-budget by Kwasi Kwarteng on September 23 appears to be the most direct and plausible cause of the currency plummeting and government borrowing costs rising, as described in the"
+    },
+    {
+      "id": "q-2417",
+      "target_event": "Iran announced it would suspend compliance with the 2015 nuclear deal while continuing to work with IAEA inspectors.",
+      "golden": [
+        "A"
+      ],
+      "prediction": [
+        "A",
+        "C"
+      ],
+      "raw_output": "A, C\n\nExplanation:\nThe most direct and plausible causes of Iran's announcement to suspend compliance with the nuclear deal while continuing to work with IAEA inspectors are:\n\nA) None of the other options represent a direct"
+    },
+    {
+      "id": "q-2418",
+      "target_event": "Huawei ensured HarmonyOS supports applications developed in multiple programming languages.",
+      "golden": [
+        "D"
+      ],
+      "prediction": [
+        "D",
+        "B"
+      ],
+      "raw_output": "B, D\n\nExplanation:\nBased on the context, the most direct and plausible causes of Huawei ensuring HarmonyOS supports applications developed in multiple programming languages are:\n\nB. Huawei stated it will"
+    },
+    {
+      "id": "q-2419",
+      "target_event": "Liz Truss announced her resignation as Prime Minister on October 20.",
+      "golden": [
+        "B",
+        "D"
+      ],
+      "prediction": [
+        "B"
+      ],
+      "raw_output": "B\n\nExplanation:\nThe most direct and plausible cause of Liz Truss announcing her resignation as Prime Minister on October 20 appears to be the resignation of Home Secretary Suella Braverman.\n\nThe"
+    }
+  ]
+}

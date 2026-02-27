@@ -1,0 +1,20 @@
+# Ignore large derived artifacts and caches (kept locally but not tracked)
+cache/
+downloaded_images/
+
+# Knowledge graph stores and vector DBs
+SemEval_KnowledgeGraph/
+SemEval_KnowledgeGraph_ds/
+
+# Local dataset archive
+semeval2026_task12_dataset 1.zip
+
+# Fine-tuned / downloaded model weights
+single_modality/baseline2/models/
+
+# External VaLiK project and prepared artifacts
+VaLiK/
+valik_prepared/
+
+# Local editor settings
+.vscode/

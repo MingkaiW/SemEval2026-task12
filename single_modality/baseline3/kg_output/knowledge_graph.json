@@ -1,0 +1,888 @@
+{
+  "entities": {
+    "Trade controls forced Chinese researchers to use freely available tools creatively.": 0,
+    "Before this: trade deficit grows": 1,
+    "Bushfire smoke created smog in Sydney, causing air quality to reach 22 times worse than standard levels and causing respiratory problems for residents.": 2,
+    "Liz Truss fired Treasury chief Kwasi Kwarteng.": 3,
+    "Women used social media to share sexual harassment experiences in October 2017, leading to the #MeToo movement going viral.": 4,
+    "OpenAI made DALL-E 2 available as an API.": 5,
+    "Elon Musk completed his $44 billion takeover of Twitter.": 6,
+    "Trump addressed the crowd.": 7,
+    "The U.S. government mandated port and border closures and authorized immediate repatriation of asylum seekers on March 21.": 8,
+    "Before this: government shutdown": 9,
+    "The country's currency plummeted in value and government borrowing costs rose after the announcement.": 10,
+    "Texas Gov. Greg Abbott issued a disaster declaration in all 254 counties.": 11,
+    "Facebook announced a $50 million fund for responsible metaverse research in September.": 12,
+    "Silicon Valley Bank's stock cratered.": 13,
+    "interest rate cut": 14,
+    "Before this: interest rate cut": 15,
+    "Before this: interest rate hike": 16,
+    "inflation increases": 17,
+    "South Korea banned seafood imports from the Fukushima area.": 18,
+    "Silicon Valley Bank suspended trading of its shares on Friday.": 19,
+    "US President Donald Trump ordered the assassination of Iranian General Qassem Soleimani.": 20,
+    "The Swiss government ordered Credit Suisse to temporarily suspend bonus payments to staff.": 21,
+    "Fire hotspots in indigenous territories increased by 88% from January to August compared to 2018, according to CIMI citing INPE data.": 22,
+    "Before this: data breach": 23,
+    "Prime Minister Hassan Diab and his government resigned following the explosion.": 24,
+    "Shinzo Abe was pronounced dead at 5:03 p.m.": 25,
+    "Huawei announced a deployment timeline for HarmonyOS on various devices between 2020 and 2022.": 26,
+    "A military spokesperson warned of \"action\" if the dispute wasn't settled and refused to rule out a coup.": 27,
+    "Fire crews contained several fires, including the Kenneth, Lidia, Sunset, Auto, Hurst, Archer, and San Diego area fires.": 28,
+    "Jensen Huang, Chris Malachowsky, and Curtis Priem founded Nvidia in 1993.": 29,
+    "On November 24, 2018, \"yellow vest\" protestors blocked the Champs Elysées in Paris, leading to confrontations.": 30,
+    "OpenAI publicly released ChatGPT as a free research preview on November 30, 2022.": 31,
+    "Jeremy Hunt reversed most mini-budget policies three weeks later.": 32,
+    "Burst pipes led to widespread water disruptions, affecting over 15 million people in Texas.": 33,
+    "Kwasi Kwarteng announced a mini-budget on September 23.": 34,
+    "The U.S. Congress defined legal requirements for stablecoins, including HQLA, one-for-one backing, and audits.": 35,
+    "The Federal Reserve raised interest rates over the past year.": 36,
+    "The reinforcement learning algorithm trained the final version of ChatGPT to produce high-scoring responses.": 37,
+    "On December 29, US forces conducted airstrikes at five Kataib Hezbollah facilities in Iraq and Syria, killing at least 25 people.": 38,
+    "Cup Foods employees call police and report George Floyd used fake bills and was drunk/uncontrolled.": 39,
+    "Kayla Curry received a New York Times alert about a U.S. government national security investigation into TikTok.": 40,
+    "Video of George Floyd’s last moments circulated in May.": 41,
+    "President Bolsonaro announced a 60-day ban on setting fires for land clearing and deployed 44,000 soldiers to seven states.": 42,
+    "Facebook changed its corporate name to Meta on October 28 at the company's annual Connect event.": 43,
+    "Swiss officials brokered an emergency takeover of Credit Suisse by UBS Group AG.": 44,
+    "A protester was accidentally run over and killed by a car near Lyon during demonstrations.": 45,
+    "The district officially unveiled Black Lives Matter Plaza on June 5, 2020.": 46,
+    "The city fires all four officers.": 47,
+    "The Park Fire became the fourth-largest in California history.": 48,
+    "ERCOT initiated rolling outages, leaving millions of Texans without power.": 49,
+    "Kim and her friend crawled out of the crush and were pulled into a tavern by adults.": 50,
+    "Lawmakers at the National Assembly unanimously annulled martial law.": 51,
+    "The Park Fire ignited in July in Northern California.": 52,
+    "The U.S. government limits sales of powerful chips to China.": 53,
+    "Shinzo Abe visited Jerusalem in 2018.": 54,
+    "Facebook announced Andrew Bosworth's promotion to chief technology officer.": 55,
+    "Many tech firms withdrew deposits from SVB following advice from venture capital firms.": 56,
+    "Putin delivered a televised address accusing Prigozhin of treason.": 57,
+    "The coronavirus pandemic halted the global economy.": 58,
+    "The \"Bootleg\" fire destroyed 21 homes and threatened 1,926 more.": 59,
+    "Foreign investors purchased a net 15.8 trillion won ($11.6 billion) of South Korean stocks from January through March.": 60,
+    "Vice President Myint Swe was installed as acting President.": 61,
+    "Up to six ERCOT board members resigned on February 24.": 62,
+    "73 people were taken into police custody during the protests.": 63,
+    "Protesters overtook and destroyed the Minneapolis Police Department’s Third Precinct.": 64,
+    "The explosion destroyed medicines, vaccines, personal protective equipment, and damaged primary health care centers, hospitals, warehouses, and a grain silo.": 65,
+    "Silicon Valley Bank made emergency moves to handle withdrawal requests.": 66,
+    "Lebanon declared a two-week state of emergency in Beirut following the blast.": 67,
+    "Wildfires in recent years destroyed thousands of homes.": 68,
+    "Before this: wildfire": 69,
+    "In 2024, the European Union adopted its Markets in Crypto-Assets (MiCA) regulation.": 70,
+    "The congressional certification of Joe Biden’s victory was halted.": 71,
+    "Jensen Huang took Nvidia public on Nasdaq in 1999.": 72,
+    "The IAEA will maintain an on-site presence for the duration of the release.": 73,
+    "President Trump placed 25% tariffs on imports from Canada.": 74,
+    "Huawei released a TV running HarmonyOS.": 75,
+    "Twitter sued Elon Musk to force the acquisition.": 76,
+    "On February 11, a 130+ vehicle crash on I-35 in Fort Worth resulted in 6 deaths and over 65 hospitalizations.": 77,
+    "Officials in Hennepin County ruled Floyd’s death a homicide on June 1, 2020.": 78,
+    "William McKinley was shot by anarchist Leon Czolgosz on Sept. 6, 1901.": 79,
+    "President Joe Biden approved a major disaster declaration for Texas.": 80,
+    "Over 3 million acres burned across California, Oregon, and Washington.": 81,
+    "Protesters rallied in Tokyo on August 24, 2023, against the Japanese government’s plan to release treated wastewater from the Fukushima-Daiichi power plant.": 82,
+    "Bushfires in New South Wales and Queensland destroyed CO2-absorbing vegetation.": 83,
+    "International leaders and organizations condemned the military takeover in Myanmar.": 84,
+    "In 2015, Harvey Weinstein badgered a female assistant into giving him a massage while he was naked.": 85,
+    "On May 20, 2025, the Senate voted 66-32 to advance a modified version of the GENIUS Act.": 86,
+    "A major winter storm hit a large part of the United States on Monday, bringing heavy snow and cold temperatures.": 87,
+    "The nation divided into 'remain' and 'leave' camps.": 88,
+    "The last U.S. military planes departed Afghanistan around midnight Monday (Kabul time), completing the withdrawal.": 89,
+    "Japan announced its plan to release treated Fukushima wastewater into the sea.": 90,
+    "After 2006, Muhandis founded Kataib Hezbollah.": 91,
+    "In 2007, U.S. commandos observed a convoy carrying Gen. Qassem Soleimani in northern Iraq.": 92,
+    "Liz Truss became UK Prime Minister on September 5.": 93,
+    "TEPCO began releasing the first batch of treated radioactive water into the Pacific Ocean.": 94,
+    "Five people died during the riots.": 95,
+    "The Russian Defense Ministry ordered all mercenary groups, including Wagner, to report to central military command by July 1.": 96,
+    "In 2014, Harvey Weinstein invited Emily Nestor to a hotel.": 97,
+    "Nvidia shares surged 24% to a record high, triggering a stock rally for Nvidia and other AI-adjacent businesses.": 98,
+    "Derek Chauvin was arrested and charged with murder and manslaughter.": 99,
+    "Lockdowns obstructed agricultural flow, resulting in hiked food prices, food shortages, malnutrition, and deaths.": 100,
+    "Electric demand for heat across the state soared.": 101,
+    "The Italian government called in the military to enforce its lockdown and ordered non-essential businesses to close by March 22.": 102,
+    "Kim and her friend entered the alley at 8 p.m. and became trapped as the crowd density increased.": 103,
+    "French President Emmanuel Macron announced France’s withdrawal of support for the Mercosur trade deal.": 104,
+    "The FBI and ATF cleared the Capitol.": 105,
+    "The New York Times published an investigation into Harvey Weinstein's sexual harassment on October 5, 2017.": 106,
+    "The company plans to report on two operating segments, Family of Apps and Reality Labs, starting Q4 2021.": 107,
+    "The U.S. and the Taliban signed a peace agreement in Doha on February 29, 2020.": 108,
+    "Japan approved China’s WTO bid in 1999.": 109,
+    "Sam Altman publicly acknowledged ChatGPT’s limitations in accuracy and truthfulness.": 110,
+    "The Macron government announced an increase in gas taxes effective January 1, 2019.": 111,
+    "Human judges scored the initial model’s responses.": 112,
+    "Satellite pictures confirmed smoke from eastern New South Wales fires crossed the Tasman Sea to New Zealand.": 113,
+    "Investors and depositors withdrew billions from Credit Suisse.": 114,
+    "Millions of people started using ChatGPT immediately after its launch.": 115,
+    "The army announced power was handed to commander-in-chief Min Aung Hlaing and declared a national state of emergency for one year.": 116,
+    "Fishermen, including Haruo Ono, sued the Japanese government to stop the water release.": 117,
+    "Huawei stated it will first lay the foundation for operating systems in the Chinese market, then expand overseas.": 118,
+    "Trump imposed auto tariffs last week.": 119,
+    "Prime Minister David Cameron pledged a referendum on EU membership in 2013.": 120,
+    "The Eaton fire burned over 14,000 acres, destroyed thousands of homes, and displaced tens of thousands.": 121,
+    "Brazilian authorities are investigating 70 farmers and land grabbers in Pará for allegedly organizing an August 10 'Day of Fire.'": 122,
+    "The total market value of stablecoins increased from $20 billion in 2020 to $246 billion in May 2025.": 123,
+    "interest rate hike": 124,
+    "Huawei was placed on a US trade blacklist, preventing Google from supplying new Huawei devices with Android OS.": 125,
+    "San Antonio Mayor Ron Nirenberg and Bexar County Judge Wolff issued a joint declaration urging precautions, travel limits, and energy conservation, activating emergency management plans.": 126,
+    "Thousands of fires burned in the Amazon rainforest in Brazil in 2019, particularly affecting Roraima, Acre, Rondônia, and Amazonas states.": 127,
+    "DeepSeek released its large language model, DeepSeek-R1, on January 20.": 128,
+    "In July 2024, the U.S. government stated in a legal filing related to TikTok that China could use TikTok’s algorithm to interfere with the U.S. political system.": 129,
+    "Global markets plunged following the Brexit vote.": 130,
+    "Liz Truss announced her resignation as Prime Minister on October 20.": 131,
+    "Trump announced tariffs on Chinese goods and any country buying oil from Venezuela.": 132,
+    "Economists led by David Autor found that Chinese import competition caused the loss of 1 million U.S. manufacturing jobs between 1990 and 2007.": 133,
+    "President Yoon Suk Yeol declared martial law on December 3 and sent soldiers to parliament.": 134,
+    "On November 17, 2018, approximately 288,000 \"yellow vest\" protestors participated in a national blockade across France.": 135,
+    "The tech industry increased its focus on A.I., causing a shortage of chips.": 136,
+    "AI breakthrough": 137,
+    "A colossal explosion occurred at the Port of Beirut on August 4, killing at least 200 people and injuring around 5,000.": 138,
+    "General Sergei Surovikin was detained on charges of prior knowledge of the uprising.": 139,
+    "Prigozhin declared an armed rebellion.": 140,
+    "CEO Mark Zuckerberg introduced Meta, a new company brand unifying apps and technologies at Connect 2021.": 141,
+    "Before this: new product launch": 142,
+    "Nvidia released its first-quarter earnings report, estimating $11 billion in second-quarter sales and reporting $1.09 earnings per share.": 143,
+    "A fire broke out at Warehouse 12 at the Port of Beirut on August 4, reportedly started by welding work.": 144,
+    "Prime Minister Fumio Kishida announced Japan would begin discharging treated radioactive water from the Fukushima Daiichi plant into the sea as early as Thursday.": 145,
+    "Tens of thousands of people gathered in Itaewon, Seoul, to celebrate Halloween on Saturday night.": 146,
+    "Police used tear gas and water cannons to disperse protesters in Paris.": 147,
+    "Capitol Police Chief Steven Sund, House Sergeant at Arms Paul Irving, and Senate Sergeant at Arms Michael Stenger resigned.": 148,
+    "The United Kingdom held a referendum on June 23.": 149,
+    "Bolsonaro replaced the director of Brazil’s National Institute of Space Research with a military official.": 150,
+    "Yoon's senior aides and defense minister offered to resign.": 151,
+    "A U.S. drone strike killed Iranian Maj. Gen. Qassem Soleimani and Abu Mahdi al-Muhandis after Muhandis picked up Soleimani from an airplane.": 152,
+    "The fires destroyed more than 1,400 homes.": 153,
+    "The Cabinet ordered those involved in storing the ammonium nitrate at the port to be placed under house arrest.": 154,
+    "ERCOT officials acknowledged \"pretty frigid temperatures\" were headed to Texas during a board meeting.": 155,
+    "Musk fired top Twitter executives.": 156,
+    "Nvidia's market cap briefly reached $1 trillion on Tuesday, following its report of better-than-expected Q1 revenues and a prediction of Q2 revenues 50% above analyst expectations.": 157,
+    "Myanmar's ruling junta chief reported at least 144 people killed and over 732 injured.": 158,
+    "Premier Ford paused Ontario's electricity surcharge.": 159,
+    "The Delaware Chancery Court ordered a Friday deadline for the Twitter acquisition deal to close in early October.": 160,
+    "Trump urged supporters to march to the Capitol.": 161,
+    "Google, Intel, and other U.S. companies suspended business with Huawei.": 162,
+    "Belarusian President Alexander Lukashenko brokered a deal for Prigozhin to leave Russia.": 163,
+    "Huawei announced HarmonyOS will be open source.": 164,
+    "World leaders, including Fumio Kishida, Joe Biden, and Xi Jinping, sent messages of condolence to President Yoon.": 165,
+    "A TEPCO staff member activated a seawater pump and an operator confirmed the release.": 166,
+    "Saudi National Bank stated it would not increase funding to Credit Suisse.": 167,
+    "ByteDance stepped up efforts to separate its social media app TikTok from its Chinese operations.": 168,
+    "Donald Trump stated at a campaign rally in May 2016 that China was \"raping our country\" and committing \"the greatest theft in the history of the world.\"": 169,
+    "OpenAI trained InstructGPT to produce less toxic text.": 170,
+    "UBS agreed to acquire Credit Suisse for 3 billion Swiss francs.": 171,
+    "The military detained Aung San Suu Kyi and other top government figures.": 172,
+    "The earthquake affected Bangkok, Thailand, and tremors were felt in China's Yunnan province.": 173,
+    "Before this: earthquake": 174,
+    "Doctors at several hospitals pledged to go on strike to protest the coup.": 175,
+    "The Capitol was secured, and lawmakers reconvened to continue certification.": 176,
+    "Al-Qaeda terrorists attacked the US on September 11, 2001.": 177,
+    "Huawei denied the U.S. government's accusations and pursued legal means.": 178,
+    "President Donald Trump withdrew the U.S. from the nuclear accord after taking office.": 179,
+    "On December 27, Kataib Hezbollah attacked the K1 military base near Kirkuk, killing an American contractor and wounding American and Iraqi personnel.": 180,
+    "On July 2, 2021, Judge Bitar requested parliament lift immunity for former ministers Khalil, Zeaiter, and Nohad Machnouk, and sought permission from bar associations to prosecute Khalil, Zeaiter, and Fenianos.": 181,
+    "At least 38 people died nationwide from winter storms or frigid conditions, including 15 deaths in Texas.": 182,
+    "A Myanmar court convicted Aung San Suu Kyi and Sean Turnell to three years in jail for violating the official secrets act.": 183,
+    "The \"yellow vests\" movement caused roadblocks across France.": 184,
+    "Elon Musk changed his profile to ‘Chief Twit’.": 185,
+    "Huawei ensured HarmonyOS supports applications developed in multiple programming languages.": 186,
+    "The Bank of England intervened on September 28 by announcing a temporary purchase of £65 billion worth of long-dated UK government bonds.": 187,
+    "OpenAI collected examples of good dialogue responses from people to train an initial version of ChatGPT.": 188,
+    "In November 2022, the FTX exchange failed.": 189,
+    "Before this: regulation change": 190,
+    "Walmart and Amazon are investigating issuing their own stablecoins in the U.S.": 191,
+    "President Trump announced a plan to impose additional 25% tariffs on Canadian steel and aluminum imports.": 192,
+    "The Rhosus sank on February 18, 2018.": 193,
+    "Bushfires ignited in Australia in September.": 194,
+    "MAAP released a report revealing overlap between deforestation and fire alerts in the Brazilian Amazon.": 195,
+    "The election commission denied widespread voter fraud.": 196,
+    "Before this: election": 197,
+    "Mark Zuckerberg announced a smart-glasses partnership with Ray-Ban.": 198,
+    "130 people were arrested across France, including 42 in Paris.": 199,
+    "During the 1980s Iran-Iraq War, Muhandis fought on the side of Iran.": 200,
+    "ChatGPT quickly reached one million daily active users.": 201,
+    "data breach": 202,
+    "A M7.7 earthquake struck Myanmar on March 28, 2025, followed by a M6.7 aftershock.": 203,
+    "Police, parliament, prosecutors, and the anti-corruption body launched separate investigations into Yoon on treason allegations.": 204,
+    "Queen Elizabeth II died on September 8.": 205,
+    "In April 2024, Congress passed a law requiring ByteDance to divest TikTok by early 2025 or face a ban on U.S. app store distribution.": 206,
+    "The Chinese government criticized Japan’s plan to release wastewater.": 207,
+    "Fiserv announced plans to roll out a new blockchain-based digital asset platform anchored by a U.S. dollar-pegged stablecoin, FIUSD.": 208,
+    "The Taliban began a massive offensive in early May 2021.": 209,
+    "Humans ignited 97% of home-threatening wildfires in the wildland-urban interface between 1992 and 2015.": 210,
+    "President Yoon Suk Yeol was immediately suspended from exercising his powers.": 211,
+    "Australia recorded its hottest day ever on Tuesday, with an average temperature of 40.9 degrees Celsius.": 212,
+    "On June 17, 2025, the U.S. Senate passed the GENIUS Act.": 213,
+    "Mandalay General Hospital became full, stopped admitting patients, and lost power and water.": 214,
+    "The military repeatedly disputed the election results, alleging fraud and calling on the election commission to release polling data.": 215,
+    "U.S. troops left Bagram Airfield.": 216,
+    "The Conservative Party won the election.": 217,
+    "William McKinley died on Sept. 14, 1901.": 218,
+    "A man fired twice at Shinzo Abe.": 219,
+    "Myanmar’s military seized power on February 1, beginning a coup.": 220,
+    "The new 10% tariffs will go into effect on Saturday, and reciprocal rates next Wednesday.": 221,
+    "Over four million customers were without power in Texas.": 222,
+    "On August 15, 2021, the Taliban seized the presidential palace in Kabul and declared the war over.": 223,
+    "The Brazilian government struggled to contain global outrage over its environmental policies.": 224,
+    "Credit Suisse shares plunged to a record low after Saudi National Bank stated it would not invest more money.": 225,
+    "The earthquake caused significant damage and displacement across Myanmar.": 226,
+    "earthquake": 227,
+    "Baek Jae Gil performed his protest anthem for thousands outside the National Assembly in Seoul.": 228,
+    "US troops began withdrawing from Afghanistan in early July.": 229,
+    "Boris Johnson resigned on July 7.": 230,
+    "COVID-19 forced countries into lockdown.": 231,
+    "Opposition legislators filed an impeachment motion against President Yoon on Wednesday.": 232,
+    "The United Nations mobilized help for Myanmar on Friday.": 233,
+    "Iran launched ballistic missile attacks against Al Asad and Erbil air bases in Iraq used by US and coalition forces on Tuesday night.": 234,
+    "Harvey Weinstein appeared in a bathrobe and asked Ashley Judd for sexual favors.": 235,
+    "Facebook plans to change its company name to reflect its focus on the metaverse.": 236,
+    "The Conservative Party announced it would hold a leadership election within the next week.": 237,
+    "HarmonyOS development began in 2017.": 238,
+    "Credit Suisse's board rebuffed the proposal from UBS.": 239,
+    "Widespread protests erupted across the nation, including at Lafayette Square in Washington, D.C.": 240,
+    "China banned food imports from 10 Japanese prefectures and imposed radiation checks in response to the water release.": 241,
+    "The chairmen of Credit Suisse and UBS announced a union on March 19th in Bern.": 242,
+    "Police attacked protesters using stun hand grenades, tear gas, rubber bullets, vehicles, and direct projectile fire.": 243,
+    "Prime Minister Edouard Philippe announced nearly 500 million euros in aid for low-income motorists.": 244,
+    "Cameron's attempt to renegotiate the U.K.'s EU membership terms failed.": 245,
+    "Hundreds of soldiers stormed the National Assembly.": 246,
+    "Nvidia announced it is significantly increasing chip supply to meet surging demand.": 247,
+    "Schulman and colleagues used these scores in a reinforcement learning algorithm.": 248,
+    "A suicide bombing claimed by ISIS-K killed nearly 200 Afghans and 13 U.S. service members outside Kabul's airport on August 26, 2021.": 249,
+    "Richard Yu announced Harmony OS at a developer conference in Dongguan, China.": 250,
+    "In February 2021, the Court of Cassation removed Judge Sawan from the case, and Investigative Judge Tarek Bitar replaced him.": 251,
+    "The House and Senate recessed, and the Capitol was locked down.": 252,
+    "The United States enacted semiconductor export controls limiting China’s access to advanced semiconductor technologies in October 2022.": 253,
+    "Yevgeny Prigozhin recruited Deputy Defense Minister Mikhail Mizintsev in April.": 254,
+    "President Donald Trump established a national Bitcoin reserve.": 255,
+    "DeepSeek launched its V2 model, which triggered a price war in China's AI industry.": 256,
+    "In March 2023, major stablecoins like USDC experienced brief de-pegging events due to banking sector stress.": 257,
+    "The fires killed at least 24 people.": 258,
+    "OpenAI launched the DALL-E 2 beta on July 20, 2022.": 259,
+    "A woman was shot inside the Capitol and died.": 260,
+    "Credit Suisse customers withdrew over $133 billion in 2022.": 261,
+    "Dozens of fires scorched and are spreading across large swaths of the Amazon.": 262,
+    "At least 153 people were killed and dozens injured.": 263,
+    "Harvey Weinstein invited Ashley Judd to a hotel and had her sent to his room.": 264,
+    "Andrew Bosworth announced the retirement of the Oculus name.": 265,
+    "Derek Chauvin keeps his knee on George Floyd's neck for over eight minutes, including after Floyd becomes unconscious, until EMTs intervene.": 266,
+    "South Korea’s parliament voted to impeach President Yoon Suk Yeol.": 267,
+    "In November 2020, the NLD won a resounding parliamentary election victory, awarding Aung San Suu Kyi a second term.": 268,
+    "Facebook introduced a new infinity-shaped corporate logo.": 269,
+    "The U.S. State Department confirmed at least two U.S. citizens were among the dead.": 270,
+    "None of the others are correct causes.": 271,
+    "China’s foreign minister Wang Yi visited Myanmar less than three weeks before the military coup.": 272,
+    "OpenAI released ChatGPT Plus on February 1, 2023, and later introduced GPT-4 Turbo with Vision and GPT-4o to the public.": 273,
+    "DeepSeek unveiled its V3 model in December and R1 model in January.": 274,
+    "Outdoor temperatures plunged to arctic levels.": 275,
+    "The Iranian government issued an intercity travel ban and closed schools, universities, national parks, and non-essential businesses on March 26.": 276,
+    "Tens of thousands of protesters gathered outside the National Assembly in Seoul.": 277,
+    "Authorities mobilized 3,000 officers and set up a security perimeter to contain 8,000 protesters and protect government buildings in Paris.": 278,
+    "French women launched the #BalanceTonPorc social media campaign, sharing stories of aggression and harassment.": 279,
+    "Emergency workers and pedestrians performed CPR on victims in the streets on Saturday night.": 280,
+    "President Donald Trump pardoned Ross Ulbricht.": 281,
+    "Shinzo Abe returned to office in 2012 and later became the longest-serving prime minister.": 282,
+    "Regional power generators spontaneously shut down, including three coal plants and a gas plant in Corpus Christi.": 283,
+    "On January 20, 2025, President Donald Trump sought to delay enforcement of the 2024 law banning TikTok distribution, intending to work out a divestment deal.": 284,
+    "A whistleblower turned over internal Facebook documents to Congress and the U.S. Securities and Exchange Commission.": 285,
+    "Credit Suisse shareholders will receive one UBS share for every 22.48 Credit Suisse shares.": 286,
+    "A deadly crowd surge occurred in a narrow alley in Seoul's Itaewon district on Saturday night.": 287,
+    "On July 28-29, 2021, the Beirut and Tripoli Bar Associations approved Bitar’s requests to prosecute Khalil, Zeaiter, and Fenianos.": 288,
+    "227 people were injured in the protests, with six severely.": 289,
+    "Wagner forces seized control of the military headquarters in Rostov-on-Don.": 290,
+    "George Floyd died on May 25, 2020, in Minneapolis under the knee of a White police officer.": 291,
+    "Taliban fighters spread across Kabul streets, riding motorbikes and driving seized police vehicles and Humvees.": 292,
+    "Congress confirmed Biden as president in the early hours of January 7th.": 293,
+    "Germany and Norway withheld tens of millions of dollars from the Amazon Fund.": 294,
+    "President Trump reversed his plan to raise tariffs on Canadian steel and aluminum imports.": 295,
+    "Australia's military deployed ships and aircraft to rescue thousands trapped by fires.": 296,
+    "Scientific journals, including Springer Nature and Elsevier, updated author guidelines to prohibit LLMs as authors and require documentation of their use.": 297,
+    "Supporters stormed the U.S. Capitol.": 298,
+    "The WHO was notified of a cluster of unusual pneumonia cases in Wuhan City, China on Dec. 31.": 299,
+    "Thousands of volunteers from Lebanon and its diaspora cleared rubble, offered accommodation, and repaired homes in affected areas after the explosion.": 300,
+    "Russian military helicopters opened fire on the Wagner convoy.": 301
+  },
+  "relations": {
+    "causes": 0,
+    "enables": 1,
+    "prevents": 2,
+    "leads_to": 3,
+    "results_in": 4,
+    "is_caused_by": 5,
+    "happens_before": 6,
+    "happens_after": 7
+  },
+  "triples": [
+    [
+      1,
+      0,
+      0
+    ],
+    [
+      0,
+      5,
+      1
+    ],
+    [
+      9,
+      0,
+      8
+    ],
+    [
+      8,
+      5,
+      9
+    ],
+    [
+      9,
+      0,
+      10
+    ],
+    [
+      10,
+      5,
+      9
+    ],
+    [
+      14,
+      0,
+      13
+    ],
+    [
+      13,
+      5,
+      14
+    ],
+    [
+      15,
+      0,
+      13
+    ],
+    [
+      13,
+      5,
+      15
+    ],
+    [
+      16,
+      0,
+      13
+    ],
+    [
+      13,
+      5,
+      16
+    ],
+    [
+      17,
+      0,
+      13
+    ],
+    [
+      13,
+      5,
+      17
+    ],
+    [
+      9,
+      0,
+      21
+    ],
+    [
+      21,
+      5,
+      9
+    ],
+    [
+      23,
+      0,
+      22
+    ],
+    [
+      22,
+      5,
+      23
+    ],
+    [
+      9,
+      0,
+      24
+    ],
+    [
+      24,
+      5,
+      9
+    ],
+    [
+      15,
+      0,
+      36
+    ],
+    [
+      36,
+      5,
+      15
+    ],
+    [
+      16,
+      0,
+      36
+    ],
+    [
+      36,
+      5,
+      16
+    ],
+    [
+      17,
+      0,
+      36
+    ],
+    [
+      36,
+      5,
+      17
+    ],
+    [
+      9,
+      0,
+      40
+    ],
+    [
+      40,
+      5,
+      9
+    ],
+    [
+      9,
+      0,
+      53
+    ],
+    [
+      53,
+      5,
+      9
+    ],
+    [
+      14,
+      0,
+      60
+    ],
+    [
+      60,
+      5,
+      14
+    ],
+    [
+      69,
+      0,
+      68
+    ],
+    [
+      68,
+      5,
+      69
+    ],
+    [
+      14,
+      0,
+      70
+    ],
+    [
+      70,
+      5,
+      14
+    ],
+    [
+      9,
+      0,
+      82
+    ],
+    [
+      82,
+      5,
+      9
+    ],
+    [
+      14,
+      0,
+      98
+    ],
+    [
+      98,
+      5,
+      14
+    ],
+    [
+      16,
+      0,
+      100
+    ],
+    [
+      100,
+      5,
+      16
+    ],
+    [
+      9,
+      0,
+      102
+    ],
+    [
+      102,
+      5,
+      9
+    ],
+    [
+      1,
+      0,
+      104
+    ],
+    [
+      104,
+      5,
+      1
+    ],
+    [
+      9,
+      0,
+      111
+    ],
+    [
+      111,
+      5,
+      9
+    ],
+    [
+      9,
+      0,
+      117
+    ],
+    [
+      117,
+      5,
+      9
+    ],
+    [
+      14,
+      0,
+      118
+    ],
+    [
+      118,
+      5,
+      14
+    ],
+    [
+      14,
+      0,
+      123
+    ],
+    [
+      123,
+      5,
+      14
+    ],
+    [
+      124,
+      0,
+      123
+    ],
+    [
+      123,
+      5,
+      124
+    ],
+    [
+      1,
+      0,
+      125
+    ],
+    [
+      125,
+      5,
+      1
+    ],
+    [
+      9,
+      0,
+      129
+    ],
+    [
+      129,
+      5,
+      9
+    ],
+    [
+      14,
+      0,
+      130
+    ],
+    [
+      130,
+      5,
+      14
+    ],
+    [
+      137,
+      0,
+      136
+    ],
+    [
+      136,
+      5,
+      137
+    ],
+    [
+      142,
+      0,
+      141
+    ],
+    [
+      141,
+      5,
+      142
+    ],
+    [
+      14,
+      0,
+      157
+    ],
+    [
+      157,
+      5,
+      14
+    ],
+    [
+      9,
+      0,
+      172
+    ],
+    [
+      172,
+      5,
+      9
+    ],
+    [
+      174,
+      0,
+      173
+    ],
+    [
+      173,
+      5,
+      174
+    ],
+    [
+      9,
+      0,
+      178
+    ],
+    [
+      178,
+      5,
+      9
+    ],
+    [
+      9,
+      0,
+      187
+    ],
+    [
+      187,
+      5,
+      9
+    ],
+    [
+      190,
+      0,
+      189
+    ],
+    [
+      189,
+      5,
+      190
+    ],
+    [
+      197,
+      0,
+      196
+    ],
+    [
+      196,
+      5,
+      197
+    ],
+    [
+      202,
+      0,
+      201
+    ],
+    [
+      201,
+      5,
+      202
+    ],
+    [
+      174,
+      0,
+      203
+    ],
+    [
+      203,
+      5,
+      174
+    ],
+    [
+      9,
+      0,
+      207
+    ],
+    [
+      207,
+      5,
+      9
+    ],
+    [
+      142,
+      0,
+      208
+    ],
+    [
+      208,
+      5,
+      142
+    ],
+    [
+      69,
+      0,
+      210
+    ],
+    [
+      210,
+      5,
+      69
+    ],
+    [
+      197,
+      0,
+      215
+    ],
+    [
+      215,
+      5,
+      197
+    ],
+    [
+      197,
+      0,
+      217
+    ],
+    [
+      217,
+      5,
+      197
+    ],
+    [
+      9,
+      0,
+      224
+    ],
+    [
+      224,
+      5,
+      9
+    ],
+    [
+      227,
+      0,
+      226
+    ],
+    [
+      226,
+      5,
+      227
+    ],
+    [
+      174,
+      0,
+      226
+    ],
+    [
+      226,
+      5,
+      174
+    ],
+    [
+      142,
+      0,
+      234
+    ],
+    [
+      234,
+      5,
+      142
+    ],
+    [
+      197,
+      0,
+      237
+    ],
+    [
+      237,
+      5,
+      197
+    ],
+    [
+      142,
+      0,
+      259
+    ],
+    [
+      259,
+      5,
+      142
+    ],
+    [
+      197,
+      0,
+      268
+    ],
+    [
+      268,
+      5,
+      197
+    ],
+    [
+      9,
+      0,
+      276
+    ],
+    [
+      276,
+      5,
+      9
+    ],
+    [
+      9,
+      0,
+      278
+    ],
+    [
+      278,
+      5,
+      9
+    ],
+    [
+      142,
+      0,
+      279
+    ],
+    [
+      279,
+      5,
+      142
+    ]
+  ]
+}
