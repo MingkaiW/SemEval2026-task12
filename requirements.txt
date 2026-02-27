@@ -1,0 +1,18 @@
+# Core NLP / ML libraries
+torch>=2.0.0
+transformers>=4.30.0
+datasets>=2.12.0
+numpy>=1.24.0
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Data handling
+pandas>=2.0.0
+tqdm>=4.65.0
+
+# Evaluation
+evaluate>=0.4.0
+
+# Utilities
+pyyaml>=6.0
+jsonlines>=3.1.0
